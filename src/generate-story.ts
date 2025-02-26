@@ -20,6 +20,10 @@ const READING_LEVEL = '2nd Grade';
 
 (async function run() {
 
+  console.log('Generating a new story...');
+  console.log(`- Language: ${LANGUAGE}`);
+  console.log(`- Reading LEvel: ${READING_LEVEL}`);
+
   const message = await anthropic.messages.create({
     model: "claude-3-5-sonnet-20241022",
     max_tokens: 8192,
@@ -104,11 +108,17 @@ additional commentary.
   const {content: [result]} = message;
 
   if ( result.type === 'text' && result.text ) {
+    console.log('Successfully generated story.');
+
     await resend.emails.send({
       from: `Language Story <${process.env.MAIL_FROM}>`,
       to: [String(process.env.MAIL_TO)],
       subject: `${LANGUAGE} Story of the Day`,
       html: result.text,
     });
+
+    console.log('Story mailed to recipient.');
+  } else {
+    console.log('Invalid response.');
   }
 })();

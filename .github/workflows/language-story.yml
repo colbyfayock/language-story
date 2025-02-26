@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  daily-task:
+  language-story:
     runs-on: ubuntu-latest
 
     steps:
