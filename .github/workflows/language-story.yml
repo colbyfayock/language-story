@@ -1,0 +1,30 @@
+name: Language Story
+
+on:
+  schedule:
+    - cron: '0 14 * * *' # 9:00am EST (14:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  daily-task:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+      
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Script
+        run: npm run generate-story
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
