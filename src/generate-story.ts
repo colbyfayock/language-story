@@ -22,7 +22,7 @@ const READING_LEVEL = '2nd Grade';
 
   console.log('Generating a new story...');
   console.log(`- Language: ${LANGUAGE}`);
-  console.log(`- Reading LEvel: ${READING_LEVEL}`);
+  console.log(`- Reading Level: ${READING_LEVEL}`);
 
   const message = await anthropic.messages.create({
     model: "claude-3-5-sonnet-20241022",
