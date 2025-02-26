@@ -1,0 +1,17 @@
+{
+  "name": "language-story",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate-story": "tsx src/generate-story.ts"
+  },
+  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "license": "MIT",
+  "description": "Generate and email a short story in another language every day!",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.37.0",
+    "dotenv": "^16.4.7",
+    "resend": "^4.1.2",
+    "tsx": "^4.19.3"
+  }
+}
