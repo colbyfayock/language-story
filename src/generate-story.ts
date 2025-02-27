@@ -2,6 +2,8 @@ import Anthropic from '@anthropic-ai/sdk';
 import { Resend } from 'resend';
 import dotenv from 'dotenv';
 
+import { config } from '../story.config';
+
 dotenv.config();
 
 if (typeof process.env.MAIL_TO !== 'string' ) {
@@ -15,14 +17,12 @@ if (typeof process.env.MAIL_FROM !== 'string' ) {
 const resend = new Resend(process.env.RESEND_API_KEY);
 const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
-const LANGUAGE = 'Brazilian Portuguese';
-const READING_LEVEL = '2nd Grade';
-
 (async function run() {
 
   console.log('Generating a new story...');
-  console.log(`- Language: ${LANGUAGE}`);
-  console.log(`- Reading Level: ${READING_LEVEL}`);
+  console.log(`- Target Language: ${config.language}`);
+  console.log(`- Native Language: ${config.languageNative}`);
+  console.log(`- Reading Level: ${config.readingLevel}`);
 
   const message = await anthropic.messages.create({
     model: "claude-3-5-sonnet-20241022",
@@ -42,28 +42,36 @@ Your goal is to create an engaging narrative that supports language acquisition.
 Here are the key elements you'll be working with:
 
 <target_language>
-${LANGUAGE}
+${config.language}
 </target_language>
 
+<native_language>
+${config.languageNative}
+</native_language>
+
 <reading_level>
-${READING_LEVEL}
+${config.readingLevel}
 </reading_level>
 
 Follow these guidelines to create an effective language learning story:
 
-1. Write the story primarily in the target language. Include both a version in the target
-language and a follow-up in English.
+1. Write the story primarily in the <target_language>. Include both a version in the
+<target_language> and a follow-up in the <native_language> to compare.
 
-2. Adjust the complexity of the story based on the specified reading level. For beginners,
-use simple sentence structures and common vocabulary. For intermediate or advanced levels,
-incorporate more complex grammar and varied vocabulary.
+2. Adjust the complexity of the story based on the reading level defined as <reading_level>.
+For beginners, use simple sentence structures and common vocabulary. For intermediate or
+advanced levels, incorporate more complex grammar and varied vocabulary.
 
 3. Center the story around an age appropriate topic, ensuring it's relatable and interesting to 
-language learners.
+language learners. Can be from a variety of topics, including children's stories,
+science, technology, space, and other common movie themes. As appropriate, use references
+and cultural themes presend in <target_language>.
 
-4. Keep the story concise, aiming for 150-300 words depending on the reading level.
+4. Keep the story concise, aiming for 150-500 words depending on the reading level.
 
-5. Use repetition of key phrases or grammar structures to reinforce learning.
+5. Use repetition of key phrases or grammar structures to reinforce learning. Include one primary
+key phrase that is used in the story. The primary key phrase should be a common phrase or expression
+used in the <target_language>. 
 
 6. Include dialogue to showcase conversational language use when appropriate.
 
@@ -86,10 +94,14 @@ Your final output will be sent as an email. It should be structured in basic HTM
   <li>(Your planning notes here as bullets, including reading level)</li>
 </ul>
 
-<h2>Story (${LANGUAGE})</h2>
+<h2>Key Phrase</h2>
+<p>(Your primary key phrase in <target_language> that will be used in the story
+along with the translation in <native_language>)</p>
+
+<h2>Story (${config.language})</h2>
 <p>(Your short story here, as a new paragraph for each line to the story)</p>
 
-<h2>Story (English)</h2>
+<h2>Story (${config.languageNative})</h2>
 <p>(Your short story translation here, as a new paragraph for each line to the story)</p>
 
 <h2>Language Learning Elements</h2>
@@ -113,7 +125,7 @@ additional commentary.
     await resend.emails.send({
       from: `Language Story <${process.env.MAIL_FROM}>`,
       to: [String(process.env.MAIL_TO)],
-      subject: `${LANGUAGE} Story of the Day`,
+      subject: `${config.language} Story of the Day`,
       html: result.text,
     });
 
