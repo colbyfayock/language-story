@@ -16,13 +16,15 @@ Language Story is primarily based on GitHub Actions which require only a few ste
 To add your environment variables, navigate to your repository Settings, Secrets and
 variables, then Actions and add the following Secrets:
 
-| Name              | Example          |
-| ----------------- | ---------------- |
-| ANTHROPIC_API_KEY | abc1234          |
-| ELEVENLABS_API_KEY| abc1234          |
-| MAIL_FROM         | from@example.com |
-| MAIL_TO           | to@example.com   |
-| RESEND_API_KEY    | abc1234          |
+| Name              | Required | Example          |
+| ----------------- | -------- | ---------------- |
+| ANTHROPIC_API_KEY | Yes      | abc1234          |
+| ELEVENLABS_API_KEY| No       | abc1234          |
+| MAIL_FROM         | Yes      | from@example.com |
+| MAIL_TO           | Yes      | to@example.com   |
+| RESEND_API_KEY    | Yes      | abc1234          |
+
+If `ELEVENLABS_API_KEY` is not configured, it will skip generating audio.
 
 To configure Actions permissions, navigate to Settings, Actions, then find the Workflow Permissions to configure Read & Write.
 
