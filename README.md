@@ -10,6 +10,7 @@ Language Story is primarily based on GitHub Actions which require only a few ste
 
 - Clone or fork this repository
 - Add environment variables in your repository configuration
+- Configure Actions permissions to allow both Read and Write
 - Wait for your first story!
 
 To add your environment variables, navigate to your repository Settings, Secrets and
@@ -22,6 +23,8 @@ variables, then Actions and add the following Secrets:
 | MAIL_FROM         | from@example.com |
 | MAIL_TO           | to@example.com   |
 | RESEND_API_KEY    | abc1234          |
+
+To configure Actions permissions, navigate to Settings, Actions, then find the Workflow Permissions to configure Read & Write.
 
 ## How it Works
 
