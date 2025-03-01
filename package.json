@@ -11,6 +11,8 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.37.0",
     "dotenv": "^16.4.7",
+    "elevenlabs": "^1.52.0",
+    "marked": "^15.0.7",
     "resend": "^4.1.2",
     "tsx": "^4.19.3"
   }

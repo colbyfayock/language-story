@@ -2,7 +2,7 @@ name: Language Story
 
 on:
   schedule:
-    - cron: '0 14 * * *' # 9:00am EST (14:00 UTC)
+    - cron: '0 13 * * *' # 8:00am EST
   workflow_dispatch:
 
 jobs:
@@ -24,7 +24,13 @@ jobs:
       - name: Run Script
         run: npm run generate-story
         env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
+
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: 'main'

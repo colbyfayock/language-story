@@ -1,8 +1,8 @@
-# Language Story
+# 📚 Language Story
 
 A story a day to help you learn a new language.
 
-Powered by Claude, Resend, and GitHub Actions.
+Powered by Claude, ElevenLabs, Resend, and GitHub Actions.
 
 ## Getting Started
 
@@ -18,13 +18,14 @@ variables, then Actions and add the following Secrets:
 | Name              | Example          |
 | ----------------- | ---------------- |
 | ANTHROPIC_API_KEY | abc1234          |
+| ELEVENLABS_API_KEY| abc1234          |
 | MAIL_FROM         | from@example.com |
 | MAIL_TO           | to@example.com   |
 | RESEND_API_KEY    | abc1234          |
 
 ## How it Works
 
-This project uses GitHub Actions, Claude, and Resend to automatically send you a new short
+This project uses GitHub Actions, Claude, ElevenLabs, and Resend to automatically send you a new short
 story every day or in the configured timeframe.
 
 GitHub Actions are used to coordinate triggering a script using cron syntax.
@@ -34,6 +35,8 @@ how the story will be created.
 
 Anthropic's Claude is used along with the configurations to generate a new story
 based on a set of themes in the target language from scratch.
+
+ElevenLabs is used to generate an audio version of the story for listening comprehension.
 
 Once the story has been written, Resend is used email the output to the email of your choice.
 
@@ -47,6 +50,10 @@ should be generated.
 | language        | Language story should be generated in.       | Brazilian Portuguese  |
 | languageNative  | Learner's native language.                   | English               |
 | readingLevel    | Difficulty and complexity level of the story.| 4th Grade             | 
+| anthropicModelId| ID of the Anthropic model to use.            | claude-3-5-sonnet-20241022 |
+| elevenlabsModelId| ID of the ElevenLabs model to use.          | eleven_multilingual_v2 |
+| elevenlabsVoiceId| ID of the ElevenLabs voice to use.          | JBFqnCBsd6RMkjVDRZzb  |
+| maxStoryHistory | How many stories should be kept for generation context. | 50         |
 
 ## Running Locally
 
