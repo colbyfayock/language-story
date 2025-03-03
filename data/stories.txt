@@ -1,3 +1,12 @@
+Theme: Beach day
+Key phrase: "Vamos brincar na praia!"
+Keywords: praia, areia, concha, nadar, castelo
+Cultural elements: Brazilian beach activities
+Grammar focus: Present tense, basic dialogue
+Setting: Beach
+Characters: Sofia, Pedro
+Learning goal: Beach vocabulary and outdoor activity interactions
+---
 Theme: Park visit
 Key phrase: "Que legal brincar no parque!"
 Keywords: parque, brincar, balanço, amigos, diversão
