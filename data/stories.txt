@@ -1,3 +1,12 @@
+Theme: Grocery shopping
+Key phrase: "Vamos fazer compras!"
+Keywords: mercado, frutas, compras, carrinho, lista
+Cultural elements: Brazilian fruit markets
+Grammar focus: Present tense, numbers, basic dialogue
+Setting: Local market
+Characters: Ana, mother
+Learning goal: Shopping vocabulary and counting practice
+---
 Theme: Beach day
 Key phrase: "Vamos brincar na praia!"
 Keywords: praia, areia, concha, nadar, castelo
