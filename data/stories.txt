@@ -1,3 +1,12 @@
+Theme: Doctor's visit
+Key phrase: "Vou te examinar agora!"
+Keywords: médico, consulta, enfermeira, remédio, sala de espera
+Cultural elements: Brazilian healthcare interactions
+Grammar focus: Present tense, basic dialogue
+Setting: Doctor's office
+Characters: Pedro, Dr. Ana, Nurse Maria
+Learning goal: Medical vocabulary and healthcare interactions
+---
 Theme: Family dinner at restaurant
 Key phrase: "Vamos pedir o jantar!"
 Keywords: restaurante, cardápio, garçom, comida, jantar
