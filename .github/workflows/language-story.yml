@@ -16,13 +16,18 @@ jobs:
       - name: Set Up Node
         uses: actions/setup-node@v4
         with:
-          node-version: 'latest'
+          node-version: 20
+
+      - name: Set Up PNPM
+        uses: pnpm/action-setup@v2
+        with:
+          version: 10
       
       - name: Install Dependencies
-        run: npm install
+        run: pnpm install
 
       - name: Run Script
-        run: npm run generate-story
+        run: pnpm generate-story
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}

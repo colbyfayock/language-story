@@ -1,3 +1,12 @@
+Theme: Zoo visit
+Key phrase: "Quero ver os animais!"
+Keywords: zoológico, animais, leão, elefante, jaula
+Cultural elements: Brazilian zoos and animal names
+Grammar focus: Present tense, basic dialogue
+Setting: Zoo
+Characters: Marina, Gabriel
+Learning goal: Animal vocabulary and basic interactions
+---
 Theme: Doctor's visit
 Key phrase: "Vou te examinar agora!"
 Keywords: médico, consulta, enfermeira, remédio, sala de espera

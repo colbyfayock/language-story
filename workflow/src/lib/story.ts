@@ -5,7 +5,6 @@ import { anthropic } from './anthropic';
 import { elevenlabs } from './elevenlabs';
 import { config } from './config';
 
-
 export interface StorySegment {
   id?: string;
   title?: string;

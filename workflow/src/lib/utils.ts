@@ -1,7 +1,7 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 
-const STORY_PATH = path.join(process.cwd(), 'data/stories.txt');
+const STORY_PATH = path.join(__dirname, '../../../data/stories.txt');
 
 export async function readStoryData() {
   return await fs.readFile(STORY_PATH, 'utf8');
