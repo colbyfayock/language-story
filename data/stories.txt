@@ -1,3 +1,12 @@
+Theme: Camping trip
+Key phrase: "Vamos acampar na floresta!"
+Keywords: barraca, fogueira, lanterna, floresta, trilha
+Cultural elements: Brazilian outdoor activities
+Grammar focus: Present tense, basic dialogue
+Setting: Forest
+Characters: Luiza, father
+Learning goal: Outdoor and camping vocabulary with nature interactions
+---
 Theme: Zoo visit
 Key phrase: "Quero ver os animais!"
 Keywords: zoológico, animais, leão, elefante, jaula
