@@ -1,7 +1,8 @@
+import path from 'path';
 import dotenv from 'dotenv';
 import { Resend } from 'resend';
 
-dotenv.config();
+dotenv.config({ path: path.resolve(__dirname, '../../../.env') });
 
 const apiKey = process.env.RESEND_API_KEY;
 

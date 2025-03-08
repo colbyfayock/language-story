@@ -1,4 +1,4 @@
-import { config as storyConfig } from '../../story.config';
+import { config as storyConfig } from '../../../story.config';
 
 export interface Config {
   language: string;
