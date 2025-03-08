@@ -1,3 +1,12 @@
+Theme: School science fair
+Key phrase: "Vamos fazer um experimento!"
+Keywords: projeto, ciência, experimento, turma, professor
+Cultural elements: Brazilian school activities
+Grammar focus: Present tense, basic dialogue
+Setting: School classroom
+Characters: João, Clara, Teacher Beatriz
+Learning goal: Science and school vocabulary with classroom interactions
+---
 Theme: Camping trip
 Key phrase: "Vamos acampar na floresta!"
 Keywords: barraca, fogueira, lanterna, floresta, trilha
