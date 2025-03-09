@@ -1,3 +1,12 @@
+Theme: Art exhibition
+Key phrase: "Vamos mostrar nossa arte!"
+Keywords: pintar, quadro, cores, exposição, artista
+Cultural elements: Brazilian art appreciation and school exhibitions
+Grammar focus: Present tense, descriptive adjectives
+Setting: School
+Characters: Carla, Teacher Rosa
+Learning goal: Art vocabulary and exhibition interactions
+---
 Theme: School science fair
 Key phrase: "Vamos fazer um experimento!"
 Keywords: projeto, ciência, experimento, turma, professor
