@@ -1,3 +1,12 @@
+Theme: Cooking with family
+Key phrase: "Vamos cozinhar juntos!"
+Keywords: cozinha, receita, misturar, colher, delicioso
+Cultural elements: Brazilian family cooking traditions
+Grammar focus: Present tense, simple commands
+Setting: Home kitchen
+Characters: Sofia, grandmother
+Learning goal: Cooking vocabulary and family interactions
+---
 Theme: Public garden visit
 Key phrase: "Que lindo jardim florido!"
 Keywords: jardim, borboletas, flores, banco, passeio
