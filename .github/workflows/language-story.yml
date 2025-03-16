@@ -16,6 +16,8 @@ jobs:
       - run: biome ci
 
   language-story:
+    needs: checks
+
     runs-on: ubuntu-latest
 
     steps:
