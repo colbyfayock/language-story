@@ -1,3 +1,75 @@
+Theme: Ice cream shop visit
+Key phrase: "Qual sabor você quer?"
+Keywords: sorveteria, sabores, casquinha, sorvete, fila
+Cultural elements: Brazilian ice cream shops and flavors
+Grammar focus: Present tense, simple dialogue
+Setting: Ice cream shop
+Characters: Felipe, Maria
+Learning goal: Food vocabulary and ordering interactions
+---
+Theme: First day at sports club
+Key phrase: "Vamos treinar juntos hoje!"
+Keywords: treino, uniforme, instrutor, horário, esporte
+Cultural elements: Brazilian sports clubs and social interactions
+Grammar focus: Present tense, simple dialogue
+Setting: Sports club
+Characters: Marcos, João (instructor), Ana
+Learning goal: Sports vocabulary and social interactions in a new environment
+---
+Theme: Cooking with family
+Key phrase: "Vamos cozinhar juntos!"
+Keywords: cozinha, receita, misturar, colher, delicioso
+Cultural elements: Brazilian family cooking traditions
+Grammar focus: Present tense, simple commands
+Setting: Home kitchen
+Characters: Sofia, grandmother
+Learning goal: Cooking vocabulary and family interactions
+---
+Theme: Public garden visit
+Key phrase: "Que lindo jardim florido!"
+Keywords: jardim, borboletas, flores, banco, passeio
+Cultural elements: Brazilian public gardens and nature appreciation
+Grammar focus: Present tense, descriptive adjectives
+Setting: Public garden
+Characters: Beatriz, grandmother
+Learning goal: Nature vocabulary and outdoor appreciation interactions
+---
+Theme: Rainy day activities
+Key phrase: "Está chovendo lá fora!"
+Keywords: chuva, guarda-chuva, janela, jogo, história
+Cultural elements: Brazilian indoor activities and family relationships
+Grammar focus: Present tense, weather expressions
+Setting: Grandmother's house
+Characters: Ana, grandmother
+Learning goal: Weather vocabulary and indoor activity interactions
+---
+Theme: School book fair
+Key phrase: "Vamos descobrir novos livros!"
+Keywords: feira, aventura, piratas, tesouro, divertido
+Cultural elements: Brazilian school book fairs
+Grammar focus: Present tense, simple dialogue
+Setting: School library
+Characters: Lucas, Teresa, teacher
+Learning goal: Book and reading vocabulary with library interactions
+---
+Theme: School talent show
+Key phrase: "Vamos tocar uma música!"
+Keywords: violão, flauta, palco, ensaiar, melodia
+Cultural elements: Brazilian music and school performances
+Grammar focus: Present tense, simple dialogue
+Setting: School
+Characters: Pedro, Julia, Teacher Diana
+Learning goal: Music vocabulary and performance interactions
+---
+Theme: Art exhibition
+Key phrase: "Vamos mostrar nossa arte!"
+Keywords: pintar, quadro, cores, exposição, artista
+Cultural elements: Brazilian art appreciation and school exhibitions
+Grammar focus: Present tense, descriptive adjectives
+Setting: School
+Characters: Carla, Teacher Rosa
+Learning goal: Art vocabulary and exhibition interactions
+---
 Theme: School science fair
 Key phrase: "Vamos fazer um experimento!"
 Keywords: projeto, ciência, experimento, turma, professor
