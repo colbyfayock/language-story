@@ -1,0 +1,52 @@
+{
+  "$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
+  "vcs": {
+    "enabled": false,
+    "clientKind": "git",
+    "useIgnoreFile": false
+  },
+  "files": {
+    "include": [
+      "app/**/*.js",
+      "app/**/*.jsx",
+      "app/**/*.ts",
+      "app/**/*.tsx",
+      "workflow/**/*.js",
+      "workflow/**/*.ts",
+      "workflow/**/*.jsx",
+      "workflow/**/*.tsx",
+      "data/**/*.ts"
+    ],
+    "ignoreUnknown": false,
+    "ignore": [".env", ".react-router", "node_modules", ".next", "*.yaml"]
+  },
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space"
+  },
+  "organizeImports": {
+    "enabled": true
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "recommended": true,
+      "correctness": {
+        "noUnusedImports": "warn",
+        "noUnusedVariables": "warn"
+      },
+      "nursery": {
+        "useSortedClasses": {
+          "level": "warn",
+          "fix": "safe",
+          "options": {}
+        }
+      }
+    }
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "double"
+    }
+  }
+}

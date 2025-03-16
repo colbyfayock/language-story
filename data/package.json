@@ -1,0 +1,13 @@
+{
+  "name": "@language-story/data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "license": "MIT",
+  "description": "Generate and email a short story in another language every day!",
+  "dependencies": {
+    "drizzle-orm": "^0.40.0",
+    "locale-codes": "^1.3.1"
+  }
+}

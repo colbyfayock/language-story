@@ -1,4 +1,4 @@
-import type { Config } from './src/lib/config';
+import type { Config } from './workflow/src/lib/config';
 
 export const config: Config = {
   language: 'Brazilian Portuguese',

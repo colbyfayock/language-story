@@ -1,9 +1,8 @@
+import { marked } from "marked";
 
-import { marked } from 'marked';
-
-import { anthropic } from './anthropic';
-import { elevenlabs } from './elevenlabs';
-import { config } from './config';
+import { anthropic } from "./anthropic";
+import { config } from "./config";
+import { elevenlabs } from "./elevenlabs";
 
 export interface StorySegment {
   id?: string;
@@ -12,16 +11,16 @@ export interface StorySegment {
 }
 
 const SECTIONS_MAP: Record<string, string> = {
-  scratchpad: 'Scratchpad',
-  key_phrase: 'Key Phrase',
+  scratchpad: "Scratchpad",
+  key_phrase: "Key Phrase",
   story_target_language: `Story (${config.language})`,
   story_native_language: `Story (${config.languageNative})`,
-  exercises: 'Exercises',
-  learning_elements: 'Language Learning Elements',
-  context: 'Context',
+  exercises: "Exercises",
+  learning_elements: "Language Learning Elements",
+  context: "Context",
 };
 
-export const isAudioEnabled = typeof elevenlabs !== 'undefined';
+export const isAudioEnabled = typeof elevenlabs !== "undefined";
 
 /**
  * generateStory
@@ -38,11 +37,11 @@ export async function generateStory({ context }: GenerateStoryOptions) {
     temperature: 1,
     messages: [
       {
-        "role": "user",
-        "content": [
+        role: "user",
+        content: [
           {
-            "type": "text",
-            "text": `
+            type: "text",
+            text: `
 You are tasked with creating a short story to help learners practice a new language.
 The story should be tailored to a specific reading level in a topic appropriate for that age.
 Your goal is to create an engaging narrative that supports language acquisition.
@@ -142,17 +141,19 @@ along with the translation in <native_language>)
 Remember, your final output should include only the Scratchpad, Story, and
 Language Learning Elements sections. Do not repeat these instructions or include any
 additional commentary.
-            `
-          }
-        ]
-      }
-    ]
+            `,
+          },
+        ],
+      },
+    ],
   });
-  
-  const {content: [result]} = message;
 
-  if ( result?.type !== 'text' ) {
-    throw new Error('Invalid result type.');
+  const {
+    content: [result],
+  } = message;
+
+  if (result?.type !== "text") {
+    throw new Error("Invalid result type.");
   }
 
   return result?.text;
@@ -166,18 +167,23 @@ interface GetAudioStoryOptions {
   text: string;
 }
 
-export async function getAudioStory({ text }: GetAudioStoryOptions): Promise<Buffer<ArrayBuffer>> {
-  if ( !isAudioEnabled || !elevenlabs ) {
-    throw new Error('Audio is not enabled.');
+export async function getAudioStory({
+  text,
+}: GetAudioStoryOptions): Promise<Buffer> {
+  if (!isAudioEnabled || !elevenlabs) {
+    throw new Error("Audio is not enabled.");
   }
 
-  const sanitized = text.replace(/\n+/g, ' ');
+  const sanitized = text.replace(/\n+/g, " ");
 
-  const audioStream = await elevenlabs.textToSpeech.convertAsStream(config.elevenlabsVoiceId, {
-    text: sanitized,
-    model_id: config.elevenlabsModelId,
-    output_format: 'mp3_44100_128',
-  });
+  const audioStream = await elevenlabs.textToSpeech.convertAsStream(
+    config.elevenlabsVoiceId,
+    {
+      text: sanitized,
+      model_id: config.elevenlabsModelId,
+      output_format: "mp3_44100_128",
+    },
+  );
 
   const chunks: Buffer[] = [];
 
@@ -188,25 +194,22 @@ export async function getAudioStory({ text }: GetAudioStoryOptions): Promise<Buf
   return Buffer.concat(chunks);
 }
 
-
 /**
  * resultToStorySegments
  */
 
 export function resultToStorySegments(text: string): Array<StorySegment> {
-  return text
-    .split('---')
-    .map(segment => {
-      const lines = segment.trim().split('\n');
-      const id = lines.shift()?.replace('# ', '');
-      const content = lines.join('\n');
-      const title = id ? SECTIONS_MAP[id] : 'More';
-      return {
-        title,
-        id,
-        content
-      }
-    });
+  return text.split("---").map((segment) => {
+    const lines = segment.trim().split("\n");
+    const id = lines.shift()?.replace("# ", "");
+    const content = lines.join("\n");
+    const title = id ? SECTIONS_MAP[id] : "More";
+    return {
+      title,
+      id,
+      content,
+    };
+  });
 }
 
 /**
@@ -217,14 +220,18 @@ interface StorySegmentsToHTMLOptions {
   exclude?: Array<string>;
 }
 
-export function storySegmentsToHTML(segments: Array<StorySegment>, options: StorySegmentsToHTMLOptions = {}) {
+export function storySegmentsToHTML(
+  segments: Array<StorySegment>,
+  options: StorySegmentsToHTMLOptions = {},
+) {
   const { exclude } = options;
   return segments
-    .filter(({ id }) => id && exclude ? !exclude.includes(id) : true)
-    .map(segment => {
-    return `
+    .filter(({ id }) => (id && exclude ? !exclude.includes(id) : true))
+    .map((segment) => {
+      return `
 <h2>${segment.title}</h2>
-${segment.content ? marked(segment.content) : ''}
+${segment.content ? marked(segment.content) : ""}
     `;
-  }).join('')
+    })
+    .join("");
 }
