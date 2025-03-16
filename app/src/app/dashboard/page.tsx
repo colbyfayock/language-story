@@ -1,12 +1,12 @@
-import { headers } from "next/headers";
 import { auth } from "@clerk/nextjs/server";
+import { headers } from "next/headers";
 
 import Container from "@/components/Container";
 import FormPreferences from "@/components/FormPreferences";
 
-import type { Language } from '@language-story/data/types';
-import { LANGUAGES } from '@language-story/data/constants';
 import { getPreferencesAction } from "@/app/actions";
+import { LANGUAGES } from "@language-story/data/constants";
+import type { Language } from "@language-story/data/types";
 
 export default async function Dashboard() {
   const { userId } = await auth();
@@ -26,7 +26,7 @@ export default async function Dashboard() {
 
   return (
     <Container>
-      <h1 className="font-bold text-3xl mb-6">Dashboard</h1>
+      <h1 className="mb-6 font-bold text-3xl">Dashboard</h1>
       <FormPreferences
         browserLanguage={browserLanguage}
         userPreferences={userPreferences}

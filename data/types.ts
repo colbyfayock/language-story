@@ -1,5 +1,5 @@
-import type { Preferences } from "./db/schema";
 import type { LANGUAGES, READING_LEVELS } from "./constants";
+import type { Preferences } from "./db/schema";
 
 export type Language = (typeof LANGUAGES)[number];
 

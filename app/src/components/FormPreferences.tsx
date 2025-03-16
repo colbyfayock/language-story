@@ -1,17 +1,20 @@
 "use client";
 
-import { useRef, type FormEvent } from "react";
+import { type FormEvent, useRef } from "react";
 import { toast } from "react-hot-toast";
 
-import type { UserPreferences, Language } from "@language-story/data/types";
+import type { Language, UserPreferences } from "@language-story/data/types";
 
-import { LANGUAGES_WITH_LABELS, READING_LEVELS } from '@language-story/data/constants';
+import {
+  LANGUAGES_WITH_LABELS,
+  READING_LEVELS,
+} from "@language-story/data/constants";
 
+import { updatePreferencesAction } from "@/app/actions";
 import {
   getDefaultLanguageNative,
   getDefaultLanguageTarget,
 } from "@/lib/language";
-import { updatePreferencesAction } from "@/app/actions";
 
 interface FormPreferencesProps {
   className?: string;
@@ -113,7 +116,7 @@ const FormPreferences = ({
       <p className="mt-6">
         <button
           type="submit"
-          className="inline-block px-5 py-3 bg-blue-500 text-white font-bold rounded cursor-pointer"
+          className="inline-block cursor-pointer rounded bg-blue-500 px-5 py-3 font-bold text-white"
         >
           {userPreferences ? "Update Story" : "Add Story"}
         </button>
