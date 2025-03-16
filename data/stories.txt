@@ -1,3 +1,12 @@
+Theme: Amusement park visit
+Key phrase: "Você tem altura suficiente para este brinquedo?"
+Keywords: montanha-russa, fila, ingresso, brinquedo, altura
+Cultural elements: Brazilian amusement parks and safety rules
+Grammar focus: Present tense, simple dialogue
+Setting: Amusement park
+Characters: Lucas, Ana, parents, ride attendant
+Learning goal: Height/size vocabulary and safety instruction interactions
+---
 Theme: Ice cream shop visit
 Key phrase: "Qual sabor você quer?"
 Keywords: sorveteria, sabores, casquinha, sorvete, fila
