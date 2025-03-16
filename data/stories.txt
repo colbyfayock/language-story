@@ -1,3 +1,12 @@
+Theme: Ice cream shop visit
+Key phrase: "Qual sabor você quer?"
+Keywords: sorveteria, sabores, casquinha, sorvete, fila
+Cultural elements: Brazilian ice cream shops and flavors
+Grammar focus: Present tense, simple dialogue
+Setting: Ice cream shop
+Characters: Felipe, Maria
+Learning goal: Food vocabulary and ordering interactions
+---
 Theme: First day at sports club
 Key phrase: "Vamos treinar juntos hoje!"
 Keywords: treino, uniforme, instrutor, horário, esporte
