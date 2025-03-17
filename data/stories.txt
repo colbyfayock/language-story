@@ -1,3 +1,12 @@
+Theme: Farm visit
+Key phrase: "Vamos alimentar os animais!"
+Keywords: fazenda, galinhas, patos, ovelhas, celeiro
+Cultural elements: Brazilian farm life and animal care
+Grammar focus: Present tense, simple descriptions
+Setting: Grandparents' farm
+Characters: Clara, Bruno
+Learning goal: Farm vocabulary and animal care interactions
+---
 Theme: Amusement park visit
 Key phrase: "Você tem altura suficiente para este brinquedo?"
 Keywords: montanha-russa, fila, ingresso, brinquedo, altura
