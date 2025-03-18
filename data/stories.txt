@@ -1,3 +1,12 @@
+Theme: Train station visit
+Key phrase: "O trem já vai partir!"
+Keywords: trem, estação, bilhete, plataforma, viagem
+Cultural elements: Brazilian train travel experience
+Grammar focus: Present tense, simple dialogue
+Setting: Train station
+Characters: Carlos, mother
+Learning goal: Transportation vocabulary and travel interactions
+---
 Theme: Farm visit
 Key phrase: "Vamos alimentar os animais!"
 Keywords: fazenda, galinhas, patos, ovelhas, celeiro
