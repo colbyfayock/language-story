@@ -1,3 +1,12 @@
+Theme: Observatory visit
+Key phrase: "Vamos olhar as estrelas!"
+Keywords: observatório, telescópio, cientista, planetas, lua
+Cultural elements: Brazilian space science education
+Grammar focus: Present tense, simple descriptions
+Setting: Observatory
+Characters: Miguel, Julia, Scientist Rosa
+Learning goal: Space vocabulary and scientific observation interactions
+---
 Theme: Train station visit
 Key phrase: "O trem já vai partir!"
 Keywords: trem, estação, bilhete, plataforma, viagem
