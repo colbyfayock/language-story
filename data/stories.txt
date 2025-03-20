@@ -1,3 +1,12 @@
+Theme: Swimming lesson
+Key phrase: "Hoje vamos aprender a nadar!"
+Keywords: piscina, nadar, professor, água, alunos
+Cultural elements: Brazilian swimming lessons and water safety
+Grammar focus: Present tense, basic commands
+Setting: Community pool
+Characters: Marina, Professor Pedro
+Learning goal: Swimming vocabulary and instruction interactions
+---
 Theme: Observatory visit
 Key phrase: "Vamos olhar as estrelas!"
 Keywords: observatório, telescópio, cientista, planetas, lua
