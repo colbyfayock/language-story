@@ -1,3 +1,9 @@
+key_phrase: "Vamos desenhar!"
+keywords: menina, dia, pintar, colorir, desenhar, lápis, papel
+theme: art and creativity in classroom
+grammar_focus: simple present tense, basic art vocabulary, color words
+cultural_elements: Brazilian classroom art activities and teacher-student interactions
+---
 key_phrase: "Estou com fome!"
 keywords: lanche, maçã, fome, delicioso, cozinha, filho, mãe
 theme: family interactions and snack time
