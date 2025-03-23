@@ -1,7 +1,7 @@
 import {
+  type UserPreferences,
   isLanguage,
   isReadingLevel,
-  type UserPreferences,
 } from "@language-story/data/types";
 import { config as storyConfig } from "../../../story.config";
 

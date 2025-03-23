@@ -5,6 +5,7 @@ import { Preferences } from "./db/schema";
 import type { UserPreferences } from "./types";
 
 import { createClerkClient } from "@clerk/backend";
+import type { QueryResult } from "pg";
 
 const clerkClient = createClerkClient({
   secretKey: process.env.CLERK_SECRET_KEY,
@@ -56,7 +57,7 @@ export async function updateUserPreferences(
     readingLevel: preferences.readingLevel || userPreferences?.readingLevel,
   };
 
-  let results;
+  let results: QueryResult;
 
   if (!userPreferences) {
     results = await db.insert(Preferences).values(updatedPreferences);
@@ -66,8 +67,6 @@ export async function updateUserPreferences(
       .set(updatedPreferences)
       .where(eq(Preferences.userId, userId));
   }
-
-  console.log("results", results);
 
   return results;
 }

@@ -1,10 +1,10 @@
 import path from "node:path";
 import dotenv from "dotenv";
-import type { Attachment } from "resend";
 import locale from "locale-codes";
+import type { Attachment } from "resend";
 
-import { resend } from "./resend";
 import type { LanguageConfig } from "./config";
+import { resend } from "./resend";
 
 dotenv.config({ path: path.resolve(__dirname, "../../.env") });
 

@@ -1,12 +1,12 @@
-import { marked } from "marked";
 import locale from "locale-codes";
+import { marked } from "marked";
 import sanitizeHtml from "sanitize-html";
 
 import { anthropic } from "./anthropic";
 import {
+  type LanguageConfig,
   config as appConfig,
   validateConfig,
-  type LanguageConfig,
 } from "./config";
 import { elevenlabs } from "./elevenlabs";
 

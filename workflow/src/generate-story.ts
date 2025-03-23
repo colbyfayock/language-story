@@ -7,9 +7,9 @@ import {
 } from "./lib/story";
 import { readStoryData, writeStoryData } from "./lib/utils";
 
-import { getAllUserConfigs, getLanguageConfigsFromUsers } from "./lib/users";
 import type { LanguageConfig } from "./lib/config";
 import { mailStory } from "./lib/mail";
+import { getAllUserConfigs, getLanguageConfigsFromUsers } from "./lib/users";
 
 const MAX_STORY_HISTORY = 50;
 
