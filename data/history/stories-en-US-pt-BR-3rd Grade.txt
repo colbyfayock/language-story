@@ -1,3 +1,12 @@
+Theme: Plant shop visit
+Key phrase: "Que planta linda para minha casa!"
+Keywords: loja de plantas, vaso, rega, suculenta, cuidados
+Cultural elements: Brazilian plant care and shop interactions
+Grammar focus: Present tense, simple dialogue
+Setting: Plant shop
+Characters: Clara, Aunt Beatriz, Rosa (saleswoman)
+Learning goal: Plant care vocabulary and shop interactions
+---
 Theme: Library book club
 Key phrase: "Vamos compartilhar nossas opiniões!"
 Keywords: clube de leitura, participar, opinião, compartilhar, discutir

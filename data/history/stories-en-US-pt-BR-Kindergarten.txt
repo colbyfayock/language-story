@@ -1,3 +1,10 @@
+key_phrase: "Vamos dançar!"
+keywords: brinquedo, caixa, música, dançar, todos, rádio, divertida
+theme: sharing and group activities
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian children's party games and social interactions
+teaching_elements: repetitive phrases, action verbs, group activities
+---
 key_phrase: "Vamos desenhar!"
 keywords: menina, dia, pintar, colorir, desenhar, lápis, papel
 theme: art and creativity in classroom
