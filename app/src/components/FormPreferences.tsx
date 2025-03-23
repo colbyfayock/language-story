@@ -3,12 +3,11 @@
 import { type FormEvent, useRef } from "react";
 import { toast } from "react-hot-toast";
 
-import type { Language, UserPreferences } from "@language-story/data/types";
-
 import {
   LANGUAGES_WITH_LABELS,
   READING_LEVELS,
 } from "@language-story/data/constants";
+import type { Language, UserPreferences } from "@language-story/data/types";
 
 import { updatePreferencesAction } from "@/app/actions";
 import {

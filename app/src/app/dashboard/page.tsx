@@ -4,9 +4,10 @@ import { headers } from "next/headers";
 import Container from "@/components/Container";
 import FormPreferences from "@/components/FormPreferences";
 
-import { getPreferencesAction } from "@/app/actions";
 import { LANGUAGES } from "@language-story/data/constants";
 import type { Language } from "@language-story/data/types";
+
+import { getPreferencesAction } from "@/app/actions";
 
 export default async function Dashboard() {
   const { userId } = await auth();
