@@ -1,17 +1,19 @@
 "use server";
 
 import { auth } from "@clerk/nextjs/server";
-import { eq } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
-
-import { db } from "@/db";
-import { Preferences } from "@/db/schema";
+import { redirect } from "next/navigation";
 
 import type {
   Language,
   ReadingLevel,
   UserPreferences,
 } from "@language-story/data/types";
+
+import {
+  getPreferencesByUserId,
+  updateUserPreferences,
+} from "@language-story/data/users";
 
 interface UpdatePreferencesActionOptions {
   revalidatePath?: string;
@@ -23,7 +25,9 @@ export async function updatePreferencesAction(
 ) {
   const { userId } = await auth();
 
-  if (!userId) return;
+  if (!userId) {
+    redirect("/");
+  }
 
   const userPreferences = await getPreferencesAction();
 
@@ -32,38 +36,28 @@ export async function updatePreferencesAction(
   const readingLevel = formData.get("readingLevel") as ReadingLevel;
 
   const preferences = {
-    userId,
     languageNative: languageNative || userPreferences?.languageNative,
     languageTarget: languageTarget || userPreferences?.languageTarget,
     readingLevel: readingLevel || userPreferences?.readingLevel,
   };
 
-  if (!userPreferences) {
-    await db.insert(Preferences).values(preferences);
-  } else {
-    await db
-      .update(Preferences)
-      .set(preferences)
-      .where(eq(Preferences.userId, userId));
-  }
+  const results = await updateUserPreferences(userId, preferences);
 
   if (options?.revalidatePath) {
     revalidatePath(options.revalidatePath);
   }
+
+  return results;
 }
 
 export async function getPreferencesAction(): Promise<UserPreferences> {
   const { userId } = await auth();
 
-  if (!userId) {
-    throw new Error("Unauthorized.");
+  if (typeof userId !== "string") {
+    redirect("/");
   }
 
-  const [result] = await db
-    .select()
-    .from(Preferences)
-    .where(eq(Preferences.userId, userId))
-    .limit(1);
+  const data = await getPreferencesByUserId(userId);
 
-  return result;
+  return data;
 }

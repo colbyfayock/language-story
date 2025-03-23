@@ -1,56 +1,110 @@
-Theme: Paint studio visit
-Key phrase: "Que cores bonitas vamos usar hoje!"
-Keywords: paleta, pincel, tinta, artista, pintura
-Cultural elements: Brazilian art studios and creative expression
+Theme: Winter activities
+Key phrase: "Está nevando hoje!"
+Keywords: neve, casaco, gorro, chocolate quente, lareira
+Cultural elements: Brazilian winter activities
 Grammar focus: Present tense, simple dialogue
-Setting: Art studio
-Characters: João, Teacher Laura
-Learning goal: Art vocabulary and creative expression interactions
+Setting: Home and snowy outdoors
+Characters: Clara, Aunt Teresa
+Learning goal: Winter weather vocabulary and family interactions
 ---
-Theme: Local bakery visit
-Key phrase: "O pão quentinho acabou de sair do forno!"
-Keywords: padaria, pão, vitrine, bolo, fila
-Cultural elements: Brazilian bakery culture and morning routines
+Theme: School soccer game
+Key phrase: "Vamos torcer pelo nosso time!"
+Keywords: campo, time, gol, chuteira, torcida
+Cultural elements: Brazilian soccer culture
+Grammar focus: Present tense, simple dialogue
+Setting: School soccer field
+Characters: Pedro, Lucas, Maria, Teacher Helena
+Learning goal: Sports vocabulary and team activity interactions
+---
+Theme: Botanical Garden visit
+Key phrase: "Vamos plantar uma semente!"
+Keywords: estufa, regador, plantas, sementes, jardineiro
+Cultural elements: Brazilian environmental education
+Grammar focus: Present tense, descriptive adjectives
+Setting: Botanical Garden
+Characters: Maria, Teacher Linda, João (gardener)
+Learning goal: Nature and gardening vocabulary with environmental education interactions
+---
+Theme: Museum visit
+Key phrase: "Vamos explorar o museu!"
+Keywords: museu, pintura, escultura, visita, antiga
+Cultural elements: Brazilian museum etiquette and art appreciation
+Grammar focus: Present tense, descriptive adjectives
+Setting: Art museum
+Characters: Ana, Teacher Renata, Clara
+Learning goal: Museum vocabulary and art appreciation interactions
+---
+Theme: Pet adoption
+Key phrase: "Quero dar um lar para ele!"
+Keywords: gatinho, abrigo, adotar, responsabilidade, carinho
+Cultural elements: Brazilian pet adoption process
+Grammar focus: Present tense, simple dialogue
+Setting: Animal shelter
+Characters: Julia, mother, shelter worker
+Learning goal: Pet care vocabulary and adoption process interactions
+---
+Theme: Public bus ride
+Key phrase: "Próxima parada, por favor!"
+Keywords: ônibus, motorista, passageiro, parada, cartão
+Cultural elements: Brazilian public transportation etiquette
+Grammar focus: Present tense, simple dialogue
+Setting: Public bus
+Characters: Marina, bus driver, elderly lady
+Learning goal: Transportation vocabulary and polite social interactions
+---
+Theme: Dental visit
+Key phrase: "Vamos cuidar do seu sorriso!"
+Keywords: dentista, dente, escova, consulta, sorriso
+Cultural elements: Brazilian healthcare interactions
+Grammar focus: Present tense, simple dialogue
+Setting: Dental office
+Characters: Sofia, mother, Dr. Mariana
+Learning goal: Healthcare vocabulary and medical visit interactions
+---
+Theme: Neighborhood cleanup day
+Key phrase: "Vamos deixar tudo bem limpinho!"
+Keywords: vizinhança, lixeira, reciclagem, luvas, limpo
+Cultural elements: Brazilian community collaboration, environmental awareness
+Grammar focus: Present tense, simple commands
+Setting: Neighborhood street
+Characters: Ana, Tiago, Clara, mother
+Learning goal: Environmental vocabulary and community action interactions
+---
+Theme: Town square music festival
+Key phrase: "Que som é esse?"
+Keywords: música, praça, palco, festa, tambor
+Cultural elements: Brazilian street festivals and music
+Grammar focus: Present tense, simple dialogue
+Setting: Town square
+Characters: Pedro, mother
+Learning goal: Music and celebration vocabulary with festival interactions
+---
+Theme: Bakery visit
+Key phrase: "Que cheiro bom de pão fresquinho!"
+Keywords: padaria, pão, bolo, padeiro, vitrine
+Cultural elements: Brazilian bakery interactions
 Grammar focus: Present tense, simple dialogue
 Setting: Local bakery
-Characters: Sofia, mother, baker
-Learning goal: Food vocabulary and shopping interactions
+Characters: Ana, Carlos (baker), mother
+Learning goal: Bakery vocabulary and food ordering interactions
 ---
-Theme: Swimming lesson
-Key phrase: "Hoje vamos aprender a nadar!"
-Keywords: piscina, nadar, professor, água, alunos
-Cultural elements: Brazilian swimming lessons and water safety
-Grammar focus: Present tense, basic commands
-Setting: Community pool
-Characters: Marina, Professor Pedro
-Learning goal: Swimming vocabulary and instruction interactions
----
-Theme: Observatory visit
-Key phrase: "Vamos olhar as estrelas!"
-Keywords: observatório, telescópio, cientista, planetas, lua
-Cultural elements: Brazilian space science education
-Grammar focus: Present tense, simple descriptions
-Setting: Observatory
-Characters: Miguel, Julia, Scientist Rosa
-Learning goal: Space vocabulary and scientific observation interactions
----
-Theme: Train station visit
-Key phrase: "O trem já vai partir!"
-Keywords: trem, estação, bilhete, plataforma, viagem
-Cultural elements: Brazilian train travel experience
+Theme: Postal worker visit
+Key phrase: "Você tem uma encomenda para mim?"
+Keywords: carteiro, carta, encomenda, carimbo, correio
+Cultural elements: Brazilian postal service interactions
 Grammar focus: Present tense, simple dialogue
-Setting: Train station
-Characters: Carlos, mother
-Learning goal: Transportation vocabulary and travel interactions
+Setting: Home
+Characters: Rafael, Paulo (mail carrier)
+Learning goal: Postal service vocabulary and delivery interactions
 ---
-Theme: Farm visit
-Key phrase: "Vamos alimentar os animais!"
-Keywords: fazenda, galinhas, patos, ovelhas, celeiro
-Cultural elements: Brazilian farm life and animal care
-Grammar focus: Present tense, simple descriptions
-Setting: Grandparents' farm
-Characters: Clara, Bruno
-Learning goal: Farm vocabulary and animal care interactions
+Theme: School field trip to farm
+Key phrase: "Vamos conhecer a fazenda!"
+Keywords: fazenda, animais, plantação, trator, celeiro
+Cultural elements: Brazilian farm life and agriculture
+Grammar focus: Present tense, simple dialogue
+Setting: Local farm
+Characters: Pedro, Clara, Teacher Rita, Farmer João
+Learning goal: Farm vocabulary and outdoor activity interactions
 ---
 Theme: Amusement park visit
 Key phrase: "Você tem altura suficiente para este brinquedo?"

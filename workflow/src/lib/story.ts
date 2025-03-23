@@ -1,7 +1,13 @@
 import { marked } from "marked";
+import locale from "locale-codes";
+import sanitizeHtml from "sanitize-html";
 
 import { anthropic } from "./anthropic";
-import { config } from "./config";
+import {
+  config as appConfig,
+  validateConfig,
+  type LanguageConfig,
+} from "./config";
 import { elevenlabs } from "./elevenlabs";
 
 export interface StorySegment {
@@ -10,11 +16,16 @@ export interface StorySegment {
   content?: string;
 }
 
-const SECTIONS_MAP: Record<string, string> = {
+const SECTIONS_MAP: Record<
+  string,
+  string | ((config: LanguageConfig) => string)
+> = {
   scratchpad: "Scratchpad",
   key_phrase: "Key Phrase",
-  story_target_language: `Story (${config.language})`,
-  story_native_language: `Story (${config.languageNative})`,
+  story_target_language: ({ languageTarget }: LanguageConfig) =>
+    `Story (${locale.getByTag(languageTarget)?.name})`,
+  story_native_language: ({ languageNative }: LanguageConfig) =>
+    `Story (${locale.getByTag(languageNative)?.name})`,
   exercises: "Exercises",
   learning_elements: "Language Learning Elements",
   context: "Context",
@@ -27,12 +38,15 @@ export const isAudioEnabled = typeof elevenlabs !== "undefined";
  */
 
 interface GenerateStoryOptions {
+  config: LanguageConfig;
   context: string;
 }
 
-export async function generateStory({ context }: GenerateStoryOptions) {
+export async function generateStory({ config, context }: GenerateStoryOptions) {
+  validateConfig(config);
+
   const message = await anthropic.messages.create({
-    model: config.anthropicModelId,
+    model: appConfig.anthropicModelId,
     max_tokens: 8192,
     temperature: 1,
     messages: [
@@ -49,7 +63,7 @@ Your goal is to create an engaging narrative that supports language acquisition.
 Here are the key elements you'll be working with:
 
 <target_language>
-${config.language}
+${config.languageTarget}
 </target_language>
 
 <native_language>
@@ -84,7 +98,8 @@ or traveling as well as interactions with other people such as dialogue.
 
 5. Use repetition of key phrases or grammar structures to reinforce learning. Include one primary
 key phrase that is used in the story. The primary key phrase should be a common phrase or expression
-used in the <target_language>. 
+used in the <target_language> that learners would benefit from knowing in real-world situations
+or common conversations.
 
 6. Include dialogue to showcase conversational language use when appropriate.
 
@@ -104,6 +119,8 @@ what they just read.
 11. Include a brief summary at the end that includes the key phrase, all of the keywords,
 a concise description of the theme, and any other relevant information that can be passed
 as context to a future story generation to provide variation of the story and learning elements.
+
+12. Replace all tokens in the response such as <target_language> with their actual value.
 
 Before writing the story, briefly outline your approach in a Scratchpad section. Consider
 the key vocabulary with translations, grammar concepts, and cultural elements you'll incorporate
@@ -177,10 +194,10 @@ export async function getAudioStory({
   const sanitized = text.replace(/\n+/g, " ");
 
   const audioStream = await elevenlabs.textToSpeech.convertAsStream(
-    config.elevenlabsVoiceId,
+    appConfig.elevenlabsVoiceId,
     {
       text: sanitized,
-      model_id: config.elevenlabsModelId,
+      model_id: appConfig.elevenlabsModelId,
       output_format: "mp3_44100_128",
     },
   );
@@ -198,12 +215,29 @@ export async function getAudioStory({
  * resultToStorySegments
  */
 
-export function resultToStorySegments(text: string): Array<StorySegment> {
+interface ResultToStorySegmentsOptions {
+  text: string;
+  config?: LanguageConfig;
+}
+
+export function resultToStorySegments({
+  text,
+  config,
+}: ResultToStorySegmentsOptions): Array<StorySegment> {
   return text.split("---").map((segment) => {
     const lines = segment.trim().split("\n");
     const id = lines.shift()?.replace("# ", "");
     const content = lines.join("\n");
-    const title = id ? SECTIONS_MAP[id] : "More";
+    let title = "More";
+
+    if (id && SECTIONS_MAP[id]) {
+      if (typeof SECTIONS_MAP[id] === "string") {
+        title = SECTIONS_MAP[id];
+      } else if (typeof SECTIONS_MAP[id] === "function" && config) {
+        title = SECTIONS_MAP[id](config);
+      }
+    }
+
     return {
       title,
       id,
@@ -225,7 +259,7 @@ export function storySegmentsToHTML(
   options: StorySegmentsToHTMLOptions = {},
 ) {
   const { exclude } = options;
-  return segments
+  const html = segments
     .filter(({ id }) => (id && exclude ? !exclude.includes(id) : true))
     .map((segment) => {
       return `
@@ -234,4 +268,6 @@ ${segment.content ? marked(segment.content) : ""}
     `;
     })
     .join("");
+
+  return sanitizeHtml(html);
 }
