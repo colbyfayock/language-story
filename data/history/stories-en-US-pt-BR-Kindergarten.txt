@@ -1,3 +1,10 @@
+key_phrase: "Vamos ao zoológico!"
+keywords: zoológico, girafa, macaco, tucano, alto, grande, pequeno
+theme: family outing and animals
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian zoo experiences and parent-child interactions
+teaching_elements: repetitive viewing patterns, size comparisons, basic animal vocabulary
+---
 key_phrase: "Vamos dançar!"
 keywords: brinquedo, caixa, música, dançar, todos, rádio, divertida
 theme: sharing and group activities
