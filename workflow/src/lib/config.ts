@@ -1,7 +1,7 @@
-import { config as storyConfig } from "../../../story.config";
 import { isLanguage } from "@language-story/data/languages";
 import { isReadingLevel } from "@language-story/data/reading-levels";
 import type { UserPreferences } from "@language-story/data/types";
+import { config as storyConfig } from "../../../story.config";
 
 export interface Config {
   anthropicModelId: string;

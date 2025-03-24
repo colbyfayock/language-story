@@ -1,13 +1,12 @@
 import { auth } from "@clerk/nextjs/server";
 import { headers } from "next/headers";
 
-import { getPreferencesByUserId } from "@language-story/data/users";
 import { LANGUAGES } from "@language-story/data/constants";
 import type { Language } from "@language-story/data/types";
+import { getPreferencesByUserId } from "@language-story/data/users";
 
 import Container from "@/components/Container";
 import FormPreferences from "@/components/FormPreferences";
-
 
 export default async function Dashboard() {
   const { userId } = await auth();

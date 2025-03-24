@@ -7,11 +7,11 @@ import {
   LANGUAGES_WITH_LABELS,
   READING_LEVELS,
 } from "@language-story/data/constants";
-import type { Language, UserPreferences } from "@language-story/data/types";
 import {
   getDefaultLanguageNative,
   getDefaultLanguageTarget,
 } from "@language-story/data/languages";
+import type { Language, UserPreferences } from "@language-story/data/types";
 
 interface FormPreferencesProps {
   className?: string;
@@ -49,7 +49,7 @@ const FormPreferences = ({
         body: formData,
       });
       toast.success("Success!");
-    } catch(e) {
+    } catch (_) {
       toast.error("Something went wrong.");
     }
 
