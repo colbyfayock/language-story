@@ -8,12 +8,12 @@ import {
   READING_LEVELS,
 } from "@language-story/data/constants";
 import type { Language, UserPreferences } from "@language-story/data/types";
-
-import { updatePreferencesAction } from "@/app/actions";
 import {
   getDefaultLanguageNative,
   getDefaultLanguageTarget,
-} from "@/lib/language";
+} from "@language-story/data/languages";
+
+import { updatePreferencesAction } from "@/app/actions";
 
 interface FormPreferencesProps {
   className?: string;
@@ -37,20 +37,25 @@ const FormPreferences = ({
   const defaultReadingLevel = userPreferences?.readingLevel;
 
   async function handleOnSubmit(e: FormEvent<HTMLFormElement>) {
+    e.preventDefault();
+
     if (formStateRef.current === "pending") return;
 
     formStateRef.current = "pending";
 
-    e.preventDefault();
-
     const formData = new FormData(e.currentTarget);
 
-    await updatePreferencesAction(formData, {
-      revalidatePath: window.location.pathname,
-    });
+    try {
+      await fetch("/api/preferences/update", {
+        method: "POST",
+        body: formData,
+      });
+      toast.success("Success!");
+    } catch(e) {
+      toast.error("Something went wrong.");
+    }
 
     formStateRef.current = "ready";
-    toast.success("Success!");
   }
 
   return (

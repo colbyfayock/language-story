@@ -1,8 +1,13 @@
 import {
   DEFAULT_LANGUAGE_NATIVE,
   DEFAULT_LANGUAGE_TARGET,
-} from "@language-story/data/constants";
-import type { Language } from "@language-story/data/types";
+  LANGUAGES,
+} from "./constants";
+import type { Language } from "./types";
+
+export function isLanguage(value: string): value is Language {
+  return LANGUAGES.includes(value as Language);
+}
 
 export function getDefaultLanguageNative(browserLanguage?: Language): Language {
   return browserLanguage || DEFAULT_LANGUAGE_NATIVE;
