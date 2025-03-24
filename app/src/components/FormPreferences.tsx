@@ -13,8 +13,6 @@ import {
   getDefaultLanguageTarget,
 } from "@language-story/data/languages";
 
-import { updatePreferencesAction } from "@/app/actions";
-
 interface FormPreferencesProps {
   className?: string;
   browserLanguage?: Language;
