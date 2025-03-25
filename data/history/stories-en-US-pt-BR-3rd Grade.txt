@@ -1,3 +1,12 @@
+Theme: Concert visit
+Key phrase: "Como chegamos ao teatro?"
+Keywords: teatro, orquestra, música, maestro, assento
+Cultural elements: Brazilian classical music appreciation
+Grammar focus: Present tense, simple questions
+Setting: Theater
+Characters: Clara, mother
+Learning goal: Music venue vocabulary and direction-based interactions
+---
 Theme: Plant shop visit
 Key phrase: "Que planta linda para minha casa!"
 Keywords: loja de plantas, vaso, rega, suculenta, cuidados
