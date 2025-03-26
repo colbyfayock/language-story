@@ -1,3 +1,12 @@
+Theme: School field day events
+Key phrase: "Vamos participar da competição!"
+Keywords: competição, medalha, corrida, prêmio, equipe
+Cultural elements: Brazilian school sports activities
+Grammar focus: Present tense, simple dialogue
+Setting: School yard
+Characters: Maria, Ana, Lucas, Pedro, Teacher Carlos
+Learning goal: Sports competition vocabulary and team activity interactions
+---
 Theme: After-school art class
 Key phrase: "Que cores bonitas você usou!"
 Keywords: pincel, tinta, papel, professor, trabalho, aquarela, desenhar
