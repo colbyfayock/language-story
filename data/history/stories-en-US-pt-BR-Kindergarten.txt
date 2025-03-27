@@ -1,3 +1,10 @@
+key_phrase: "Está muito frio!"
+keywords: frio, casaco, luvas, neve, brincar, alegre, inverno
+theme: weather and winter activities
+grammar_focus: simple present tense, basic weather vocabulary, clothing items
+cultural_elements: Brazilian winter experiences and parent-child interactions
+teaching_elements: weather vocabulary, clothing items, emotional expressions
+---
 key_phrase: "Olha o presente!"
 keywords: bichinho, presente, caixa, surpresa, novo, contente, manhã
 theme: family interactions and gift-giving
