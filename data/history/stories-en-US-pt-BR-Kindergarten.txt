@@ -1,3 +1,10 @@
+key_phrase: "O coelho está pulando!"
+keywords: coelho, pular, horta, cenoura, branco, feliz, vovô
+theme: pets and garden activities
+grammar_focus: simple present tense, basic colors, animal actions
+cultural_elements: Brazilian home gardens and grandparent-child interactions
+teaching_elements: animal vocabulary, basic actions, family relationships
+---
 key_phrase: "Vamos ao mercado!"
 keywords: mercado, compras, frutas, carrinho, pegar, novo, ajudar
 theme: first grocery shopping experience and family interactions

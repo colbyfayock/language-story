@@ -1,3 +1,12 @@
+Theme: Aquarium visit
+Key phrase: "Quantos peixes diferentes!"
+Keywords: aquário, peixe, tubarão, água, mergulhar, colorido
+Cultural elements: Brazilian marine education and guided tours
+Grammar focus: Present tense, descriptive adjectives
+Setting: Aquarium
+Characters: Ana, father, guide
+Learning goal: Marine life vocabulary and guided tour interactions
+---
 Theme: Morning school routine
 Key phrase: "Preciso me apressar para a escola!"
 Keywords: acordar, escovar, pentear, mochila, uniforme, café da manhã
