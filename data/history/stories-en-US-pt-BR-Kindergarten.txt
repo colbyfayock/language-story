@@ -1,3 +1,45 @@
+key_phrase: "Vamos ao circo!"
+keywords: passeio, pássaro, palhaço, circo, ingresso, colorido, engraçado
+theme: entertainment and family outings
+grammar_focus: simple present tense, basic emotions, descriptive adjectives
+cultural_elements: Brazilian circus traditions and parent-child interactions
+teaching_elements: color vocabulary, emotional expressions, entertainment vocabulary
+---
+key_phrase: "O coelho está pulando!"
+keywords: coelho, pular, horta, cenoura, branco, feliz, vovô
+theme: pets and garden activities
+grammar_focus: simple present tense, basic colors, animal actions
+cultural_elements: Brazilian home gardens and grandparent-child interactions
+teaching_elements: animal vocabulary, basic actions, family relationships
+---
+key_phrase: "Vamos ao mercado!"
+keywords: mercado, compras, frutas, carrinho, pegar, novo, ajudar
+theme: first grocery shopping experience and family interactions
+grammar_focus: simple present tense, basic location vocabulary
+cultural_elements: Brazilian grocery shopping and parent-child interactions
+teaching_elements: location vocabulary, action verbs, family helper role
+---
+key_phrase: "Está muito frio!"
+keywords: frio, casaco, luvas, neve, brincar, alegre, inverno
+theme: weather and winter activities
+grammar_focus: simple present tense, basic weather vocabulary, clothing items
+cultural_elements: Brazilian winter experiences and parent-child interactions
+teaching_elements: weather vocabulary, clothing items, emotional expressions
+---
+key_phrase: "Olha o presente!"
+keywords: bichinho, presente, caixa, surpresa, novo, contente, manhã
+theme: family interactions and gift-giving
+grammar_focus: simple present tense, basic emotions, family vocabulary
+cultural_elements: Brazilian gift-giving traditions and parent-child interactions
+teaching_elements: simple dialogue, emotional vocabulary, surprise reactions
+---
+key_phrase: "Vamos ao cinema!"
+keywords: pipoca, cinema, filme, assustado, alegre, assistir, escuro
+theme: entertainment and family outings
+grammar_focus: simple present tense, basic emotions, location vocabulary
+cultural_elements: Brazilian movie theater experiences and parent-child interactions
+teaching_elements: emotional vocabulary, simple dialogue, common activities
+---
 key_phrase: "Vamos ao zoológico!"
 keywords: zoológico, girafa, macaco, tucano, alto, grande, pequeno
 theme: family outing and animals

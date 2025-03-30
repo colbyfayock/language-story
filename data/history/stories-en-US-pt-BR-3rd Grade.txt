@@ -1,3 +1,57 @@
+Theme: Pizza restaurant visit
+Key phrase: "Nossa pizza acabou de chegar!"
+Keywords: pizzaria, garçom, pedido, massa, cheiro, cardápio
+Cultural elements: Brazilian pizza dining customs
+Grammar focus: Present tense, simple dialogue
+Setting: Pizzeria
+Characters: João, mother, waiter
+Learning goal: Restaurant vocabulary and ordering interactions
+---
+Theme: Aquarium visit
+Key phrase: "Quantos peixes diferentes!"
+Keywords: aquário, peixe, tubarão, água, mergulhar, colorido
+Cultural elements: Brazilian marine education and guided tours
+Grammar focus: Present tense, descriptive adjectives
+Setting: Aquarium
+Characters: Ana, father, guide
+Learning goal: Marine life vocabulary and guided tour interactions
+---
+Theme: Morning school routine
+Key phrase: "Preciso me apressar para a escola!"
+Keywords: acordar, escovar, pentear, mochila, uniforme, café da manhã
+Cultural elements: Brazilian breakfast and school uniforms
+Grammar focus: Present tense, sequence words
+Setting: Home
+Characters: Júlia, mother
+Learning goal: Morning routine vocabulary and time-based interactions
+---
+Theme: Making a sandwich
+Key phrase: "Vamos preparar um lanche gostoso!"
+Keywords: sanduíche, pão, manteiga, queijo, prato, cozinha
+Cultural elements: Brazilian snack preparation
+Grammar focus: Present tense, sequence words
+Setting: Home kitchen
+Characters: João, mother
+Learning goal: Food preparation vocabulary and kitchen interactions
+---
+Theme: School field day events
+Key phrase: "Vamos participar da competição!"
+Keywords: competição, medalha, corrida, prêmio, equipe
+Cultural elements: Brazilian school sports activities
+Grammar focus: Present tense, simple dialogue
+Setting: School yard
+Characters: Maria, Ana, Lucas, Pedro, Teacher Carlos
+Learning goal: Sports competition vocabulary and team activity interactions
+---
+Theme: After-school art class
+Key phrase: "Que cores bonitas você usou!"
+Keywords: pincel, tinta, papel, professor, trabalho, aquarela, desenhar
+Cultural elements: Brazilian art education and classroom interactions
+Grammar focus: Present tense, simple dialogue
+Setting: Art classroom
+Characters: Marina, Teacher Lucia, Lucas
+Learning goal: Art vocabulary and classroom interactions
+---
 Theme: Concert visit
 Key phrase: "Como chegamos ao teatro?"
 Keywords: teatro, orquestra, música, maestro, assento
