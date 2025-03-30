@@ -1,3 +1,12 @@
+Theme: Pizza restaurant visit
+Key phrase: "Nossa pizza acabou de chegar!"
+Keywords: pizzaria, garçom, pedido, massa, cheiro, cardápio
+Cultural elements: Brazilian pizza dining customs
+Grammar focus: Present tense, simple dialogue
+Setting: Pizzeria
+Characters: João, mother, waiter
+Learning goal: Restaurant vocabulary and ordering interactions
+---
 Theme: Aquarium visit
 Key phrase: "Quantos peixes diferentes!"
 Keywords: aquário, peixe, tubarão, água, mergulhar, colorido
