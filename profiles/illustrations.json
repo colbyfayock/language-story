@@ -1,0 +1,65 @@
+{
+  "color_usage": {
+    "palette": ["#FFFAEE", "#D3C2B6", "#316BFF", "#F07F23", "#83D495", "#012445"],
+    "tone": "warm, welcoming, and vibrant with earthy grounding tones",
+    "style": "flat colors with no gradients, shadows, or textures",
+    "application": "used as large, solid fills with clear visual separation between elements; limited blending or layering"
+  },
+  "typography_style": {
+    "mood": "modern, playful, and friendly",
+    "style": "sans-serif, slightly rounded or geometric fonts",
+    "hierarchy": "simple, with soft emphasis on clarity and accessibility",
+    "placement": "used sparingly, often inside or adjacent to clean iconography or callouts"
+  },
+  "lighting_and_vibe": {
+    "overall": "clean and luminous",
+    "vibe": "gentle, expressive, and uplifting",
+    "intensity": "medium contrast with moderate-high saturation for color clarity"
+  },
+  "subject_placement": {
+    "layout": "centered or slightly off-center with balance",
+    "style": "subjects float naturally within ample whitespace",
+    "focus": "primary characters take visual priority with supporting icons or shapes arranged near eye-level or above"
+  },
+  "background_style": {
+    "type": "solid soft-neutral fill",
+    "texture": "none",
+    "color": "#FFFAEE",
+    "visual_noise": "none"
+  },
+  "composition_layout": {
+    "style": "center-weighted with balanced negative space",
+    "principles": "light asymmetry or rule-of-thirds positioning used for organic feel",
+    "spacing": "ample, uncluttered, no crowding of elements"
+  },
+  "branding_elements": {
+    "shapes": "rounded iconography such as speech bubbles, books, play buttons, and letters",
+    "strokes": "no full outer strokes; subtle internal accents only (e.g., armpit lines, nose curves, neck folds)",
+    "motifs": "organic additions like leaves, bubbles, or soft education-related symbols"
+  },
+  "visual_tone": {
+    "voice": "welcoming, calm, and curious",
+    "maturity": "broadly appealing to children, teens, and casual adult learners",
+    "mood": "inspiring and lighthearted"
+  },
+  "post_processing_style": {
+    "contrast": "balanced and accessible",
+    "saturation": "moderate to high, but never neon",
+    "shadows": "none",
+    "glow": "none",
+    "noise": "none; visuals are clean vector"
+  },
+  "character_styling": {
+    "outlines": "none on full body shapes; only used for minor internal accents like elbows, eyebrows, and minimal hair or fold definition",
+    "features": "small, expressive facial features — thin brows, dot or oval eyes, soft smiles",
+    "hair": "solid color with minimal accent shapes or flow lines",
+    "clothing": "flat filled blocks with angled or softly curved interior accents"
+  },
+  "general_style_tags": [
+    "flat vector illustration",
+    "language learning visual identity",
+    "modern educational cartoon",
+    "minimalist character-driven aesthetic",
+    "soft UX-forward design"
+  ]
+}

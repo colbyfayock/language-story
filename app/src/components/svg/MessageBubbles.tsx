@@ -16,11 +16,11 @@ const MessageBubbles = ({ className }: MessageBubblesProps) => {
     >
       <title>Message Bubbles with Hello in Different Languages</title>
       <path
-        className="fill-ls-orange-300"
+        className="fill-ls-orange-500"
         d="M27.56 111.667a9.445 9.445 0 0 0 9.445 9.444h85.106L141 140V64.444A9.445 9.445 0 0 0 131.556 55H37.005a9.444 9.444 0 0 0-9.445 9.444z"
       />
       <path
-        className="fill-ls-blue-400"
+        className="fill-ls-blue-500"
         d="M105 56.667a9.445 9.445 0 0 1-9.444 9.444H18.889L0 85V9.444A9.444 9.444 0 0 1 9.444 0h86.112A9.445 9.445 0 0 1 105 9.444z"
       />
       <path

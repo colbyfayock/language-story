@@ -16,7 +16,7 @@ const LanguageBook = ({ className }: LanguageBookProps) => {
     >
       <title>Book with play button</title>
       <path
-        className="fill-ls-blue-400"
+        className="fill-ls-blue-500"
         d="M96.5 20.492c-3.87-2.667-18.47-8.7-45.897-11.5q-3.325-.341-6.271-.646C15.902 5.406 13 5.106 13 13.992v89.504c0 4.501 1.659 6.001 17.142 6.001 15.484 0 52.534 1.5 66.358 7 13.825-5.5 50.874-7 66.358-7 15.483 0 17.142-1.5 17.142-6.001V13.992c0-8.886-2.903-8.586-31.332-5.646q-2.946.306-6.271.646c-27.427 2.8-42.026 8.833-45.897 11.5"
       />
       <path
@@ -36,14 +36,14 @@ const LanguageBook = ({ className }: LanguageBookProps) => {
         rx="1.5"
       />
       <path
-        className="fill-ls-orange-300"
+        className="fill-ls-orange-500"
         d="m122.534 58.74-8.285.268 11.364-39.388 9.964-1.322 13.865 38.573-8.285.267-10.131-29.776-.286.01z"
       />
       <path
-        className="fill-ls-orange-300"
+        className="fill-ls-orange-500"
         d="m123 43.267 16.5-1.3 1.657 6.37L121 49.764z"
       />
-      <circle cx="22.5" cy="106.5" r="22.5" className="fill-ls-green-400" />
+      <circle cx="22.5" cy="106.5" r="22.5" className="fill-ls-green-500" />
       <path
         className="fill-white"
         d="M15 96.826a1 1 0 0 1 1.538-.843l15.143 9.674a1 1 0 0 1 0 1.686l-15.143 9.674a1 1 0 0 1-1.538-.843z"

@@ -1,33 +1,39 @@
 import { SignedIn, SignedOut } from "@clerk/nextjs";
+import Image from "next/image";
 import Link from "next/link";
 
 import Container from "@/components/Container";
 import ChecklistAudio from "@/components/svg/ChecklistAudio";
 import LanguageBook from "@/components/svg/LanguageBook";
 import MessageBubbles from "@/components/svg/MessageBubbles";
+import WomanLearningLanguage from "@/components/svg/WomanLearningLanguage";
+import WomanReadingStory from "@/components/svg/WomanReadingStory";
 
 export default function Home() {
   return (
     <>
       <Container className="flex h-full flex-col items-center justify-center gap-10 py-30">
-        <div className="grid grid-cols-[2fr_1fr]">
-          <div>
-            <h1 className="mb-6 font-bold text-5xl">
-              Learn a new language with a story a day
+        <div className="grid grid-cols-[2fr_1fr] gap-12">
+          <div className="flex flex-col justify-center">
+            <h1 className="mb-6 font-extrabold text-6xl">
+              Learn a new language with a daily story
             </h1>
             <p className="mb-8 text-2xl">
-              Receive daily stories in your target language, along with
+              Receive a new story every day in your target language with
               translations, questions, and audio to help you learn.
             </p>
             <p className="text-xl">
               <Link
                 href="/dashboard"
-                className="inline-block cursor-pointer rounded bg-ls-blue-400 px-5 py-3 font-bold text-white"
+                className="inline-block cursor-pointer rounded bg-ls-blue-500 px-5 py-3 font-bold text-white"
               >
                 <SignedIn>Go to Dashboard</SignedIn>
                 <SignedOut>Join the Waitlist</SignedOut>
               </Link>
             </p>
+          </div>
+          <div className="flex items-center">
+            <WomanReadingStory />
           </div>
         </div>
       </Container>
@@ -90,19 +96,20 @@ export default function Home() {
       </div>
 
       <div className="bg-white">
-        <Container className="pt-20 pb-30">
-          <h2 className="mb-16 text-center font-bold text-5xl">Built By</h2>
-          <div className="mx-auto flex max-w-2xl items-center gap-6">
+        <Container className="pt-20 pb-20">
+          <div className="mx-auto flex max-w-2xl items-center gap-10">
             <p>
-              <img
-                src="https://fay.io/w/colby-hug.png"
-                alt="Colby Hug"
-                className="aspect-square h-auto max-w-32 rounded-full"
+              <Image
+                width="400"
+                height="400"
+                src="/colby-fayock.png"
+                alt="Colby Fayock"
+                className="aspect-square h-auto max-w-48 rounded-full"
               />
             </p>
             <div>
-              <h3 className="mb-2 font-bold text-2xl">Colby Fayock</h3>
-              <p className="mb-3">
+              <h2 className="mb-3 font-bold text-3xl">Built by Colby Fayock</h2>
+              <p className="mb-4">
                 Colby is a content creator and Senior Engineer who has helped
                 developers around the world learn how to build for the web with
                 JavaScript and React.
@@ -130,8 +137,8 @@ export default function Home() {
         </Container>
       </div>
       <div className="bg-white">
-        <Container className="pt-20 pb-30">
-          <h2 className="mb-16 text-center font-bold text-5xl">
+        <Container className="relative pt-20 pb-[calc(var(--spacing)_*_110)]">
+          <h2 className="mb-16 text-center font-extrabold text-5xl">
             Learn a new Language today!
           </h2>
           <p className="mb-8 text-center text-2xl">
@@ -142,6 +149,7 @@ export default function Home() {
               Join the Waitlist
             </Link>
           </p>
+          <WomanLearningLanguage className="absolute right-0 bottom-0 left-0 mx-auto max-h-96 w-auto" />
         </Container>
       </div>
     </>
