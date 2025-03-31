@@ -1,3 +1,12 @@
+Theme: Interactive science museum visit
+Key phrase: "Que legal mexer nos aparelhos!"
+Keywords: exposição, robô, ciência, tecnologia, tela, botão
+Cultural elements: Brazilian STEM education and interactive museums
+Grammar focus: Present tense, exclamations
+Setting: Science museum
+Characters: Rafael, Teacher Carlos, classmates
+Learning goal: Technology vocabulary and interactive museum experiences
+---
 Theme: Pizza restaurant visit
 Key phrase: "Nossa pizza acabou de chegar!"
 Keywords: pizzaria, garçom, pedido, massa, cheiro, cardápio
