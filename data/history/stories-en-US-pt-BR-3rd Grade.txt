@@ -1,3 +1,12 @@
+Theme: Home gardening
+Key phrase: "Vamos cuidar do nosso jardim!"
+Keywords: natureza, planta, canteiro, terra, pá, regador
+Cultural elements: Brazilian home gardening traditions
+Grammar focus: Present tense, simple commands
+Setting: Home garden
+Characters: Ana, father
+Learning goal: Garden vocabulary and nature appreciation interactions
+---
 Theme: Interactive science museum visit
 Key phrase: "Que legal mexer nos aparelhos!"
 Keywords: exposição, robô, ciência, tecnologia, tela, botão
