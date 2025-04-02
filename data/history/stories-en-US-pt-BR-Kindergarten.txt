@@ -1,3 +1,10 @@
+key_phrase: "Vamos brincar no escorregador!"
+keywords: escorregador, novo, legal, alto, subir, descer, brinquedo
+theme: playground activities and making friends
+grammar_focus: simple present tense, basic greetings
+cultural_elements: Brazilian playground interactions and friendship building
+teaching_elements: playground vocabulary, basic dialogue, action verbs
+---
 key_phrase: "O trem vai chegar!"
 keywords: trem, estação, passear, barulho, viagem, azul, devagar
 theme: transportation and family outings
