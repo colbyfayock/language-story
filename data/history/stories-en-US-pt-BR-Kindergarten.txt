@@ -1,3 +1,10 @@
+key_phrase: "Vamos plantar uma flor!"
+keywords: plantar, semente, regador, terra, molhar, crescer, verde
+theme: gardening and family bonding
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian family gardening activities and aunt-nephew interactions
+teaching_elements: gardening vocabulary, action verbs, color recognition
+---
 key_phrase: "Vamos brincar no escorregador!"
 keywords: escorregador, novo, legal, alto, subir, descer, brinquedo
 theme: playground activities and making friends

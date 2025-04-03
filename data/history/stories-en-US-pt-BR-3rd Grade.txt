@@ -1,3 +1,12 @@
+Theme: Hair salon visit
+Key phrase: "Como você quer seu cabelo hoje?"
+Keywords: cabelo, cortar, espelho, tesoura, penteado, shampoo
+Cultural elements: Brazilian hair salon interactions
+Grammar focus: Present tense, simple dialogue
+Setting: Hair salon
+Characters: Mariana, Rosa (hairdresser)
+Learning goal: Salon vocabulary and service interactions
+---
 Theme: Making origami
 Key phrase: "Vamos fazer um pássaro de papel!"
 Keywords: dobrar, papel, pássaro, tesoura, mesa, marcar
