@@ -1,3 +1,10 @@
+key_phrase: "Vamos à praia!"
+keywords: praia, areia, concha, mar, mergulhar, quente, sol
+theme: beach activities and family fun
+grammar_focus: simple present tense, basic descriptive words
+cultural_elements: Brazilian beach activities and family interactions
+teaching_elements: nature vocabulary, basic dialogue, weather words
+---
 key_phrase: "Vamos plantar uma flor!"
 keywords: plantar, semente, regador, terra, molhar, crescer, verde
 theme: gardening and family bonding
