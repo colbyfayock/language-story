@@ -1,3 +1,57 @@
+Theme: Community festival volunteering
+Key phrase: "Vamos ajudar na festa da comunidade!"
+Keywords: festa, decoração, bandeiras, comida, voluntários, música
+Cultural elements: Brazilian community celebrations and volunteer work
+Grammar focus: Present tense, simple dialogue
+Setting: Neighborhood community center
+Characters: Maria, mother, Dona Rosa, father
+Learning goal: Community participation vocabulary and helping interactions
+---
+Theme: Community garden class
+Key phrase: "Vamos aprender a cultivar nossos alimentos!"
+Keywords: jardim comunitário, semente, ferramentas, plantas, horta, solo
+Cultural elements: Brazilian community gardening and sustainable living education
+Grammar focus: Present tense, simple commands
+Setting: Community garden
+Characters: Student narrator, Teacher Teresa
+Learning goal: Gardening vocabulary and educational interactions
+---
+Theme: Hair salon visit
+Key phrase: "Como você quer seu cabelo hoje?"
+Keywords: cabelo, cortar, espelho, tesoura, penteado, shampoo
+Cultural elements: Brazilian hair salon interactions
+Grammar focus: Present tense, simple dialogue
+Setting: Hair salon
+Characters: Mariana, Rosa (hairdresser)
+Learning goal: Salon vocabulary and service interactions
+---
+Theme: Making origami
+Key phrase: "Vamos fazer um pássaro de papel!"
+Keywords: dobrar, papel, pássaro, tesoura, mesa, marcar
+Cultural elements: Japanese-Brazilian cultural exchange
+Grammar focus: Present tense, simple commands
+Setting: Home
+Characters: Clara, Aunt Yuki
+Learning goal: Craft vocabulary and instruction-following interactions
+---
+Theme: Home gardening
+Key phrase: "Vamos cuidar do nosso jardim!"
+Keywords: natureza, planta, canteiro, terra, pá, regador
+Cultural elements: Brazilian home gardening traditions
+Grammar focus: Present tense, simple commands
+Setting: Home garden
+Characters: Ana, father
+Learning goal: Garden vocabulary and nature appreciation interactions
+---
+Theme: Interactive science museum visit
+Key phrase: "Que legal mexer nos aparelhos!"
+Keywords: exposição, robô, ciência, tecnologia, tela, botão
+Cultural elements: Brazilian STEM education and interactive museums
+Grammar focus: Present tense, exclamations
+Setting: Science museum
+Characters: Rafael, Teacher Carlos, classmates
+Learning goal: Technology vocabulary and interactive museum experiences
+---
 Theme: Pizza restaurant visit
 Key phrase: "Nossa pizza acabou de chegar!"
 Keywords: pizzaria, garçom, pedido, massa, cheiro, cardápio
