@@ -1,3 +1,12 @@
+Theme: Public pool swimming lesson
+Key phrase: "Vamos aprender a nadar!"
+Keywords: piscina, nadar, professor, bóia, protetor solar, toalha
+Cultural elements: Brazilian swimming lessons and pool safety
+Grammar focus: Present tense, simple commands
+Setting: Public swimming pool
+Characters: Lucas, Teacher Paulo, mother
+Learning goal: Swimming vocabulary and instruction-following interactions
+---
 Theme: Community festival volunteering
 Key phrase: "Vamos ajudar na festa da comunidade!"
 Keywords: festa, decoração, bandeiras, comida, voluntários, música
