@@ -112,9 +112,9 @@ export default function Home() {
             <div className="max-w-lg lg:max-w-none text-center lg:text-left">
               <h2 className="mb-3 font-bold text-3xl">Built by Colby Fayock</h2>
               <p className="mb-4">
-                Colby is a content creator and Senior Engineer who has helped
-                developers around the world learn how to build for the web with
-                JavaScript and React.
+                Language Story is built by Colby Fayock — a developer and
+                lifelong learner who&apos;s passionate about making learning fun
+                and approachable for everyone
               </p>
               <ul className="flex gap-3 justify-center lg:justify-start">
                 <li>
@@ -141,7 +141,7 @@ export default function Home() {
       <div className="bg-white">
         <Container className="relative pt-20 pb-[calc(var(--spacing)_*_110)]">
           <h2 className="mb-16 text-center font-extrabold text-5xl">
-            Learn a new Language today!
+            Start your language journey today!
           </h2>
           <p className="mb-8 text-center text-2xl">
             <Link
