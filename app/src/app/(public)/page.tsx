@@ -12,10 +12,10 @@ import WomanReadingStory from "@/components/svg/WomanReadingStory";
 export default function Home() {
   return (
     <>
-      <Container className="flex h-full flex-col items-center justify-center gap-10 py-30">
-        <div className="grid grid-cols-[2fr_1fr] gap-12">
-          <div className="flex flex-col justify-center">
-            <h1 className="mb-6 font-extrabold text-6xl">
+      <Container className="flex h-full flex-col items-center justify-center gap-10 pt-12 lg:pt-30 pb-0 lg:pb-30">
+        <div className="grid lg:grid-cols-2 gap-10 lg:gap-0">
+          <div className="flex flex-col justify-center max-w-2xl text-center lg:text-left">
+            <h1 className="mb-6 font-extrabold text-5xl md:text-6xl">
               Learn a new language with a daily story
             </h1>
             <p className="mb-8 text-2xl">
@@ -32,20 +32,22 @@ export default function Home() {
               </Link>
             </p>
           </div>
-          <div className="flex items-center">
-            <WomanReadingStory />
+          <div className="flex items-center justify-center">
+            <WomanReadingStory className="w-full h-auto max-h-96 lg:max-h-none px-10 md:px-0" />
           </div>
         </div>
       </Container>
 
       <div className="bg-white">
-        <Container className="py-30">
-          <h2 className="mb-16 text-center font-bold text-5xl">Features</h2>
-          <div className="relative">
-            <ul className="relative z-10 grid grid-cols-3 gap-6">
-              <li className="rounded-lg bg-white px-6 py-10 text-center shadow-lg shadow-ls-slate-900/5">
-                <span className="mb-6 flex aspect-video items-center justify-center">
-                  <LanguageBook className="h-full max-h-30 w-auto" />
+        <Container className="py-12 md:py-30">
+          <h2 className="relative z-10 mb-8 md:mb-16 text-center font-bold text-5xl">
+            Features
+          </h2>
+          <div className="relative z-0">
+            <ul className="relative z-10 grid md:grid-cols-3 gap-6">
+              <li className="w-full max-w-md mx-auto rounded-lg bg-white px-6 py-10 text-center shadow-lg shadow-ls-slate-900/5">
+                <span className="mb-6 flex md:aspect-video items-center justify-center">
+                  <LanguageBook className="h-auto md:h-full md:max-h-30 w-full max-w-36 md:w-auto" />
                 </span>
                 <h3 className="mb-4 font-semibold text-2xl">
                   Engaging Stories
@@ -54,9 +56,9 @@ export default function Home() {
                   Read stories tailored to your learning level.
                 </p>
               </li>
-              <li className="rounded-lg bg-white px-6 py-10 text-center shadow-lg shadow-ls-slate-900/5">
-                <span className="mb-6 flex aspect-video items-center justify-center">
-                  <MessageBubbles className="h-full max-h-30 w-auto" />
+              <li className="w-full max-w-md mx-auto rounded-lg bg-white px-6 py-10 text-center shadow-lg shadow-ls-slate-900/5">
+                <span className="mb-6 flex md:aspect-video items-center justify-center">
+                  <MessageBubbles className="h-auto md:h-full md:max-h-30 w-full max-w-36 md:w-auto" />
                 </span>
                 <h3 className="mb-4 font-semibold text-2xl">
                   Full Translations
@@ -65,9 +67,9 @@ export default function Home() {
                   Understand the stories with complete translations.
                 </p>
               </li>
-              <li className="rounded-lg bg-white px-6 py-10 text-center shadow-lg shadow-ls-slate-900/5">
-                <span className="mb-6 flex aspect-video items-center justify-center">
-                  <ChecklistAudio className="h-full max-h-30 w-auto" />
+              <li className="w-full max-w-md mx-auto rounded-lg bg-white px-6 py-10 text-center shadow-lg shadow-ls-slate-900/5">
+                <span className="mb-6 flex md:aspect-video items-center justify-center">
+                  <ChecklistAudio className="h-auto md:h-full md:max-h-30 w-full max-w-36 md:w-auto" />
                 </span>
                 <h3 className="mb-4 font-semibold text-2xl">
                   Questions &amp; Audio
@@ -78,7 +80,7 @@ export default function Home() {
               </li>
             </ul>
             <svg
-              className="-ml-[5%] absolute top-0 right-0 bottom-0 left-0 z-0 m-auto h-auto w-[110%]"
+              className="absolute top-[28%] md:top-0 left-1/2 md:left-0 md:right-0 md:bottom-0 z-0 translate-[0,_-115%] origin-center -rotate-90 md:rotate-0 m-auto h-auto w-[70rem] md:w-[120%] lg:w-[110%] -ml-[35rem] md:-ml-[10%] lg:-ml-[5%]"
               width="923"
               height="394"
               viewBox="0 0 923 394"
@@ -96,8 +98,8 @@ export default function Home() {
       </div>
 
       <div className="bg-white">
-        <Container className="pt-20 pb-20">
-          <div className="mx-auto flex max-w-2xl items-center gap-10">
+        <Container className="py-10 lg:p-20">
+          <div className="mx-auto flex flex-col lg:flex-row max-w-2xl items-center gap-10">
             <p>
               <Image
                 width="400"
@@ -107,14 +109,14 @@ export default function Home() {
                 className="aspect-square h-auto max-w-48 rounded-full"
               />
             </p>
-            <div>
+            <div className="max-w-lg lg:max-w-none text-center lg:text-left">
               <h2 className="mb-3 font-bold text-3xl">Built by Colby Fayock</h2>
               <p className="mb-4">
                 Colby is a content creator and Senior Engineer who has helped
                 developers around the world learn how to build for the web with
                 JavaScript and React.
               </p>
-              <ul className="flex gap-3">
+              <ul className="flex gap-3 justify-center lg:justify-start">
                 <li>
                   <Link
                     href="https://twitter.com/colbyfayock"
@@ -149,7 +151,7 @@ export default function Home() {
               Join the Waitlist
             </Link>
           </p>
-          <WomanLearningLanguage className="absolute right-0 bottom-0 left-0 mx-auto max-h-96 w-auto" />
+          <WomanLearningLanguage className="absolute right-0 bottom-0 left-0 mx-auto max-h-96 w-auto max-w-full" />
         </Container>
       </div>
     </>

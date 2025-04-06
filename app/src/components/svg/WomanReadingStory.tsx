@@ -1,6 +1,11 @@
-const WomanReadingStory = () => {
+interface WomanReadingStoryProps {
+  className?: string;
+}
+
+const WomanReadingStory = ({ className }: WomanReadingStoryProps) => {
   return (
     <svg
+      className={className}
       xmlns="http://www.w3.org/2000/svg"
       width="452"
       height="402"
