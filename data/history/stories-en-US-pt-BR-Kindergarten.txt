@@ -1,3 +1,10 @@
+key_phrase: "Está tudo bem!"
+keywords: parquinho, menino, bicicleta, joelho, machucado, chorar, melhor
+theme: playground safety and parental comfort
+grammar_focus: simple present tense, basic emotions
+cultural_elements: Brazilian parent-child comfort interactions and playground safety
+teaching_elements: emotional vocabulary, basic dialogue, body parts
+---
 key_phrase: "O passarinho canta!"
 keywords: passarinho, cantar, ninho, galho, árvore, música, feliz
 theme: nature observation and animal sounds
