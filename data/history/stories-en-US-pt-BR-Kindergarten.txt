@@ -1,3 +1,10 @@
+key_phrase: "A festa é divertida!"
+keywords: bolo, balão, festa, rir, telhado, divertido, amigos
+theme: birthday celebrations and friendship
+grammar_focus: simple present tense, basic emotions
+cultural_elements: Brazilian birthday celebrations and children's interactions
+teaching_elements: party vocabulary, weather words, emotional expressions
+---
 key_phrase: "Está tudo bem!"
 keywords: parquinho, menino, bicicleta, joelho, machucado, chorar, melhor
 theme: playground safety and parental comfort
