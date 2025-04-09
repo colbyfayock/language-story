@@ -1,3 +1,10 @@
+key_phrase: "Vamos à biblioteca!"
+keywords: biblioteca, livro, história, ler, professor, mochila, sentar
+theme: first library visit and classroom activities
+grammar_focus: simple present tense, basic location vocabulary
+cultural_elements: Brazilian school library experiences and teacher-student interactions
+teaching_elements: classroom vocabulary, basic dialogue, location words
+---
 key_phrase: "A festa é divertida!"
 keywords: bolo, balão, festa, rir, telhado, divertido, amigos
 theme: birthday celebrations and friendship

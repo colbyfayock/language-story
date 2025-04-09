@@ -1,3 +1,12 @@
+Theme: Food truck festival visit
+Key phrase: "Quantos sabores diferentes para provar!"
+Keywords: festival, comida, sabores, fila, vendedor, provar, conversar
+Cultural elements: Brazilian street food culture, social interactions
+Grammar focus: Present tense, simple dialogue
+Setting: Neighborhood food truck festival
+Characters: Sofia, Aunt Rita, vendor
+Learning goal: Food vocabulary and social interactions
+---
 Theme: Making birthday card
 Key phrase: "Vamos fazer um cartão especial!"
 Keywords: cartão, papel colorido, cola, tesoura, glitter, mensagem
@@ -438,12 +447,3 @@ Grammar focus: Present tense, basic dialogue
 Setting: Home
 Characters: Miguel, João
 Learning goal: School vocabulary and study-related interactions
----
-Theme: Library visit
-Key phrase: "Vamos encontrar um livro!"
-Keywords: biblioteca, livros, ler, história, silêncio
-Cultural elements: Brazilian library etiquette
-Grammar focus: Present tense, simple questions
-Setting: Public library
-Characters: Miguel, Clara, librarian
-Learning goal: Library vocabulary and basic interactions
