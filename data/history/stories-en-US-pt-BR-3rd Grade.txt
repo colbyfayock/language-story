@@ -1,3 +1,39 @@
+Theme: Food truck festival visit
+Key phrase: "Quantos sabores diferentes para provar!"
+Keywords: festival, comida, sabores, fila, vendedor, provar, conversar
+Cultural elements: Brazilian street food culture, social interactions
+Grammar focus: Present tense, simple dialogue
+Setting: Neighborhood food truck festival
+Characters: Sofia, Aunt Rita, vendor
+Learning goal: Food vocabulary and social interactions
+---
+Theme: Making birthday card
+Key phrase: "Vamos fazer um cartão especial!"
+Keywords: cartão, papel colorido, cola, tesoura, glitter, mensagem
+Cultural elements: Brazilian birthday card making and celebration
+Grammar focus: Present tense, simple dialogue
+Setting: Home
+Characters: Maria, mother
+Learning goal: Craft vocabulary and creative activity interactions
+---
+Theme: School picnic lunch
+Key phrase: "Vamos fazer um piquenique juntos!"
+Keywords: lancheira, sanduíche, suco, amigos, toalha, compartilhar
+Cultural elements: Brazilian school picnic customs and sharing food
+Grammar focus: Present tense, simple dialogue
+Setting: School yard
+Characters: Marina, Pedro, Clara
+Learning goal: Food and friendship vocabulary with sharing interactions
+---
+Theme: Public pool swimming lesson
+Key phrase: "Vamos aprender a nadar!"
+Keywords: piscina, nadar, professor, bóia, protetor solar, toalha
+Cultural elements: Brazilian swimming lessons and pool safety
+Grammar focus: Present tense, simple commands
+Setting: Public swimming pool
+Characters: Lucas, Teacher Paulo, mother
+Learning goal: Swimming vocabulary and instruction-following interactions
+---
 Theme: Community festival volunteering
 Key phrase: "Vamos ajudar na festa da comunidade!"
 Keywords: festa, decoração, bandeiras, comida, voluntários, música
@@ -411,12 +447,3 @@ Grammar focus: Present tense, basic dialogue
 Setting: Home
 Characters: Miguel, João
 Learning goal: School vocabulary and study-related interactions
----
-Theme: Library visit
-Key phrase: "Vamos encontrar um livro!"
-Keywords: biblioteca, livros, ler, história, silêncio
-Cultural elements: Brazilian library etiquette
-Grammar focus: Present tense, simple questions
-Setting: Public library
-Characters: Miguel, Clara, librarian
-Learning goal: Library vocabulary and basic interactions

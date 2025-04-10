@@ -1,3 +1,31 @@
+key_phrase: "Vamos à biblioteca!"
+keywords: biblioteca, livro, história, ler, professor, mochila, sentar
+theme: first library visit and classroom activities
+grammar_focus: simple present tense, basic location vocabulary
+cultural_elements: Brazilian school library experiences and teacher-student interactions
+teaching_elements: classroom vocabulary, basic dialogue, location words
+---
+key_phrase: "A festa é divertida!"
+keywords: bolo, balão, festa, rir, telhado, divertido, amigos
+theme: birthday celebrations and friendship
+grammar_focus: simple present tense, basic emotions
+cultural_elements: Brazilian birthday celebrations and children's interactions
+teaching_elements: party vocabulary, weather words, emotional expressions
+---
+key_phrase: "Está tudo bem!"
+keywords: parquinho, menino, bicicleta, joelho, machucado, chorar, melhor
+theme: playground safety and parental comfort
+grammar_focus: simple present tense, basic emotions
+cultural_elements: Brazilian parent-child comfort interactions and playground safety
+teaching_elements: emotional vocabulary, basic dialogue, body parts
+---
+key_phrase: "O passarinho canta!"
+keywords: passarinho, cantar, ninho, galho, árvore, música, feliz
+theme: nature observation and animal sounds
+grammar_focus: simple present tense, basic animal vocabulary
+cultural_elements: Brazilian birds and children's interaction with nature
+teaching_elements: animal sounds, daily routines, emotional expressions
+---
 key_phrase: "Você quer beber água?"
 keywords: água, sede, copo, gelada, beber, dia, quiosque
 theme: staying hydrated and beach activities
