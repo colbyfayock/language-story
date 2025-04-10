@@ -22,11 +22,6 @@ export default function RootLayout({
         {children}
         <Footer />
       </div>
-      <script
-        defer
-        data-domain="languagestory.app"
-        src="https://plausible.io/js/script.js"
-      />
     </body>
   );
 }

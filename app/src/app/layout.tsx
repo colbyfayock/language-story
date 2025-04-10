@@ -14,7 +14,16 @@ export default function RootLayout({
 }>) {
   return (
     <ClerkProvider>
-      <html lang="en">{children}</html>
+      <html lang="en">
+        <head>
+          <script
+            defer
+            data-domain="languagestory.app"
+            src="https://plausible.io/js/script.js"
+          />
+        </head>
+        {children}
+      </html>
     </ClerkProvider>
   );
 }
