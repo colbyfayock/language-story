@@ -1,5 +1,4 @@
 import { ClerkProvider } from "@clerk/nextjs";
-import PlausibleProvider from "next-plausible";
 import type { Metadata } from "next";
 
 import "./globals.css";
@@ -15,11 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <ClerkProvider>
-      <html lang="en">
-        <PlausibleProvider domain="languagestory.app">
-          {children}
-        </PlausibleProvider>
-      </html>
+      <html lang="en">{children}</html>
     </ClerkProvider>
   );
 }
