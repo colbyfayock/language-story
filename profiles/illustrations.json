@@ -33,14 +33,14 @@
     "spacing": "ample, uncluttered, no crowding of elements"
   },
   "branding_elements": {
-    "shapes": "rounded iconography such as speech bubbles, books, play buttons, and letters",
-    "strokes": "no full outer strokes; subtle internal accents only (e.g., armpit lines, nose curves, neck folds)",
-    "motifs": "organic additions like leaves, bubbles, or soft education-related symbols"
+    "shapes": "blobby, rounded iconography that feels soft and imperfect — such as irregular speech bubbles, play buttons, and letterforms",
+    "strokes": "no outer strokes; inner accents use gentle, tapered lines where needed for definition",
+    "motifs": "organic additions like rounded bursts, soft shadows of leaves, or symbols that suggest movement and learning without harshness"
   },
   "visual_tone": {
     "voice": "welcoming, calm, and curious",
     "maturity": "broadly appealing to children, teens, and casual adult learners",
-    "mood": "inspiring and lighthearted"
+    "mood": "inspiring and lighthearted, with visual charm"
   },
   "post_processing_style": {
     "contrast": "balanced and accessible",
@@ -50,16 +50,16 @@
     "noise": "none; visuals are clean vector"
   },
   "character_styling": {
-    "outlines": "none on full body shapes; only used for minor internal accents like elbows, eyebrows, and minimal hair or fold definition",
-    "features": "small, expressive facial features — thin brows, dot or oval eyes, soft smiles",
-    "hair": "solid color with minimal accent shapes or flow lines",
-    "clothing": "flat filled blocks with angled or softly curved interior accents"
+    "outlines": "none on major shapes; minimal interior accents for clarity — used sparingly to define motion or folds",
+    "features": "simple and emotionally expressive — dot or almond eyes, thin brows, soft smiles",
+    "hair": "solid fills with optional light accent lines to suggest volume or style",
+    "clothing": "angular or rounded depending on character tone, often using interior lines or color blocking for form"
   },
   "general_style_tags": [
     "flat vector illustration",
+    "organic blobby UX aesthetic",
     "language learning visual identity",
     "modern educational cartoon",
-    "minimalist character-driven aesthetic",
-    "soft UX-forward design"
+    "minimalist, character-driven, approachable design"
   ]
 }
