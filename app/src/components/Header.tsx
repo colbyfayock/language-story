@@ -1,7 +1,7 @@
 import Container from "@/components/Container";
+import LanguageStoryIcon from "@/components/svg/LanguageStoryIcon";
 import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
 import Link from "next/link";
-import LanguageStoryIcon from "@/components/svg/LanguageStoryIcon";
 
 const Header = () => {
   return (
@@ -9,7 +9,7 @@ const Header = () => {
       <Container className="flex items-center justify-between py-5">
         <p className="font-bold text-lg">
           <Link href="/">
-            <LanguageStoryIcon className="w-9 h-auto mr-2" />
+            <LanguageStoryIcon className="mr-2 h-auto w-9" />
             Language Story
           </Link>
         </p>
