@@ -1,3 +1,10 @@
+key_phrase: "Bom dia na fazenda!"
+keywords: fazenda, porco, galinha, ovelha, manhã, cedo, café
+theme: farm animals and morning routines
+grammar_focus: simple present tense, basic greetings
+cultural_elements: Brazilian farm life and morning routines
+teaching_elements: animal sounds, basic greetings, daily routines
+---
 key_phrase: "Vamos pintar!"
 keywords: tinta, boneco, alegre, vestido, roxo, amarelo, tia
 theme: creative activities and family bonding
