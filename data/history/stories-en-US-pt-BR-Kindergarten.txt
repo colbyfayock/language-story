@@ -1,3 +1,10 @@
+key_phrase: "Vamos escovar os dentes!"
+keywords: dentista, dente, escova, pasta, limpo, azul, rosa
+theme: dental hygiene and doctor visits
+grammar_focus: simple present tense, basic colors
+cultural_elements: Brazilian dental care routines and parent-child interactions
+teaching_elements: hygiene vocabulary, colors, emotional expressions
+---
 key_phrase: "Bom dia na fazenda!"
 keywords: fazenda, porco, galinha, ovelha, manhã, cedo, café
 theme: farm animals and morning routines
