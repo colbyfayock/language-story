@@ -1,3 +1,10 @@
+key_phrase: "Hora do banho!"
+keywords: banho, pato, sabonete, brincar, gostar, bolha, amarelo
+theme: bath time routines and play
+grammar_focus: simple present tense, basic actions
+cultural_elements: Brazilian bath time routines and parent-child interactions
+teaching_elements: hygiene vocabulary, simple dialogue, color recognition, emotional expressions
+---
 key_phrase: "Vamos escovar os dentes!"
 keywords: dentista, dente, escova, pasta, limpo, azul, rosa
 theme: dental hygiene and doctor visits
