@@ -1,3 +1,10 @@
+key_phrase: "Vamos nos vestir!"
+keywords: roupa, camiseta, calça, sapato, vestir, pronto, escola
+theme: morning routine and getting dressed
+grammar_focus: simple present tense, basic clothing vocabulary
+cultural_elements: Brazilian school preparation routines and parent-child interactions
+teaching_elements: clothing vocabulary, color words, simple dialogue
+---
 key_phrase: "Hora do banho!"
 keywords: banho, pato, sabonete, brincar, gostar, bolha, amarelo
 theme: bath time routines and play
