@@ -1,3 +1,10 @@
+key_phrase: "É hora de brincar com música!"
+keywords: pandeiro, tambor, música, dança, ritmo, família, sala
+theme: family music making and dancing
+grammar_focus: simple present tense, basic musical vocabulary
+cultural_elements: Brazilian musical instruments and family music traditions
+teaching_elements: sound words, family vocabulary, action verbs
+---
 key_phrase: "Vamos nos vestir!"
 keywords: roupa, camiseta, calça, sapato, vestir, pronto, escola
 theme: morning routine and getting dressed
