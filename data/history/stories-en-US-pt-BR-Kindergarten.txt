@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer barulho!"
+keywords: xilofone, sino, bater, ouvir, barulho, feliz, brilhante
+theme: discovering musical instruments and family music making
+grammar_focus: simple present tense, basic musical vocabulary
+cultural_elements: Brazilian family music making and instrument exploration
+teaching_elements: sound words, family vocabulary, action verbs, musical instruments
+---
 key_phrase: "É hora de brincar com música!"
 keywords: pandeiro, tambor, música, dança, ritmo, família, sala
 theme: family music making and dancing
