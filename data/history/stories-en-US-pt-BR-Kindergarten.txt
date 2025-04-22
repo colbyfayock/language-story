@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer chocolate quente!"
+keywords: quente, chocolate, leite, fazer, delicioso, frio, família
+theme: winter comfort food and family cooking
+grammar_focus: simple present tense, basic kitchen vocabulary
+cultural_elements: Brazilian family cooking and winter comfort foods
+teaching_elements: temperature words, kitchen vocabulary, family interactions, taste descriptions
+---
 key_phrase: "Vamos fazer barulho!"
 keywords: xilofone, sino, bater, ouvir, barulho, feliz, brilhante
 theme: discovering musical instruments and family music making
