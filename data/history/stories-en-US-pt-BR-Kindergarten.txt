@@ -1,3 +1,10 @@
+key_phrase: "Vamos ver os animais!"
+keywords: loja, peixinho, aquário, papagaio, visitar, colorido, abraçar
+theme: family outing to pet shop and animal discovery
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian pet shops and parent-child interactions
+teaching_elements: animal vocabulary, color words, simple dialogue, emotional expressions
+---
 key_phrase: "Vamos fazer chocolate quente!"
 keywords: quente, chocolate, leite, fazer, delicioso, frio, família
 theme: winter comfort food and family cooking
