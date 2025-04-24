@@ -1,3 +1,10 @@
+key_phrase: "É hora de contar histórias!"
+keywords: livro, história, voz, dormir, noite, estrela, sonho
+theme: family bedtime storytelling and nighttime routines
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian family bedtime routines and parent-child storytelling
+teaching_elements: bedtime vocabulary, family relationships, basic dialogue, emotional expressions
+---
 key_phrase: "Vamos ver os animais!"
 keywords: loja, peixinho, aquário, papagaio, visitar, colorido, abraçar
 theme: family outing to pet shop and animal discovery
