@@ -1,3 +1,10 @@
+key_phrase: "Vamos contar juntos!"
+keywords: números, pular, escola, amigos, professor, sala, cinco
+theme: classroom number learning and group activities
+grammar_focus: simple present tense, basic numbers
+cultural_elements: Brazilian classroom activities and teacher-student interactions
+teaching_elements: number vocabulary, basic counting, classroom participation
+---
 key_phrase: "É hora de contar histórias!"
 keywords: livro, história, voz, dormir, noite, estrela, sonho
 theme: family bedtime storytelling and nighttime routines
