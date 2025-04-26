@@ -1,3 +1,10 @@
+key_phrase: "O cavalo é manso!"
+keywords: cavalo, campo, flores, caminho, comer, grama, manso
+theme: countryside visit and animal observation
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian rural environments and parent-child nature experiences
+teaching_elements: animal vocabulary, nature words, emotional expressions
+---
 key_phrase: "Vamos contar juntos!"
 keywords: números, pular, escola, amigos, professor, sala, cinco
 theme: classroom number learning and group activities
