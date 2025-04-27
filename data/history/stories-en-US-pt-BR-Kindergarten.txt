@@ -1,3 +1,10 @@
+key_phrase: "Quero este brinquedo!"
+keywords: loja de brinquedos, robô, brilhante, escolher, comprar, pai, dinheiro
+theme: toy store shopping and parent-child interaction
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian toy store experiences and parent-child shopping interactions
+teaching_elements: shopping vocabulary, basic dialogue, emotional expressions
+---
 key_phrase: "O cavalo é manso!"
 keywords: cavalo, campo, flores, caminho, comer, grama, manso
 theme: countryside visit and animal observation
