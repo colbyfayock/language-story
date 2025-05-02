@@ -1,3 +1,10 @@
+key_phrase: "O pato está nadando!"
+keywords: pato, lago, nadar, pequeno, amarelo, alegre, amigo
+theme: nature observation and animal interaction
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian children's interaction with nature
+teaching_elements: animal vocabulary, color words, emotional expressions, simple dialogue
+---
 key_phrase: "Vamos soprar as velas!"
 keywords: balão, mesa, bolo, vela, soprar, aniversário, cantar
 theme: birthday celebration and family traditions
