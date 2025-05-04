@@ -1,3 +1,10 @@
+key_phrase: "Vamos jogar videogame!"
+keywords: jogo, videogame, irmão, jogar, ganhar, diversão, juntos
+theme: family gaming and sibling bonding
+grammar_focus: simple present tense, basic family vocabulary
+cultural_elements: Brazilian family gaming traditions and sibling interactions
+teaching_elements: technology vocabulary, family relationships, emotional expressions, basic dialogue
+---
 key_phrase: "O pato está nadando!"
 keywords: pato, lago, nadar, pequeno, amarelo, alegre, amigo
 theme: nature observation and animal interaction
