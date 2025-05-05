@@ -1,3 +1,10 @@
+key_phrase: "A piscina está fresquinha!"
+keywords: piscina, mergulhar, brincar, molhado, verão, legal, refrescar
+theme: summer activities and water play
+grammar_focus: simple present tense, basic weather vocabulary
+cultural_elements: Brazilian summer pool activities and parent-child interactions
+teaching_elements: weather vocabulary, water activities, emotional expressions, basic dialogue
+---
 key_phrase: "Vamos jogar videogame!"
 keywords: jogo, videogame, irmão, jogar, ganhar, diversão, juntos
 theme: family gaming and sibling bonding
