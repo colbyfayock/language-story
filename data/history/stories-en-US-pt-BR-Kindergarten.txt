@@ -1,3 +1,10 @@
+key_phrase: "O sol está brilhando!"
+keywords: sol, brilhar, dia, céu, nuvem, parque, roda-gigante
+theme: weather observation and outdoor activities
+grammar_focus: simple present tense, basic weather vocabulary
+cultural_elements: Brazilian outdoor recreation and parent-child interactions
+teaching_elements: weather vocabulary, basic dialogue, family relationships, simple descriptive words
+---
 key_phrase: "A piscina está fresquinha!"
 keywords: piscina, mergulhar, brincar, molhado, verão, legal, refrescar
 theme: summer activities and water play
@@ -331,9 +338,3 @@ keywords: cachorro, bola, correr, vermelho, verde, parque, feliz
 theme: friendship and play
 grammar_focus: simple present tense, basic colors, emotions
 cultural_elements: Brazilian park activities and children's games
----
-key_phrase: "Vamos brincar?"
-keywords: gato, feliz, amigo, brincar, amarelo, azul, parque
-theme: friendship and play
-grammar_focus: simple present tense, basic colors, emotions
-cultural_elements: Brazilian playground interaction
