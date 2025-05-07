@@ -1,3 +1,10 @@
+key_phrase: "Os peixinhos são coloridos!"
+keywords: lojinha, peixinho, aquário, colorido, nadar, amarelo, feliz
+theme: pet store visit and family interaction
+grammar_focus: simple present tense, basic numbers, colors
+cultural_elements: Brazilian pet store experiences and parent-child interactions
+teaching_elements: animal vocabulary, color words, number counting, simple dialogue
+---
 key_phrase: "O sol está brilhando!"
 keywords: sol, brilhar, dia, céu, nuvem, parque, roda-gigante
 theme: weather observation and outdoor activities
@@ -332,9 +339,3 @@ keywords: urso, dormir, sonhar, cama, macio, rosa, marrom
 theme: bedtime routine and dreams
 grammar_focus: simple present tense, basic colors, descriptive adjectives
 cultural_elements: Brazilian afternoon nap time traditions
----
-key_phrase: "Você quer correr?"
-keywords: cachorro, bola, correr, vermelho, verde, parque, feliz
-theme: friendship and play
-grammar_focus: simple present tense, basic colors, emotions
-cultural_elements: Brazilian park activities and children's games
