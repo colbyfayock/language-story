@@ -1,3 +1,10 @@
+key_phrase: "O elefante toma banho!"
+keywords: elefante, banho, mangueira, quintal, refrescar, diversão, molhado
+theme: outdoor water play and imaginative fun
+grammar_focus: simple present tense, basic weather vocabulary
+cultural_elements: Brazilian summer outdoor activities and parent-child interactions
+teaching_elements: weather vocabulary, play activities, emotional expressions, simple dialogue
+---
 key_phrase: "Os peixinhos são coloridos!"
 keywords: lojinha, peixinho, aquário, colorido, nadar, amarelo, feliz
 theme: pet store visit and family interaction
@@ -333,9 +340,3 @@ keywords: mesa, família, almoço, sopa, quente, vovó, laranja
 theme: family mealtime and food
 grammar_focus: simple present tense, basic food vocabulary, family members
 cultural_elements: Brazilian family lunch gatherings and traditional foods
----
-key_phrase: "Hora de dormir!"
-keywords: urso, dormir, sonhar, cama, macio, rosa, marrom
-theme: bedtime routine and dreams
-grammar_focus: simple present tense, basic colors, descriptive adjectives
-cultural_elements: Brazilian afternoon nap time traditions
