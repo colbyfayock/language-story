@@ -1,3 +1,10 @@
+key_phrase: "O gato quer brincar!"
+keywords: gato, rato, cama, dormir, feliz, macio, cinza
+theme: unexpected animal friendship and playtime
+grammar_focus: simple present tense, basic colors and actions
+cultural_elements: Brazilian household pets and playful interactions
+teaching_elements: animal vocabulary, color words, emotional expressions, simple dialogue
+---
 key_phrase: "O elefante toma banho!"
 keywords: elefante, banho, mangueira, quintal, refrescar, diversão, molhado
 theme: outdoor water play and imaginative fun
@@ -334,9 +341,3 @@ keywords: peixe, nadar, água, limão, pequeno, verde, azul
 theme: pets and food preferences
 grammar_focus: simple present tense, basic colors, animal vocabulary
 cultural_elements: Brazilian pet care and family interactions
----
-key_phrase: "A sopa está quente!"
-keywords: mesa, família, almoço, sopa, quente, vovó, laranja
-theme: family mealtime and food
-grammar_focus: simple present tense, basic food vocabulary, family members
-cultural_elements: Brazilian family lunch gatherings and traditional foods
