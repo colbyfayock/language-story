@@ -1,3 +1,10 @@
+key_phrase: "Os bichinhos são fofos!"
+keywords: loja, aquarinho, filhote, gatinho, ração, carinho, vitrine
+theme: first visit to pet store and animal observation
+grammar_focus: simple present tense, basic animal vocabulary
+cultural_elements: Brazilian pet store experiences and parent-child interactions
+teaching_elements: animal vocabulary, emotions, diminutives, simple dialogue
+---
 key_phrase: "O café da manhã está pronto!"
 keywords: café da manhã, leite, biscoito, mesa, mamãe, manhã, feliz
 theme: breakfast routines and family interactions
@@ -336,9 +343,3 @@ keywords: chuva, guarda-chuva, dança, irmã, pular, preto, branco
 theme: weather and outdoor play
 grammar_focus: simple present tense, weather vocabulary, movement verbs
 cultural_elements: Brazilian rainy day activities and sibling interactions
----
-key_phrase: "A borboleta é bonita!"
-keywords: borboleta, jardim, flor, dançar, roxo, bonito, sol
-theme: nature and movement
-grammar_focus: simple present tense, basic colors, descriptive adjectives
-cultural_elements: Brazilian gardens and outdoor activities
