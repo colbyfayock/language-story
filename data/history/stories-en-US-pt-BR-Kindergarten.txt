@@ -1,3 +1,10 @@
+key_phrase: "A formiga quer comida!"
+keywords: formiga, picnic, parque, comida, família, dia, sol
+theme: family picnic and interaction with nature
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian outdoor family activities and child-nature interactions
+teaching_elements: nature vocabulary, family relationships, simple dialogue, emotional expressions
+---
 key_phrase: "Os bichinhos são fofos!"
 keywords: loja, aquarinho, filhote, gatinho, ração, carinho, vitrine
 theme: first visit to pet store and animal observation
@@ -337,9 +344,3 @@ keywords: sorvete, doce, sabor, morango, chocolate, sorrir, loja
 theme: treats and shopping
 grammar_focus: simple present tense, basic numbers, food vocabulary
 cultural_elements: Brazilian ice cream shops and flavor preferences
----
-key_phrase: "A chuva está caindo!"
-keywords: chuva, guarda-chuva, dança, irmã, pular, preto, branco
-theme: weather and outdoor play
-grammar_focus: simple present tense, weather vocabulary, movement verbs
-cultural_elements: Brazilian rainy day activities and sibling interactions
