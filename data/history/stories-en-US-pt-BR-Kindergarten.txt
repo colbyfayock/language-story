@@ -1,3 +1,10 @@
+key_phrase: "A aula vai começar!"
+keywords: mochila, uniforme, aula, professor, começar, pronto, cadeira
+theme: morning school preparation and routines
+grammar_focus: simple present tense, basic time concepts
+cultural_elements: Brazilian school routines and parent-child interactions
+teaching_elements: school vocabulary, color words, sequential actions, emotional expressions
+---
 key_phrase: "A formiga quer comida!"
 keywords: formiga, picnic, parque, comida, família, dia, sol
 theme: family picnic and interaction with nature
@@ -338,9 +345,3 @@ keywords: lanche, maçã, fome, delicioso, cozinha, filho, mãe
 theme: family interactions and snack time
 grammar_focus: simple present tense, basic food vocabulary, family members
 cultural_elements: Brazilian afternoon snack routines and parent-child interactions
----
-key_phrase: "Eu quero sorvete!"
-keywords: sorvete, doce, sabor, morango, chocolate, sorrir, loja
-theme: treats and shopping
-grammar_focus: simple present tense, basic numbers, food vocabulary
-cultural_elements: Brazilian ice cream shops and flavor preferences
