@@ -1,3 +1,10 @@
+key_phrase: "Quero sorvete de morango!"
+keywords: sorvete, sabor, delicioso, escolher, feliz, sorrir, fila
+theme: ice cream shop visit and parent-child interaction
+grammar_focus: simple present tense, basic food vocabulary
+cultural_elements: Brazilian ice cream shop experience and parent-child interactions
+teaching_elements: food vocabulary, emotional expressions, simple dialogue, flavor words
+---
 key_phrase: "A aula vai começar!"
 keywords: mochila, uniforme, aula, professor, começar, pronto, cadeira
 theme: morning school preparation and routines
@@ -339,9 +346,3 @@ keywords: menina, dia, pintar, colorir, desenhar, lápis, papel
 theme: art and creativity in classroom
 grammar_focus: simple present tense, basic art vocabulary, color words
 cultural_elements: Brazilian classroom art activities and teacher-student interactions
----
-key_phrase: "Estou com fome!"
-keywords: lanche, maçã, fome, delicioso, cozinha, filho, mãe
-theme: family interactions and snack time
-grammar_focus: simple present tense, basic food vocabulary, family members
-cultural_elements: Brazilian afternoon snack routines and parent-child interactions
