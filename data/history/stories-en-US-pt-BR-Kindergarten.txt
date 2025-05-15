@@ -1,3 +1,10 @@
+key_phrase: "A mesa está pronta!"
+keywords: café, pão, manteiga, mesa, filho, alegre
+theme: morning breakfast routine and parent-child interaction
+grammar_focus: simple present tense, basic food vocabulary
+cultural_elements: Brazilian breakfast routines and father-son interactions
+teaching_elements: food vocabulary, family relationships, simple dialogue, morning routines
+---
 key_phrase: "Quero sorvete de morango!"
 keywords: sorvete, sabor, delicioso, escolher, feliz, sorrir, fila
 theme: ice cream shop visit and parent-child interaction
@@ -340,9 +347,3 @@ theme: sharing and group activities
 grammar_focus: simple present tense, basic action verbs
 cultural_elements: Brazilian children's party games and social interactions
 teaching_elements: repetitive phrases, action verbs, group activities
----
-key_phrase: "Vamos desenhar!"
-keywords: menina, dia, pintar, colorir, desenhar, lápis, papel
-theme: art and creativity in classroom
-grammar_focus: simple present tense, basic art vocabulary, color words
-cultural_elements: Brazilian classroom art activities and teacher-student interactions
