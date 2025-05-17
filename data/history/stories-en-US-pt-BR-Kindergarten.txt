@@ -1,3 +1,10 @@
+key_phrase: "Está muito calor!"
+keywords: calor, ventilador, água, banho, gelado, beber, feliz
+theme: summer heat and cooling activities
+grammar_focus: simple present tense, basic weather vocabulary
+cultural_elements: Brazilian summer heat management and parent-child interactions
+teaching_elements: weather vocabulary, temperature words, simple dialogue, cooling activities
+---
 key_phrase: "A borboleta é linda!"
 keywords: borboleta, jardim, flor, voar, colorida, mamãe, quieta
 theme: nature observation and parent-child interaction
@@ -340,10 +347,3 @@ theme: entertainment and family outings
 grammar_focus: simple present tense, basic emotions, location vocabulary
 cultural_elements: Brazilian movie theater experiences and parent-child interactions
 teaching_elements: emotional vocabulary, simple dialogue, common activities
----
-key_phrase: "Vamos ao zoológico!"
-keywords: zoológico, girafa, macaco, tucano, alto, grande, pequeno
-theme: family outing and animals
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian zoo experiences and parent-child interactions
-teaching_elements: repetitive viewing patterns, size comparisons, basic animal vocabulary
