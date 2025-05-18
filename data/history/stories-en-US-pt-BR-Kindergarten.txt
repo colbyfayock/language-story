@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer chocolate quente!"
+keywords: cacau, fazer, chocolate, família, delicioso, quente, cheiro
+theme: indoor winter activity and family bonding
+grammar_focus: simple present tense, basic sensory vocabulary
+cultural_elements: Brazilian winter comfort foods and parent-child interactions
+teaching_elements: temperature words, food vocabulary, family relationships, sensory descriptions
+---
 key_phrase: "Está muito calor!"
 keywords: calor, ventilador, água, banho, gelado, beber, feliz
 theme: summer heat and cooling activities
@@ -340,10 +347,3 @@ theme: family interactions and gift-giving
 grammar_focus: simple present tense, basic emotions, family vocabulary
 cultural_elements: Brazilian gift-giving traditions and parent-child interactions
 teaching_elements: simple dialogue, emotional vocabulary, surprise reactions
----
-key_phrase: "Vamos ao cinema!"
-keywords: pipoca, cinema, filme, assustado, alegre, assistir, escuro
-theme: entertainment and family outings
-grammar_focus: simple present tense, basic emotions, location vocabulary
-cultural_elements: Brazilian movie theater experiences and parent-child interactions
-teaching_elements: emotional vocabulary, simple dialogue, common activities
