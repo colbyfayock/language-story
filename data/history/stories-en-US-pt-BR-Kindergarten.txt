@@ -1,3 +1,10 @@
+key_phrase: "Vamos lanchar juntos!"
+keywords: lanche, sanduíche, amigos, recreio, dividir, mesa, feliz
+theme: school snack time and friendship building
+grammar_focus: simple present tense, basic food vocabulary
+cultural_elements: Brazilian school snack time traditions and friendship building
+teaching_elements: food vocabulary, sharing concepts, friendship words, simple dialogue
+---
 key_phrase: "O avião de papel voa alto!"
 keywords: papel, avião, voar, dobrar, janela, alto, sorriso
 theme: indoor creative play and parent-child bonding
@@ -340,10 +347,3 @@ theme: first grocery shopping experience and family interactions
 grammar_focus: simple present tense, basic location vocabulary
 cultural_elements: Brazilian grocery shopping and parent-child interactions
 teaching_elements: location vocabulary, action verbs, family helper role
----
-key_phrase: "Está muito frio!"
-keywords: frio, casaco, luvas, neve, brincar, alegre, inverno
-theme: weather and winter activities
-grammar_focus: simple present tense, basic weather vocabulary, clothing items
-cultural_elements: Brazilian winter experiences and parent-child interactions
-teaching_elements: weather vocabulary, clothing items, emotional expressions
