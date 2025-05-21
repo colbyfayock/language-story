@@ -1,3 +1,10 @@
+key_phrase: "Estou com sono!"
+keywords: sonolento, travesseiro, coberta, pijama, estrela, beijo, macio
+theme: bedtime routines and parent-child interaction
+grammar_focus: simple present tense, basic adjectives
+cultural_elements: Brazilian bedtime routines and parent-child interactions
+teaching_elements: bedtime vocabulary, emotional expressions, family relationships, simple dialogue
+---
 key_phrase: "Vamos lanchar juntos!"
 keywords: lanche, sanduíche, amigos, recreio, dividir, mesa, feliz
 theme: school snack time and friendship building
@@ -340,10 +347,3 @@ theme: pets and garden activities
 grammar_focus: simple present tense, basic colors, animal actions
 cultural_elements: Brazilian home gardens and grandparent-child interactions
 teaching_elements: animal vocabulary, basic actions, family relationships
----
-key_phrase: "Vamos ao mercado!"
-keywords: mercado, compras, frutas, carrinho, pegar, novo, ajudar
-theme: first grocery shopping experience and family interactions
-grammar_focus: simple present tense, basic location vocabulary
-cultural_elements: Brazilian grocery shopping and parent-child interactions
-teaching_elements: location vocabulary, action verbs, family helper role
