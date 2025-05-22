@@ -1,3 +1,10 @@
+key_phrase: "Vamos desenhar juntos!"
+keywords: pincel, papel, desenhar, pintar, colorido, professor, criança
+theme: art class activities and creative expression
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian classroom art activities and teacher-student interactions
+teaching_elements: art vocabulary, color words, classroom dialogue, creative activities
+---
 key_phrase: "Estou com sono!"
 keywords: sonolento, travesseiro, coberta, pijama, estrela, beijo, macio
 theme: bedtime routines and parent-child interaction
@@ -340,10 +347,3 @@ theme: entertainment and family outings
 grammar_focus: simple present tense, basic emotions, descriptive adjectives
 cultural_elements: Brazilian circus traditions and parent-child interactions
 teaching_elements: color vocabulary, emotional expressions, entertainment vocabulary
----
-key_phrase: "O coelho está pulando!"
-keywords: coelho, pular, horta, cenoura, branco, feliz, vovô
-theme: pets and garden activities
-grammar_focus: simple present tense, basic colors, animal actions
-cultural_elements: Brazilian home gardens and grandparent-child interactions
-teaching_elements: animal vocabulary, basic actions, family relationships
