@@ -1,3 +1,10 @@
+key_phrase: "Quero este sabor!"
+keywords: sorveteria, sabor, colorido, contar, família, feliz, delícia
+theme: ice cream shop visit and number counting
+grammar_focus: simple present tense, basic numbers, colors
+cultural_elements: Brazilian ice cream shop experience and family interactions
+teaching_elements: number counting, color vocabulary, food words, simple dialogue
+---
 key_phrase: "Vamos desenhar juntos!"
 keywords: pincel, papel, desenhar, pintar, colorido, professor, criança
 theme: art class activities and creative expression
@@ -340,10 +347,3 @@ theme: nature observation and parent-child learning
 grammar_focus: simple present tense, basic descriptive adjectives
 cultural_elements: Brazilian garden environments and parent-child nature education
 teaching_elements: animal behavior vocabulary, natural products, simple dialogue
----
-key_phrase: "Vamos ao circo!"
-keywords: passeio, pássaro, palhaço, circo, ingresso, colorido, engraçado
-theme: entertainment and family outings
-grammar_focus: simple present tense, basic emotions, descriptive adjectives
-cultural_elements: Brazilian circus traditions and parent-child interactions
-teaching_elements: color vocabulary, emotional expressions, entertainment vocabulary
