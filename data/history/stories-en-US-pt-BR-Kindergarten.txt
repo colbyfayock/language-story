@@ -1,3 +1,10 @@
+key_phrase: "A avó precisa de ajuda!"
+keywords: regador, avó, plantas, jardim, água, molhar, feliz
+theme: helping grandma with garden tasks and family bonding
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian family relationships and intergenerational bonding
+teaching_elements: garden vocabulary, family words, action verbs, helping behaviors
+---
 key_phrase: "Quero experimentar!"
 keywords: almoço, comida, experimentar, sopa, cenoura, cozinha, novo
 theme: family mealtime and trying new foods
@@ -340,10 +347,3 @@ theme: playground activities and making friends
 grammar_focus: simple present tense, basic greetings
 cultural_elements: Brazilian playground interactions and friendship building
 teaching_elements: playground vocabulary, basic dialogue, action verbs
----
-key_phrase: "O trem vai chegar!"
-keywords: trem, estação, passear, barulho, viagem, azul, devagar
-theme: transportation and family outings
-grammar_focus: simple present tense, basic location vocabulary
-cultural_elements: Brazilian train travel experiences and parent-child interactions
-teaching_elements: transportation vocabulary, sound words, movement descriptions
