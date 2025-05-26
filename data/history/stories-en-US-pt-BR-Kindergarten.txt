@@ -1,3 +1,10 @@
+key_phrase: "Quer brincar comigo?"
+keywords: boneca, parque, brincar, amiga, emprestar, abraçar, sorriso
+theme: making friends through sharing and playground interaction
+grammar_focus: simple present tense, basic greetings
+cultural_elements: Brazilian playground social interactions and friendship building
+teaching_elements: friendship vocabulary, sharing concepts, emotional expressions, simple dialogue
+---
 key_phrase: "A avó precisa de ajuda!"
 keywords: regador, avó, plantas, jardim, água, molhar, feliz
 theme: helping grandma with garden tasks and family bonding
@@ -340,10 +347,3 @@ theme: gardening and family bonding
 grammar_focus: simple present tense, basic action verbs
 cultural_elements: Brazilian family gardening activities and aunt-nephew interactions
 teaching_elements: gardening vocabulary, action verbs, color recognition
----
-key_phrase: "Vamos brincar no escorregador!"
-keywords: escorregador, novo, legal, alto, subir, descer, brinquedo
-theme: playground activities and making friends
-grammar_focus: simple present tense, basic greetings
-cultural_elements: Brazilian playground interactions and friendship building
-teaching_elements: playground vocabulary, basic dialogue, action verbs
