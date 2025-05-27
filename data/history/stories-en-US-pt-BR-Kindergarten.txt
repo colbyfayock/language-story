@@ -1,3 +1,10 @@
+key_phrase: "Tenho uma surpresa para você!"
+keywords: presente, surpresa, caixa, laço, papel, irmã, aniversário
+theme: gift-giving and sibling relationships
+grammar_focus: simple present tense, basic descriptive words
+cultural_elements: Brazilian family gift-giving and sibling interactions
+teaching_elements: family vocabulary, emotional expressions, simple dialogue, color words
+---
 key_phrase: "Quer brincar comigo?"
 keywords: boneca, parque, brincar, amiga, emprestar, abraçar, sorriso
 theme: making friends through sharing and playground interaction
@@ -340,10 +347,3 @@ theme: beach activities and family fun
 grammar_focus: simple present tense, basic descriptive words
 cultural_elements: Brazilian beach activities and family interactions
 teaching_elements: nature vocabulary, basic dialogue, weather words
----
-key_phrase: "Vamos plantar uma flor!"
-keywords: plantar, semente, regador, terra, molhar, crescer, verde
-theme: gardening and family bonding
-grammar_focus: simple present tense, basic action verbs
-cultural_elements: Brazilian family gardening activities and aunt-nephew interactions
-teaching_elements: gardening vocabulary, action verbs, color recognition
