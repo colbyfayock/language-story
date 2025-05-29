@@ -1,3 +1,10 @@
+key_phrase: "Vamos ajudar a dobrar!"
+keywords: roupa, dobrar, cesto, limpo, pequeno, pilha, família
+theme: helping with household chores and family cooperation
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian family chores and parent-child cooperation
+teaching_elements: household vocabulary, action verbs, family relationships, simple dialogue
+---
 key_phrase: "As frutas são coloridas!"
 keywords: loja, fruta, maçã, suco, tia, provar, delícia
 theme: First visit to fruit store and family shopping experience
@@ -340,10 +347,3 @@ theme: nature observation and animal sounds
 grammar_focus: simple present tense, basic animal vocabulary
 cultural_elements: Brazilian birds and children's interaction with nature
 teaching_elements: animal sounds, daily routines, emotional expressions
----
-key_phrase: "Você quer beber água?"
-keywords: água, sede, copo, gelada, beber, dia, quiosque
-theme: staying hydrated and beach activities
-grammar_focus: simple present tense, basic questions
-cultural_elements: Brazilian beach kiosk culture and parent-child interactions
-teaching_elements: basic needs vocabulary, polite requests, temperature words
