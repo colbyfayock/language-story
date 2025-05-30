@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer biscoitos!"
+keywords: biscoito, forno, doce, assado, medir, misturar, gostoso
+theme: family cooking activity and grandparent-child bonding
+grammar_focus: simple present tense, basic kitchen vocabulary
+cultural_elements: Brazilian family cooking traditions and grandparent-child interactions
+teaching_elements: kitchen vocabulary, basic dialogue, cooking actions, family relationships
+---
 key_phrase: "Vamos ajudar a dobrar!"
 keywords: roupa, dobrar, cesto, limpo, pequeno, pilha, família
 theme: helping with household chores and family cooperation
@@ -340,10 +347,3 @@ theme: playground safety and parental comfort
 grammar_focus: simple present tense, basic emotions
 cultural_elements: Brazilian parent-child comfort interactions and playground safety
 teaching_elements: emotional vocabulary, basic dialogue, body parts
----
-key_phrase: "O passarinho canta!"
-keywords: passarinho, cantar, ninho, galho, árvore, música, feliz
-theme: nature observation and animal sounds
-grammar_focus: simple present tense, basic animal vocabulary
-cultural_elements: Brazilian birds and children's interaction with nature
-teaching_elements: animal sounds, daily routines, emotional expressions
