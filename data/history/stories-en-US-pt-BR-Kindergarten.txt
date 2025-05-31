@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer bolhas!"
+keywords: bolhas, soprar, compartilhar, parque, sorriso, brincar, amigo
+theme: making friends through sharing and playground interaction
+grammar_focus: simple present tense, basic greetings
+cultural_elements: Brazilian playground social interactions and friendship building
+teaching_elements: friendship vocabulary, sharing concepts, emotional expressions, simple dialogue
+---
 key_phrase: "Vamos fazer biscoitos!"
 keywords: biscoito, forno, doce, assado, medir, misturar, gostoso
 theme: family cooking activity and grandparent-child bonding
@@ -340,10 +347,3 @@ theme: birthday celebrations and friendship
 grammar_focus: simple present tense, basic emotions
 cultural_elements: Brazilian birthday celebrations and children's interactions
 teaching_elements: party vocabulary, weather words, emotional expressions
----
-key_phrase: "Está tudo bem!"
-keywords: parquinho, menino, bicicleta, joelho, machucado, chorar, melhor
-theme: playground safety and parental comfort
-grammar_focus: simple present tense, basic emotions
-cultural_elements: Brazilian parent-child comfort interactions and playground safety
-teaching_elements: emotional vocabulary, basic dialogue, body parts
