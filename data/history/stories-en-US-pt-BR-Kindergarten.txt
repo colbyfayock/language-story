@@ -1,3 +1,10 @@
+key_phrase: "O avião está no céu!"
+keywords: avião, parque, brincar, correr, voar, amigo, feliz
+theme: outdoor play and imagination at the park
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian children's outdoor play and friendship
+teaching_elements: action verbs, friendship vocabulary, emotional expressions, simple dialogue
+---
 key_phrase: "Vamos fazer bolhas!"
 keywords: bolhas, soprar, compartilhar, parque, sorriso, brincar, amigo
 theme: making friends through sharing and playground interaction
@@ -340,10 +347,3 @@ theme: first library visit and classroom activities
 grammar_focus: simple present tense, basic location vocabulary
 cultural_elements: Brazilian school library experiences and teacher-student interactions
 teaching_elements: classroom vocabulary, basic dialogue, location words
----
-key_phrase: "A festa é divertida!"
-keywords: bolo, balão, festa, rir, telhado, divertido, amigos
-theme: birthday celebrations and friendship
-grammar_focus: simple present tense, basic emotions
-cultural_elements: Brazilian birthday celebrations and children's interactions
-teaching_elements: party vocabulary, weather words, emotional expressions
