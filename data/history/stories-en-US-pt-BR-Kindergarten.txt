@@ -1,3 +1,10 @@
+key_phrase: "Vamos procurar um livro!"
+keywords: livraria, livro, colorido, estante, gato, procurar, surpresa
+theme: first bookstore visit and parent-child reading experience
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian bookstore experiences and parent-child interactions
+teaching_elements: book vocabulary, color words, animal vocabulary, simple dialogue
+---
 key_phrase: "O avião está no céu!"
 keywords: avião, parque, brincar, correr, voar, amigo, feliz
 theme: outdoor play and imagination at the park
@@ -340,10 +347,3 @@ theme: family music and gatherings
 grammar_focus: simple present tense, basic family vocabulary
 cultural_elements: Brazilian family musical traditions and intergenerational interactions
 teaching_elements: family vocabulary, music-related words, simple dialogue
----
-key_phrase: "Vamos à biblioteca!"
-keywords: biblioteca, livro, história, ler, professor, mochila, sentar
-theme: first library visit and classroom activities
-grammar_focus: simple present tense, basic location vocabulary
-cultural_elements: Brazilian school library experiences and teacher-student interactions
-teaching_elements: classroom vocabulary, basic dialogue, location words

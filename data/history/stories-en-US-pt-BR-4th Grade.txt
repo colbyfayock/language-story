@@ -1,3 +1,11 @@
+Key phrase: "A tradição passa de geração em geração!"
+Keywords: chaleira, mate, erva, cuia, tradição
+Theme: Learning traditional beverage preparation with grandfather
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian chimarrão tradition, family teaching
+Emotional elements: Pride, family bonding, learning traditions
+Learning focus: Tradition vocabulary, following instructions, family interaction
+---
 Key phrase: "Vamos ver quem vai mais longe!"
 Keywords: dobrar, papel, voar, testar, amigos, competição
 Theme: Making paper airplanes and friendly competition
@@ -384,9 +392,3 @@ Theme: School activities and learning
 Grammar: Present tense, simple questions, descriptive adjectives
 Cultural elements: Brazilian education environment, collaborative learning
 Emotional elements: Enthusiasm for learning, friendship
----
-Key phrase: "Que delícia esse piquenique!"
-Keywords: parque, piquenique, família, cachorro, grama
-Theme: Family activities and outdoor recreation
-Grammar: Present tense, descriptive adjectives
-Cultural elements: Brazilian family gatherings, outdoor leisure activities
