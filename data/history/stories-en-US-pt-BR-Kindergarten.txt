@@ -1,3 +1,10 @@
+key_phrase: "A abelha faz mel!"
+keywords: jardim, flor, abelha, doce, mel, voar, zumbir
+theme: nature observation and parent-child learning about bees
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian garden exploration and parent-child nature observation
+teaching_elements: nature vocabulary, animal sounds, descriptive words, simple dialogue
+---
 key_phrase: "Vamos procurar um livro!"
 keywords: livraria, livro, colorido, estante, gato, procurar, surpresa
 theme: first bookstore visit and parent-child reading experience
@@ -340,10 +347,3 @@ theme: family cooking and bonding
 grammar_focus: simple present tense, basic kitchen vocabulary
 cultural_elements: Brazilian family cooking traditions and parent-child interactions
 teaching_elements: kitchen vocabulary, basic dialogue, cooking actions
----
-key_phrase: "O avô toca violão!"
-keywords: avô, violão, tocar, música, família, sentado, varanda
-theme: family music and gatherings
-grammar_focus: simple present tense, basic family vocabulary
-cultural_elements: Brazilian family musical traditions and intergenerational interactions
-teaching_elements: family vocabulary, music-related words, simple dialogue

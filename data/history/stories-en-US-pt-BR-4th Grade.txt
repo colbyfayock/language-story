@@ -1,3 +1,11 @@
+Key phrase: "O tempo passa rápido quando estamos aprendendo!"
+Keywords: pulso, relógio, hora, tic-tac, aprender, funcionamento
+Theme: Learning to tell time with teacher guidance
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian classroom teaching, student-teacher interaction
+Emotional elements: Pride in learning, teacher encouragement
+Learning focus: Time vocabulary, expressing progress, classroom dialogue
+---
 Key phrase: "A tradição passa de geração em geração!"
 Keywords: chaleira, mate, erva, cuia, tradição
 Theme: Learning traditional beverage preparation with grandfather
@@ -385,10 +393,3 @@ Theme: Zoo visits and animal observation
 Grammar: Present tense, simple questions, descriptive adjectives
 Cultural elements: Brazilian zoos, family outings, learning about animals
 Emotional elements: Excitement about animals, family bonding
----
-Key phrase: "Adoro aprender coisas novas!"
-Keywords: biblioteca, livros, estudar, professor, caderno
-Theme: School activities and learning
-Grammar: Present tense, simple questions, descriptive adjectives
-Cultural elements: Brazilian education environment, collaborative learning
-Emotional elements: Enthusiasm for learning, friendship
