@@ -1,3 +1,11 @@
+Key phrase: "Cada livro é uma nova aventura!"
+Keywords: livraria, coleção, aventura, história, estante
+Theme: Making friends through shared reading interests at bookstore
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian bookstore culture, youth reading groups
+Emotional elements: Friendship formation, shared interests
+Learning focus: Bookstore vocabulary, expressing interests, friendship dialogue
+---
 Key phrase: "O tempo passa rápido quando estamos aprendendo!"
 Keywords: pulso, relógio, hora, tic-tac, aprender, funcionamento
 Theme: Learning to tell time with teacher guidance
@@ -386,10 +394,3 @@ Theme: Shopping and responsibility at local markets
 Grammar: Present tense, simple questions, numbers
 Cultural elements: Brazilian market shopping, food shopping habits
 Emotional elements: Independence, responsibility, pride in accomplishment
----
-Key phrase: "Os animais são incríveis!"
-Keywords: zoológico, animais, macacos, tigre, alimentar
-Theme: Zoo visits and animal observation
-Grammar: Present tense, simple questions, descriptive adjectives
-Cultural elements: Brazilian zoos, family outings, learning about animals
-Emotional elements: Excitement about animals, family bonding
