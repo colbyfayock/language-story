@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer música!"
+keywords: violão, cantar, palmas, dançar, professor, amigos, alegre
+theme: first music class experience and classroom interaction
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian music education and classroom interactions
+teaching_elements: music vocabulary, action verbs, emotional expressions, simple dialogue
+---
 key_phrase: "As frutas são gostosas!"
 keywords: cesto, morango, uva, verde, vermelho, feliz, mercado
 theme: first visit to fruit market and parent-child shopping experience
@@ -340,10 +347,3 @@ theme: farm animals and morning routines
 grammar_focus: simple present tense, basic greetings
 cultural_elements: Brazilian farm life and morning routines
 teaching_elements: animal sounds, basic greetings, daily routines
----
-key_phrase: "Vamos pintar!"
-keywords: tinta, boneco, alegre, vestido, roxo, amarelo, tia
-theme: creative activities and family bonding
-grammar_focus: simple present tense, basic color vocabulary
-cultural_elements: Brazilian family art activities and aunt-niece interactions
-teaching_elements: color vocabulary, art supplies, simple dialogue
