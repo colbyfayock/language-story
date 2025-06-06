@@ -1,3 +1,10 @@
+key_phrase: "O arco-íris tem muitas cores!"
+keywords: arco-íris, chuva, cores, janela, desenhar, sol, papel
+theme: weather observation and color recognition
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian weather appreciation and parent-child nature observation
+teaching_elements: color vocabulary, weather words, counting activities, simple dialogue
+---
 key_phrase: "Vamos fazer música!"
 keywords: violão, cantar, palmas, dançar, professor, amigos, alegre
 theme: first music class experience and classroom interaction
@@ -340,10 +347,3 @@ theme: dental hygiene and doctor visits
 grammar_focus: simple present tense, basic colors
 cultural_elements: Brazilian dental care routines and parent-child interactions
 teaching_elements: hygiene vocabulary, colors, emotional expressions
----
-key_phrase: "Bom dia na fazenda!"
-keywords: fazenda, porco, galinha, ovelha, manhã, cedo, café
-theme: farm animals and morning routines
-grammar_focus: simple present tense, basic greetings
-cultural_elements: Brazilian farm life and morning routines
-teaching_elements: animal sounds, basic greetings, daily routines
