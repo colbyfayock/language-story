@@ -1,3 +1,11 @@
+Key phrase: "A felicidade chega com o som da campainha!"
+Keywords: sorveteiro, campainha, vizinhança, bairro, morador
+Theme: Ice cream vendor and neighborhood community
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian ice cream truck tradition, community interaction
+Emotional elements: Joy, community connection, friendship
+Learning focus: Neighborhood vocabulary, expressing happiness, community interaction
+---
 Key phrase: "Com amor e dedicação, tudo fica mais bonito!"
 Keywords: carpintaria, martelo, prego, madeira, pássaros
 Theme: Building birdhouses and family bonding
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue, time expressions
 Cultural elements: Brazilian home gardens, family activities
 Emotional elements: Pride, family bonding, nurturing
 Learning focus: Nature vocabulary, expressing amazement, time expressions
----
-Key phrase: "Qual é o seu favorito?"
-Keywords: sorvete, sorveteria, sabores, escolher, tarde
-Theme: Making choices and expressing preferences at an ice cream shop
-Grammar: Present tense, simple dialogue, expressing preferences
-Cultural elements: Brazilian ice cream flavors, afternoon snack culture
-Emotional elements: Joy, curiosity, sibling interaction
-Learning focus: Food vocabulary, expressing preferences, making choices
