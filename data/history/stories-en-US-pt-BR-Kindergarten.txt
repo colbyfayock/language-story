@@ -1,3 +1,10 @@
+key_phrase: "A pipoca está estourando!"
+keywords: pipoca, panela, estourar, quentinho, assistir, filme, sofá
+theme: family movie night and making popcorn together
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian family entertainment and movie night traditions
+teaching_elements: food vocabulary, family relationships, sensory descriptions, simple dialogue
+---
 key_phrase: "O passarinho canta de manhã!"
 keywords: passarinho, ninho, galho, cantar, azul, quieto, observar
 theme: morning nature observation and parent-child interaction
@@ -340,10 +347,3 @@ theme: discovering musical instruments and family music making
 grammar_focus: simple present tense, basic musical vocabulary
 cultural_elements: Brazilian family music making and instrument exploration
 teaching_elements: sound words, family vocabulary, action verbs, musical instruments
----
-key_phrase: "É hora de brincar com música!"
-keywords: pandeiro, tambor, música, dança, ritmo, família, sala
-theme: family music making and dancing
-grammar_focus: simple present tense, basic musical vocabulary
-cultural_elements: Brazilian musical instruments and family music traditions
-teaching_elements: sound words, family vocabulary, action verbs
