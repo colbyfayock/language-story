@@ -1,3 +1,10 @@
+key_phrase: "O circo é mágico!"
+keywords: circo, palhaço, mágico, pipoca, rir, cartola, música
+theme: first circus visit and family entertainment
+grammar_focus: simple present tense, basic emotional expressions
+cultural_elements: Brazilian circus traditions and family entertainment
+teaching_elements: entertainment vocabulary, emotional expressions, simple dialogue, family relationships
+---
 key_phrase: "A pipoca está estourando!"
 keywords: pipoca, panela, estourar, quentinho, assistir, filme, sofá
 theme: family movie night and making popcorn together
@@ -340,10 +347,3 @@ theme: winter comfort food and family cooking
 grammar_focus: simple present tense, basic kitchen vocabulary
 cultural_elements: Brazilian family cooking and winter comfort foods
 teaching_elements: temperature words, kitchen vocabulary, family interactions, taste descriptions
----
-key_phrase: "Vamos fazer barulho!"
-keywords: xilofone, sino, bater, ouvir, barulho, feliz, brilhante
-theme: discovering musical instruments and family music making
-grammar_focus: simple present tense, basic musical vocabulary
-cultural_elements: Brazilian family music making and instrument exploration
-teaching_elements: sound words, family vocabulary, action verbs, musical instruments

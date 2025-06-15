@@ -1,3 +1,11 @@
+Key phrase: "Cada pista nos leva a uma nova descoberta!"
+Keywords: mapa, pistas, tesouro, biblioteca, enigma
+Theme: Library treasure hunt and discovery learning
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian library activities, educational games
+Emotional elements: Excitement, friendship, discovery
+Learning focus: Library vocabulary, following instructions, expressing excitement
+---
 Key phrase: "De pequenas sementes nascem grandes alegrias!"
 Keywords: jardim, sementes, regar, brotos, girassóis
 Theme: Gardening and intergenerational learning
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian soccer culture, team sports
 Emotional elements: Encouragement, teamwork, belonging
 Learning focus: Sports vocabulary, expressing support, team interaction
----
-Key phrase: "A arte fala com o coração!"
-Keywords: pintar, pincel, quadro, cores, expressão
-Theme: Art and creative expression with friends
-Grammar: Present tense, descriptive adjectives, emotional expressions
-Cultural elements: Brazilian art appreciation, creative activities
-Emotional elements: Joy, friendship, creative expression
-Learning focus: Art vocabulary, expressing emotions through colors, friendship interaction
