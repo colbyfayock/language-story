@@ -1,3 +1,11 @@
+Key phrase: "Que sabor maravilhoso você escolheu!"
+Keywords: sorveteria, sabores, coberturas, experimentar, delicioso
+Theme: Ice cream shop visit and friendship
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian ice cream shops, friendship interaction
+Emotional elements: Joy, friendship, trying new things
+Learning focus: Food vocabulary, expressing preferences, social interaction dialogue
+---
 Key phrase: "Unidos no jardim, colhemos amizade!"
 Keywords: canteiro, plantar, jardim comunitário, vizinhos, compartilhar
 Theme: Community garden and making new friends
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian birthday parties, gift-giving customs
 Emotional elements: Friendship, creativity, celebration
 Learning focus: Birthday vocabulary, expressing excitement, gift-giving interactions
----
-Key phrase: "O pedido está pronto!"
-Keywords: restaurante, cardápio, garçonete, pedido, sobremesa, prato
-Theme: Restaurant dining and family interaction
-Grammar: Present tense, simple dialogue, food ordering
-Cultural elements: Brazilian dining customs, traditional foods
-Emotional elements: Family bonding, enjoyment of meals together
-Learning focus: Restaurant vocabulary, ordering food, expressing preferences

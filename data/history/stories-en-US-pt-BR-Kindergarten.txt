@@ -1,3 +1,10 @@
+key_phrase: "A girafa é muito alta!"
+keywords: zoológico, girafa, pescoço, alto, passear, admirar, filha
+theme: zoo visit and parent-child interaction
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian family outings and parent-child observations
+teaching_elements: animal vocabulary, family relationships, simple dialogue, observational words
+---
 key_phrase: "Meus dentes estão brilhando!"
 keywords: escova, dentes, espelho, sorrir, limpo, brilhante, banheiro
 theme: morning hygiene routine and parent-child interaction
@@ -340,10 +347,3 @@ theme: family bedtime storytelling and nighttime routines
 grammar_focus: simple present tense, basic descriptive adjectives
 cultural_elements: Brazilian family bedtime routines and parent-child storytelling
 teaching_elements: bedtime vocabulary, family relationships, basic dialogue, emotional expressions
----
-key_phrase: "Vamos ver os animais!"
-keywords: loja, peixinho, aquário, papagaio, visitar, colorido, abraçar
-theme: family outing to pet shop and animal discovery
-grammar_focus: simple present tense, basic color vocabulary
-cultural_elements: Brazilian pet shops and parent-child interactions
-teaching_elements: animal vocabulary, color words, simple dialogue, emotional expressions
