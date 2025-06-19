@@ -1,5 +1,399 @@
-Key phrase: "Vamos brincar juntos?"
-Keywords: praia, amigos, brincar, areia, bola
-Theme: Making friends and social interaction at the beach
-Grammar: Present tense, simple past tense
-Cultural elements: Brazilian beach culture, children's games
+Key phrase: "Que sabor maravilhoso você escolheu!"
+Keywords: sorveteria, sabores, coberturas, experimentar, delicioso
+Theme: Ice cream shop visit and friendship
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian ice cream shops, friendship interaction
+Emotional elements: Joy, friendship, trying new things
+Learning focus: Food vocabulary, expressing preferences, social interaction dialogue
+---
+Key phrase: "Unidos no jardim, colhemos amizade!"
+Keywords: canteiro, plantar, jardim comunitário, vizinhos, compartilhar
+Theme: Community garden and making new friends
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian community gardens, neighborhood relationships
+Emotional elements: Friendship formation, learning new skills, community spirit
+Learning focus: Garden vocabulary, social interaction, community dialogue
+---
+Key phrase: "Cada pista nos leva a uma nova descoberta!"
+Keywords: mapa, pistas, tesouro, biblioteca, enigma
+Theme: Library treasure hunt and discovery learning
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian library activities, educational games
+Emotional elements: Excitement, friendship, discovery
+Learning focus: Library vocabulary, following instructions, expressing excitement
+---
+Key phrase: "De pequenas sementes nascem grandes alegrias!"
+Keywords: jardim, sementes, regar, brotos, girassóis
+Theme: Gardening and intergenerational learning
+Grammar: Present tense, simple instructions
+Cultural elements: Brazilian family gardening, grandmother-granddaughter bonding
+Emotional elements: Wonder, patience, discovery
+Learning focus: Garden vocabulary, expressing excitement, following instructions
+---
+Key phrase: "Com a ajuda dos amigos, tudo fica mais fácil!"
+Keywords: cartaz, apresentação, nervoso, coragem, colegas
+Theme: School presentation and friendship support
+Grammar: Present tense, emotional expressions
+Cultural elements: Brazilian classroom support, peer encouragement
+Emotional elements: Overcoming nervousness, friendship support
+Learning focus: School vocabulary, expressing emotions, encouragement dialogue
+---
+Key phrase: "A felicidade chega com o som da campainha!"
+Keywords: sorveteiro, campainha, vizinhança, bairro, morador
+Theme: Ice cream vendor and neighborhood community
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian ice cream truck tradition, community interaction
+Emotional elements: Joy, community connection, friendship
+Learning focus: Neighborhood vocabulary, expressing happiness, community interaction
+---
+Key phrase: "Com amor e dedicação, tudo fica mais bonito!"
+Keywords: carpintaria, martelo, prego, madeira, pássaros
+Theme: Building birdhouses and family bonding
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian backyard wildlife, family DIY projects
+Emotional elements: Pride in creation, grandfather-grandson bonding
+Learning focus: Tool vocabulary, expressing enthusiasm, project completion dialogue
+---
+Key phrase: "Com calma e paciência, você vai conseguir!"
+Keywords: patins, pista, deslizar, equilíbrio, instrutora
+Theme: First-time ice skating experience and overcoming nervousness
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian indoor sports activities
+Emotional elements: Building confidence, family support
+Learning focus: Sports vocabulary, encouragement phrases, expressing emotions
+---
+Key phrase: "O talento cresce com a prática!"
+Keywords: apresentação, nervoso, ensaiar, flauta, melodia, confiante
+Theme: School talent show preparation and overcoming nervousness
+Grammar: Present tense, emotional expressions
+Cultural elements: Brazilian school performances, friendship support
+Emotional elements: Nervousness, encouragement, confidence building
+Learning focus: Performance vocabulary, expressing emotions, encouragement dialogue
+---
+Key phrase: "Cada livro é uma nova aventura!"
+Keywords: livraria, coleção, aventura, história, estante
+Theme: Making friends through shared reading interests at bookstore
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian bookstore culture, youth reading groups
+Emotional elements: Friendship formation, shared interests
+Learning focus: Bookstore vocabulary, expressing interests, friendship dialogue
+---
+Key phrase: "O tempo passa rápido quando estamos aprendendo!"
+Keywords: pulso, relógio, hora, tic-tac, aprender, funcionamento
+Theme: Learning to tell time with teacher guidance
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian classroom teaching, student-teacher interaction
+Emotional elements: Pride in learning, teacher encouragement
+Learning focus: Time vocabulary, expressing progress, classroom dialogue
+---
+Key phrase: "A tradição passa de geração em geração!"
+Keywords: chaleira, mate, erva, cuia, tradição
+Theme: Learning traditional beverage preparation with grandfather
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian chimarrão tradition, family teaching
+Emotional elements: Pride, family bonding, learning traditions
+Learning focus: Tradition vocabulary, following instructions, family interaction
+---
+Key phrase: "Vamos ver quem vai mais longe!"
+Keywords: dobrar, papel, voar, testar, amigos, competição
+Theme: Making paper airplanes and friendly competition
+Grammar: Present tense, simple commands
+Cultural elements: Brazilian playground activities, friend interaction
+Emotional elements: Excitement, friendship, sharing knowledge
+Learning focus: Action verbs, basic instructions, friendly competition dialogue
+---
+Key phrase: "A música fala todas as línguas!"
+Keywords: bateria, ensaio, melodia, instrumentos, palco
+Theme: After-school music club and friendship formation
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian music education, group activities
+Emotional elements: Overcoming shyness, making friends through music
+Learning focus: Music vocabulary, expressing interest, group interaction
+---
+Key phrase: "Com calma e paciência, tudo é possível!"
+Keywords: natação, piscina, instrutor, respiração, braçadas
+Theme: Swimming lessons and overcoming fear
+Grammar: Present tense, encouraging dialogue
+Cultural elements: Brazilian swimming instruction, teacher-student interaction
+Emotional elements: Building confidence, accomplishment, overcoming fear
+Learning focus: Sports vocabulary, encouragement phrases, progress description
+---
+Key phrase: "O universo tem segredos maravilhosos!"
+Keywords: planetário, cientista, apresentação, estrelas, constelações
+Theme: First planetarium visit and science discovery
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian science education, school field trips
+Emotional elements: Wonder, curiosity, inspiration
+Learning focus: Space vocabulary, expressing amazement, educational dialogue
+---
+Key phrase: "Cada obra tem uma história para contar!"
+Keywords: exposição, guia, quadros, visitantes, entrada
+Theme: Art gallery visit and cultural appreciation
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian art appreciation, guided museum visits
+Emotional elements: Wonder, curiosity, understanding
+Learning focus: Art vocabulary, expressing questions, guided tour dialogue
+---
+Key phrase: "Ensinar é aprender duas vezes!"
+Keywords: violão, música, aulas, dedos, ritmo
+Theme: Music teaching and sibling bonding
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian music education, family teaching
+Emotional elements: Pride in teaching, sibling bonding, accomplishment
+Learning focus: Music vocabulary, teaching instructions, encouragement phrases
+---
+Key phrase: "O mar guarda muitos tesouros!"
+Keywords: oceano, conchas, ondas, navio, praia
+Theme: First beach visit and ocean discovery
+Grammar: Present tense, descriptive adjectives
+Cultural elements: Brazilian coastal experiences
+Emotional elements: Wonder, discovery, family bonding
+Learning focus: Ocean vocabulary, expressing amazement, family dialogue
+---
+Key phrase: "Cada cor conta uma história!"
+Keywords: pinturas, pincéis, tinta, papel, artistas
+Theme: After-school art club and creative collaboration
+Grammar: Present tense, descriptive adjectives
+Cultural elements: Brazilian art education, creative expression
+Emotional elements: Friendship, creativity, accomplishment
+Learning focus: Art vocabulary, color descriptions, collaborative dialogue
+---
+Key phrase: "Cada peça tem uma história!"
+Keywords: brinquedos, artesão, madeira, pintura, feira
+Theme: Traditional crafts and artisan markets
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian artisan markets, craft traditions
+Emotional elements: Family bonding, appreciation for craftsmanship
+Learning focus: Craft vocabulary, expressing interest, market dialogue
+---
+Key phrase: "A natureza tem muito para mostrar!"
+Keywords: luneta, nuvens, vista, montanha, janela
+Theme: School science observation and nature appreciation
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian classroom activities, nature observation
+Emotional elements: Wonder, classroom friendship, discovery
+Learning focus: Nature vocabulary, expressing observations, classroom interaction
+---
+Key phrase: "A segurança vem primeiro!"
+Keywords: rampa, capacete, joelheiras, pista, segurança
+Theme: First visit to skateboard park and learning new skills
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian skateboarding community, safety awareness
+Emotional elements: Overcoming fear, sibling support, accomplishment
+Learning focus: Safety vocabulary, expressing feelings, encouragement phrases
+---
+Key phrase: "Cada ferramenta tem seu uso!"
+Keywords: oficina, mecânico, ferramentas, motor, conserto
+Theme: Auto repair shop and father-son learning
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian family businesses, trade skill learning
+Emotional elements: Pride in learning, father-son bonding
+Learning focus: Workshop vocabulary, expressing interest in learning, workplace dialogue
+---
+Key phrase: "A música nos une!"
+Keywords: orquestra, violino, maestro, músicos, ensaio, palco
+Theme: School orchestra practice and performance
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian youth orchestras, music education
+Emotional elements: Nervousness, group accomplishment, friendship
+Learning focus: Music vocabulary, expressing encouragement, performance preparation
+---
+Key phrase: "Vai ficar tudo bem!"
+Keywords: enfermeira, médico, hospital, recuperação, curativos
+Theme: Hospital visit and injury recovery
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian healthcare, family support
+Emotional elements: Bravery, reassurance, family support
+Learning focus: Medical vocabulary, expressing comfort, medical interaction dialogue
+---
+Key phrase: "A leitura abre novos mundos!"
+Keywords: biblioteca, clube, leitura, personagens, imaginação
+Theme: Library book club and making new friends
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian reading clubs, youth social interaction
+Emotional elements: Making friends, shared interests, discovering new worlds through books
+Learning focus: Library vocabulary, expressing enthusiasm, social interaction dialogue
+---
+Key phrase: "A tecnologia une pessoas!"
+Keywords: robótica, competição, equipe, robô, ferramentas
+Theme: School robotics competition and teamwork
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian school technology clubs, STEM education
+Emotional elements: Teamwork, accomplishment, friendship
+Learning focus: Technology vocabulary, expressing teamwork, competition dialogue
+---
+Key phrase: "Que mundo colorido!"
+Keywords: jardim botânico, borboletas, flores, banco, lanche
+Theme: Nature appreciation and mother-daughter bonding at botanical garden
+Grammar: Present tense, descriptive dialogue
+Cultural elements: Brazilian botanical gardens, nature appreciation
+Emotional elements: Wonder, mother-daughter bonding, nature appreciation
+Learning focus: Nature vocabulary, expressing amazement, descriptive language
+---
+Key phrase: "Cada animal tem sua rotina!"
+Keywords: galinha, ovos, celeiro, fazenda, ração
+Theme: Farm visit and animal care learning
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian farm life, family teaching
+Emotional elements: Pride in learning, uncle-niece bonding
+Learning focus: Farm vocabulary, following instructions, expressing excitement
+---
+Key phrase: "Hoje vamos explorar a história!"
+Keywords: museu, guia, vitrines, objetos, fósseis
+Theme: Museum field trip and historical learning
+Grammar: Present tense, descriptive dialogue
+Cultural elements: Brazilian museums, educational experiences
+Emotional elements: Wonder, curiosity, friendship
+Learning focus: Museum vocabulary, expressing amazement, educational dialogue
+---
+Key phrase: "Esta receita é especial!"
+Keywords: cozinha, receita, forno, farinha, biscoitos
+Theme: Family cooking traditions and intergenerational learning
+Grammar: Present tense, simple dialogue, sequential instructions
+Cultural elements: Brazilian family recipes, grandmother-granddaughter bonding
+Emotional elements: Family tradition, learning from elders, pride in creation
+Learning focus: Cooking vocabulary, family terms, following instructions
+---
+Key phrase: "Vamos formar um time?"
+Keywords: rede, vôlei, time, arena, competição
+Theme: Beach sports and making new friends
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian beach volleyball, social interaction
+Emotional elements: Overcoming shyness, friendship formation, learning new skills
+Learning focus: Sports vocabulary, social invitation phrases, encouragement expressions
+---
+Key phrase: "Olhe como o céu é mágico!"
+Keywords: telescópio, estrelas, lua, planeta, observatório
+Theme: Astronomy observation and family science activities
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian astronomical observation, family learning
+Emotional elements: Wonder, curiosity, family bonding
+Learning focus: Astronomy vocabulary, expressing amazement, family dialogue
+---
+Key phrase: "Prática leva à perfeição!"
+Keywords: skate, rampa, truques, capacete, joelheiras
+Theme: Learning new skills and making friends while skateboarding
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian skateboarding culture, sibling support
+Emotional elements: Overcoming nervousness, friendship, accomplishment
+Learning focus: Sports equipment vocabulary, expressing encouragement, social interaction
+---
+Key phrase: "Cada movimento conta!"
+Keywords: ensaio, dançarinos, coreografia, figurino, espetáculo
+Theme: Dance recital preparation and performance
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian dance education, group performance
+Emotional elements: Pride, accomplishment, teamwork
+Learning focus: Performance vocabulary, expressing encouragement, group coordination
+---
+Key phrase: "Nossa arte brilha hoje!"
+Keywords: exposição, quadros, galeria, cartaz, artistas
+Theme: School art exhibition and creative expression
+Grammar: Present tense, descriptive dialogue
+Cultural elements: Brazilian school art exhibitions
+Emotional elements: Pride in creativity, school community spirit
+Learning focus: Art exhibition vocabulary, expressing pride, school interaction
+---
+Key phrase: "Que dia perfeito para ficar em casa!"
+Keywords: chuva, quebra-cabeça, montar, peças, desenho
+Theme: Indoor activities and sibling cooperation
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian family indoor activities
+Emotional elements: Contentment, sibling bonding, accomplishment
+Learning focus: Weather vocabulary, activity descriptions, cooperative dialogue
+---
+Key phrase: "Conseguimos criar algo especial!"
+Keywords: computador, programar, teclado, mouse, tela
+Theme: School technology and coding
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian school technology education
+Emotional elements: Achievement, collaboration, pride
+Learning focus: Technology vocabulary, expressing accomplishment, teamwork dialogue
+---
+Key phrase: "Que variedade incrível!"
+Keywords: barracas, vendedor, legumes, feira, sacola
+Theme: Street market shopping and family learning
+Grammar: Present tense, simple dialogue, numbers
+Cultural elements: Brazilian street markets, family shopping
+Emotional elements: Pride in helping, mother-daughter bonding, learning
+Learning focus: Market vocabulary, price discussion, shopping dialogue
+---
+Key phrase: "Vamos descobrir algo novo!"
+Keywords: experimento, ciências, misturar, observar, resultado
+Theme: Science fair and classroom experiments
+Grammar: Present tense, descriptive dialogue
+Cultural elements: Brazilian school science activities
+Emotional elements: Curiosity, friendship, academic achievement
+Learning focus: Scientific vocabulary, expressing discovery, classroom dialogue
+---
+Key phrase: "Vamos fazer uma apresentação linda!"
+Keywords: apresentação, palco, violão, ensaiar, aplaudir
+Theme: School music performance and friendship
+Grammar: Present tense, expressing encouragement
+Cultural elements: Brazilian school performances, family support
+Emotional elements: Pride, friendship, accomplishment
+Learning focus: Music performance vocabulary, expressing encouragement, performance dialogue
+---
+Key phrase: "Juntos fazemos a diferença!"
+Keywords: ordenar, organização, voluntário, comunidade, ajudar
+Theme: Community service and library volunteering
+Grammar: Present tense, expressing enthusiasm
+Cultural elements: Brazilian community service, library organization
+Emotional elements: Pride in helping others, teamwork, community spirit
+Learning focus: Community service vocabulary, expressing group accomplishment, collaborative dialogue
+---
+Key phrase: "Vamos cuidar dele juntos!"
+Keywords: abrigo, gatinho, responsabilidade, cuidar, alimentar, carinho
+Theme: Pet adoption and family responsibility
+Grammar: Present tense, future plans
+Cultural elements: Brazilian pet adoption, family decision-making
+Emotional elements: Love for animals, family support, responsibility
+Learning focus: Pet care vocabulary, expressing commitment, family dialogue
+---
+Key phrase: "Como o tempo muda rápido!"
+Keywords: estações, outono, folhas, temperatura, vento, observar
+Theme: Weather observation and seasonal changes
+Grammar: Present tense, weather expressions
+Cultural elements: Brazilian seasonal changes, nature observation
+Emotional elements: Curiosity, mother-daughter bonding, scientific interest
+Learning focus: Weather vocabulary, expressing observations, natural phenomena
+---
+Key phrase: "Podemos ser amigos?"
+Keywords: balanço, escorregador, gangorras, praça, brinquedos
+Theme: Making friends at a playground
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian public spaces, children's social interactions
+Emotional elements: Friendship, overcoming shyness, joy of playing together
+Learning focus: Playground vocabulary, social interactions, making friends
+---
+Key phrase: "Que cheirinho bom!"
+Keywords: padaria, pães, vitrine, fila, cheiro
+Theme: Morning bakery visit and food shopping
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian bakery culture, morning routines
+Emotional elements: Joy, anticipation, mother-daughter bonding
+Learning focus: Food vocabulary, expressing appreciation, social interactions
+---
+Key phrase: "Que aventura maravilhosa!"
+Keywords: barraca, fogueira, lanternas, floresta, acampar
+Theme: Family camping adventure and outdoor activities
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian outdoor recreation, family activities
+Emotional elements: Pride, family bonding, wonder at nature
+Learning focus: Outdoor vocabulary, expressing excitement, family interaction
+---
+Key phrase: "Não importa quem vence, o importante é participar!"
+Keywords: competição, medalha, vitória, participar, vencer
+Theme: School sports competition and sportsmanship
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian school sports events
+Emotional elements: Team spirit, good sportsmanship, pride
+Learning focus: Sports competition vocabulary, expressing encouragement, team participation
+---
+Key phrase: "Tenho uma surpresa para você!"
+Keywords: aniversário, presente, surpresa, festa, convidar
+Theme: Birthday celebrations and friendship
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian birthday parties, gift-giving customs
+Emotional elements: Friendship, creativity, celebration
+Learning focus: Birthday vocabulary, expressing excitement, gift-giving interactions
