@@ -1,3 +1,11 @@
+Key phrase: "A música nos transporta para outros lugares!"
+Keywords: teatro, orquestra, maestro, palco, instrumentos
+Theme: First orchestra concert and music appreciation
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian classical music appreciation, family bonding
+Emotional elements: Wonder, excitement, appreciation of arts
+Learning focus: Music vocabulary, expressing emotions, concert experience dialogue
+---
 Key phrase: "Que sabor maravilhoso você escolheu!"
 Keywords: sorveteria, sabores, coberturas, experimentar, delicioso
 Theme: Ice cream shop visit and friendship
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian school sports events
 Emotional elements: Team spirit, good sportsmanship, pride
 Learning focus: Sports competition vocabulary, expressing encouragement, team participation
----
-Key phrase: "Tenho uma surpresa para você!"
-Keywords: aniversário, presente, surpresa, festa, convidar
-Theme: Birthday celebrations and friendship
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian birthday parties, gift-giving customs
-Emotional elements: Friendship, creativity, celebration
-Learning focus: Birthday vocabulary, expressing excitement, gift-giving interactions

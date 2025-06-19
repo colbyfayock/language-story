@@ -1,3 +1,10 @@
+key_phrase: "Estou com sede!"
+keywords: leite, sede, cozinha, geladeira, mamãe, servir, delicioso
+theme: kitchen routines and parent-child interaction
+grammar_focus: simple present tense, basic requests
+cultural_elements: Brazilian family interactions and kitchen routines
+teaching_elements: food vocabulary, family relationships, simple dialogue, polite expressions
+---
 key_phrase: "A girafa é muito alta!"
 keywords: zoológico, girafa, pescoço, alto, passear, admirar, filha
 theme: zoo visit and parent-child interaction
@@ -340,10 +347,3 @@ theme: classroom number learning and group activities
 grammar_focus: simple present tense, basic numbers
 cultural_elements: Brazilian classroom activities and teacher-student interactions
 teaching_elements: number vocabulary, basic counting, classroom participation
----
-key_phrase: "É hora de contar histórias!"
-keywords: livro, história, voz, dormir, noite, estrela, sonho
-theme: family bedtime storytelling and nighttime routines
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian family bedtime routines and parent-child storytelling
-teaching_elements: bedtime vocabulary, family relationships, basic dialogue, emotional expressions
