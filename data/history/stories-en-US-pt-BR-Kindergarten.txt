@@ -1,3 +1,10 @@
+key_phrase: "As flores têm perfume!"
+keywords: floricultura, perfume, cheirar, margarida, vaso, bonita, alegre
+theme: first flower shop visit and parent-child sensory exploration
+grammar_focus: simple present tense, basic color adjectives
+cultural_elements: Brazilian flower shop experiences and parent-child interactions
+teaching_elements: flower vocabulary, color words, sensory descriptions, simple dialogue
+---
 key_phrase: "Estou com sede!"
 keywords: leite, sede, cozinha, geladeira, mamãe, servir, delicioso
 theme: kitchen routines and parent-child interaction
@@ -340,10 +347,3 @@ theme: countryside visit and animal observation
 grammar_focus: simple present tense, basic descriptive adjectives
 cultural_elements: Brazilian rural environments and parent-child nature experiences
 teaching_elements: animal vocabulary, nature words, emotional expressions
----
-key_phrase: "Vamos contar juntos!"
-keywords: números, pular, escola, amigos, professor, sala, cinco
-theme: classroom number learning and group activities
-grammar_focus: simple present tense, basic numbers
-cultural_elements: Brazilian classroom activities and teacher-student interactions
-teaching_elements: number vocabulary, basic counting, classroom participation

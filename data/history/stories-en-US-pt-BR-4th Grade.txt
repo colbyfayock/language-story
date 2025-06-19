@@ -1,3 +1,11 @@
+Key phrase: "Cada voz traz uma história diferente!"
+Keywords: narradora, tapete, vozes, personagens, biblioteca
+Theme: Library storytelling and oral tradition
+Grammar: Present tense, descriptive adjectives
+Cultural elements: Brazilian storytelling traditions, library activities
+Emotional elements: Courage, inspiration, learning new skills
+Learning focus: Storytelling vocabulary, voice descriptions, performance dialogue
+---
 Key phrase: "A música nos transporta para outros lugares!"
 Keywords: teatro, orquestra, maestro, palco, instrumentos
 Theme: First orchestra concert and music appreciation
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian outdoor recreation, family activities
 Emotional elements: Pride, family bonding, wonder at nature
 Learning focus: Outdoor vocabulary, expressing excitement, family interaction
----
-Key phrase: "Não importa quem vence, o importante é participar!"
-Keywords: competição, medalha, vitória, participar, vencer
-Theme: School sports competition and sportsmanship
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian school sports events
-Emotional elements: Team spirit, good sportsmanship, pride
-Learning focus: Sports competition vocabulary, expressing encouragement, team participation
