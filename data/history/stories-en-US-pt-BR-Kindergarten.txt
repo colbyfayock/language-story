@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer um ritmo!"
+keywords: tambor, batucar, ritmo, instrumento, tocar, dançar, amigos
+theme: making music with friends and family interaction
+grammar_focus: simple present tense, basic musical vocabulary
+cultural_elements: Brazilian musical instruments and rhythm-making
+teaching_elements: music vocabulary, action verbs, friendship words, simple dialogue
+---
 key_phrase: "As flores têm perfume!"
 keywords: floricultura, perfume, cheirar, margarida, vaso, bonita, alegre
 theme: first flower shop visit and parent-child sensory exploration
@@ -340,10 +347,3 @@ theme: toy store shopping and parent-child interaction
 grammar_focus: simple present tense, basic descriptive adjectives
 cultural_elements: Brazilian toy store experiences and parent-child shopping interactions
 teaching_elements: shopping vocabulary, basic dialogue, emotional expressions
----
-key_phrase: "O cavalo é manso!"
-keywords: cavalo, campo, flores, caminho, comer, grama, manso
-theme: countryside visit and animal observation
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian rural environments and parent-child nature experiences
-teaching_elements: animal vocabulary, nature words, emotional expressions
