@@ -1,3 +1,11 @@
+Key phrase: "A cozinha une pessoas diferentes!"
+Keywords: fogão, receita, temperos, pratos, competidores
+Theme: Cooking competition and friendship formation
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian cooking shows, sharing family recipes
+Emotional elements: Competition, friendship formation, sharing knowledge
+Learning focus: Cooking vocabulary, expressing interests, competition dialogue
+---
 Key phrase: "Com carinho e paciência, tudo fica mais fácil!"
 Keywords: escova, banho, shampoo, toalha, secador
 Theme: Pet grooming and family responsibility
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian public spaces, children's social interactions
 Emotional elements: Friendship, overcoming shyness, joy of playing together
 Learning focus: Playground vocabulary, social interactions, making friends
----
-Key phrase: "Que cheirinho bom!"
-Keywords: padaria, pães, vitrine, fila, cheiro
-Theme: Morning bakery visit and food shopping
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian bakery culture, morning routines
-Emotional elements: Joy, anticipation, mother-daughter bonding
-Learning focus: Food vocabulary, expressing appreciation, social interactions
