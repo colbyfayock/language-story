@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer um desenho bonito!"
+keywords: caderno, lápis, círculo, quadrado, cor, azul, amarelo, professora, desenho
+theme: classroom art activity and teacher-student interaction
+grammar_focus: simple present tense, basic color and shape vocabulary
+cultural_elements: Brazilian classroom art activities and teacher-student interactions
+teaching_elements: art vocabulary, color words, shape words, classroom dialogue, positive reinforcement
+---
 key_phrase: "Vamos soltar pipa!"
 keywords: pipa, voar, amigo, vento, brincar, céu, colorido
 theme: making friends through shared activities at playground
@@ -340,10 +347,3 @@ theme: pet shop visit and family interaction
 grammar_focus: simple present tense, basic animal vocabulary
 cultural_elements: Brazilian pet shops and parent-child interactions
 teaching_elements: animal vocabulary, emotional expressions, simple dialogue
----
-key_phrase: "Quero pão quentinho!"
-keywords: padaria, pão, cheirar, quente, fresco, fila, cliente
-theme: family shopping at local bakery
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian bakery experience and parent-child interactions
-teaching_elements: food vocabulary, basic dialogue, sensory descriptions

@@ -1,3 +1,11 @@
+Key phrase: "A ciência nos ajuda a entender o mundo!"
+Keywords: microscópio, lupa, folhas, raízes, anotações
+Theme: School science project and discovery learning
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian school science fairs, mother-daughter learning
+Emotional elements: Pride in discovery, academic achievement
+Learning focus: Science vocabulary, expressing discoveries, classroom presentation
+---
 Key phrase: "Com calma e concentração, você vai acertar o alvo!"
 Keywords: arco, flecha, alvo, postura, concentração
 Theme: First archery lesson and building confidence
@@ -389,11 +397,3 @@ Grammar: Present tense, future plans
 Cultural elements: Brazilian pet adoption, family decision-making
 Emotional elements: Love for animals, family support, responsibility
 Learning focus: Pet care vocabulary, expressing commitment, family dialogue
----
-Key phrase: "Como o tempo muda rápido!"
-Keywords: estações, outono, folhas, temperatura, vento, observar
-Theme: Weather observation and seasonal changes
-Grammar: Present tense, weather expressions
-Cultural elements: Brazilian seasonal changes, nature observation
-Emotional elements: Curiosity, mother-daughter bonding, scientific interest
-Learning focus: Weather vocabulary, expressing observations, natural phenomena
