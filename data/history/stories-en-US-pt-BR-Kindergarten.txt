@@ -1,3 +1,10 @@
+key_phrase: "O pandeiro faz tim-tim-tim!"
+keywords: pandeiro, dançar, cantar, festa, prima, palmas, divertida
+theme: family party celebration with music and dance
+grammar_focus: simple present tense, basic emotional expressions
+cultural_elements: Brazilian family gatherings and musical traditions
+teaching_elements: family vocabulary, music words, emotional expressions, simple dialogue
+---
 key_phrase: "O carrinho faz vrum-vrum!"
 keywords: carrinho, brincar, barulho, vrum, garagem, corrida, pista
 theme: parent-child playtime with toy cars
@@ -340,10 +347,3 @@ theme: nature observation and animal interaction
 grammar_focus: simple present tense, basic descriptive adjectives
 cultural_elements: Brazilian children's interaction with nature
 teaching_elements: animal vocabulary, color words, emotional expressions, simple dialogue
----
-key_phrase: "Vamos soprar as velas!"
-keywords: balão, mesa, bolo, vela, soprar, aniversário, cantar
-theme: birthday celebration and family traditions
-grammar_focus: simple present tense, basic color vocabulary
-cultural_elements: Brazilian birthday celebrations and family interactions
-teaching_elements: birthday vocabulary, color words, simple dialogue, emotional expressions
