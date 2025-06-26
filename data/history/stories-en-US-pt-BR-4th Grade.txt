@@ -1,3 +1,11 @@
+Key phrase: "O palco é onde os sonhos ganham vida!"
+Keywords: ensaio, figurino, cenário, palco, nervosismo
+Theme: School theater rehearsal and overcoming stage fright
+Grammar: Present tense, emotional expressions
+Cultural elements: Brazilian school theater productions
+Emotional elements: Overcoming nervousness, friendship support
+Learning focus: Theater vocabulary, expressing emotions, encouragement dialogue
+---
 Key phrase: "As abelhas são as guardiãs da natureza!"
 Keywords: apicultor, colmeia, mel, abelhas, flores, proteção
 Theme: Beekeeping and environmental education
@@ -389,11 +397,3 @@ Grammar: Present tense, descriptive dialogue
 Cultural elements: Brazilian school science activities
 Emotional elements: Curiosity, friendship, academic achievement
 Learning focus: Scientific vocabulary, expressing discovery, classroom dialogue
----
-Key phrase: "Vamos fazer uma apresentação linda!"
-Keywords: apresentação, palco, violão, ensaiar, aplaudir
-Theme: School music performance and friendship
-Grammar: Present tense, expressing encouragement
-Cultural elements: Brazilian school performances, family support
-Emotional elements: Pride, friendship, accomplishment
-Learning focus: Music performance vocabulary, expressing encouragement, performance dialogue

@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer cartões de amor!"
+keywords: namorados, coração, cartão, vermelho, brilhante, amor, família
+theme: family craft activity and expressing love through cardmaking
+grammar_focus: simple present tense, basic emotional expressions
+cultural_elements: Brazilian family expressions of love and craft activities
+teaching_elements: family vocabulary, color words, emotional expressions, simple dialogue
+---
 key_phrase: "O pandeiro faz tim-tim-tim!"
 keywords: pandeiro, dançar, cantar, festa, prima, palmas, divertida
 theme: family party celebration with music and dance
@@ -340,10 +347,3 @@ theme: family gaming and sibling bonding
 grammar_focus: simple present tense, basic family vocabulary
 cultural_elements: Brazilian family gaming traditions and sibling interactions
 teaching_elements: technology vocabulary, family relationships, emotional expressions, basic dialogue
----
-key_phrase: "O pato está nadando!"
-keywords: pato, lago, nadar, pequeno, amarelo, alegre, amigo
-theme: nature observation and animal interaction
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian children's interaction with nature
-teaching_elements: animal vocabulary, color words, emotional expressions, simple dialogue
