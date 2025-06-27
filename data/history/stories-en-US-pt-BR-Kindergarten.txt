@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer ginástica!"
+keywords: ginástica, manhã, caminhar, treinar, família, saudável, parque
+theme: family morning exercise routine and healthy activities
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian family fitness activities and morning routines
+teaching_elements: exercise vocabulary, family relationships, action verbs, simple dialogue
+---
 key_phrase: "Vamos fazer cartões de amor!"
 keywords: namorados, coração, cartão, vermelho, brilhante, amor, família
 theme: family craft activity and expressing love through cardmaking
@@ -340,10 +347,3 @@ theme: summer activities and water play
 grammar_focus: simple present tense, basic weather vocabulary
 cultural_elements: Brazilian summer pool activities and parent-child interactions
 teaching_elements: weather vocabulary, water activities, emotional expressions, basic dialogue
----
-key_phrase: "Vamos jogar videogame!"
-keywords: jogo, videogame, irmão, jogar, ganhar, diversão, juntos
-theme: family gaming and sibling bonding
-grammar_focus: simple present tense, basic family vocabulary
-cultural_elements: Brazilian family gaming traditions and sibling interactions
-teaching_elements: technology vocabulary, family relationships, emotional expressions, basic dialogue

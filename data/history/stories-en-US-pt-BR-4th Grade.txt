@@ -1,3 +1,11 @@
+Key phrase: "O espetáculo está apenas começando!"
+Keywords: acrobata, equilibrista, trapezista, malabarista, apresentador
+Theme: First circus visit and wonder of live performance
+Grammar: Present tense, simple dialogue, descriptive adjectives
+Cultural elements: Brazilian circus traditions, family entertainment
+Emotional elements: Wonder, excitement, family bonding
+Learning focus: Performance vocabulary, expressing amazement, show experience dialogue
+---
 Key phrase: "O palco é onde os sonhos ganham vida!"
 Keywords: ensaio, figurino, cenário, palco, nervosismo
 Theme: School theater rehearsal and overcoming stage fright
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue, numbers
 Cultural elements: Brazilian street markets, family shopping
 Emotional elements: Pride in helping, mother-daughter bonding, learning
 Learning focus: Market vocabulary, price discussion, shopping dialogue
----
-Key phrase: "Vamos descobrir algo novo!"
-Keywords: experimento, ciências, misturar, observar, resultado
-Theme: Science fair and classroom experiments
-Grammar: Present tense, descriptive dialogue
-Cultural elements: Brazilian school science activities
-Emotional elements: Curiosity, friendship, academic achievement
-Learning focus: Scientific vocabulary, expressing discovery, classroom dialogue
