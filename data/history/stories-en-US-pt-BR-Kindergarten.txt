@@ -1,3 +1,10 @@
+key_phrase: "O trem faz piuí-piuí!"
+keywords: trem, apito, vagão, brincar, manhã, trilho, quarto
+theme: morning playtime and parent-child interaction with toy train
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian family morning playtime and parent-child interactions
+teaching_elements: toy vocabulary, color words, sound words, simple dialogue, family relationships
+---
 key_phrase: "Vamos fazer ginástica!"
 keywords: ginástica, manhã, caminhar, treinar, família, saudável, parque
 theme: family morning exercise routine and healthy activities
@@ -340,10 +347,3 @@ theme: weather observation and outdoor activities
 grammar_focus: simple present tense, basic weather vocabulary
 cultural_elements: Brazilian outdoor recreation and parent-child interactions
 teaching_elements: weather vocabulary, basic dialogue, family relationships, simple descriptive words
----
-key_phrase: "A piscina está fresquinha!"
-keywords: piscina, mergulhar, brincar, molhado, verão, legal, refrescar
-theme: summer activities and water play
-grammar_focus: simple present tense, basic weather vocabulary
-cultural_elements: Brazilian summer pool activities and parent-child interactions
-teaching_elements: weather vocabulary, water activities, emotional expressions, basic dialogue
