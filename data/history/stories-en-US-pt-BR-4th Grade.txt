@@ -1,3 +1,11 @@
+Key phrase: "O cheiro do pão quentinho é irresistível!"
+Keywords: padaria, fornada, fermento, amassar, cheiro
+Theme: Local bakery visit and learning bread making process
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian bakery traditions, community interaction
+Emotional elements: Curiosity, learning new things, community connection
+Learning focus: Bakery vocabulary, process descriptions, sensory language
+---
 Key phrase: "O ritmo está em cada passo!"
 Keywords: competição, passos, rua, multidão, ritmo
 Theme: Street dance competition and overcoming performance anxiety
@@ -389,11 +397,3 @@ Grammar: Present tense, descriptive dialogue
 Cultural elements: Brazilian school art exhibitions
 Emotional elements: Pride in creativity, school community spirit
 Learning focus: Art exhibition vocabulary, expressing pride, school interaction
----
-Key phrase: "Que dia perfeito para ficar em casa!"
-Keywords: chuva, quebra-cabeça, montar, peças, desenho
-Theme: Indoor activities and sibling cooperation
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian family indoor activities
-Emotional elements: Contentment, sibling bonding, accomplishment
-Learning focus: Weather vocabulary, activity descriptions, cooperative dialogue
