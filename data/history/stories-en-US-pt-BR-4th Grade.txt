@@ -1,3 +1,11 @@
+Key phrase: "A mágica está nos pequenos detalhes!"
+Keywords: mágica, truque, baralho, aplausos, surpresa
+Theme: Learning magic tricks and family performance
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian family entertainment, uncle-nephew teaching
+Emotional elements: Building confidence, family support
+Learning focus: Performance vocabulary, sequencing words, presentation phrases
+---
 Key phrase: "O cheiro do pão quentinho é irresistível!"
 Keywords: padaria, fornada, fermento, amassar, cheiro
 Theme: Local bakery visit and learning bread making process
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian dance education, group performance
 Emotional elements: Pride, accomplishment, teamwork
 Learning focus: Performance vocabulary, expressing encouragement, group coordination
----
-Key phrase: "Nossa arte brilha hoje!"
-Keywords: exposição, quadros, galeria, cartaz, artistas
-Theme: School art exhibition and creative expression
-Grammar: Present tense, descriptive dialogue
-Cultural elements: Brazilian school art exhibitions
-Emotional elements: Pride in creativity, school community spirit
-Learning focus: Art exhibition vocabulary, expressing pride, school interaction

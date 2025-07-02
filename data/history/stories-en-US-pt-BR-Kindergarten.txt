@@ -1,3 +1,10 @@
+key_phrase: "O peixinho nada feliz!"
+keywords: peixinho, aquário, bolhas, nadar, alimentar, colorido, loja
+theme: pet store visit and fish observation
+grammar_focus: simple present tense, basic descriptive words
+cultural_elements: Brazilian pet store experiences and parent-child interactions
+teaching_elements: pet vocabulary, color words, action verbs, simple dialogue
+---
 key_phrase: "A caverna é escura!"
 keywords: caverna, escuro, lanterna, morcego, aventura, explorar, brilho
 theme: parent-child cave exploration and overcoming fears
@@ -340,10 +347,3 @@ theme: unexpected animal friendship and playtime
 grammar_focus: simple present tense, basic colors and actions
 cultural_elements: Brazilian household pets and playful interactions
 teaching_elements: animal vocabulary, color words, emotional expressions, simple dialogue
----
-key_phrase: "O elefante toma banho!"
-keywords: elefante, banho, mangueira, quintal, refrescar, diversão, molhado
-theme: outdoor water play and imaginative fun
-grammar_focus: simple present tense, basic weather vocabulary
-cultural_elements: Brazilian summer outdoor activities and parent-child interactions
-teaching_elements: weather vocabulary, play activities, emotional expressions, simple dialogue
