@@ -1,3 +1,11 @@
+Key phrase: "O oceano tem muito para nos ensinar!"
+Keywords: aquário, peixe-palhaço, tubarão, medusa, água
+Theme: Aquarium visit and marine life learning
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian marine biology education, family learning
+Emotional elements: Wonder, discovery, aunt-niece bonding
+Learning focus: Marine life vocabulary, expressing amazement, educational dialogue
+---
 Key phrase: "A mágica está nos pequenos detalhes!"
 Keywords: mágica, truque, baralho, aplausos, surpresa
 Theme: Learning magic tricks and family performance
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian skateboarding culture, sibling support
 Emotional elements: Overcoming nervousness, friendship, accomplishment
 Learning focus: Sports equipment vocabulary, expressing encouragement, social interaction
----
-Key phrase: "Cada movimento conta!"
-Keywords: ensaio, dançarinos, coreografia, figurino, espetáculo
-Theme: Dance recital preparation and performance
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian dance education, group performance
-Emotional elements: Pride, accomplishment, teamwork
-Learning focus: Performance vocabulary, expressing encouragement, group coordination

@@ -1,3 +1,10 @@
+key_phrase: "O pãozinho está quentinho!"
+keywords: padaria, pãozinho, balcão, cheiro, fila, doce, sorriso
+theme: first bakery visit and family shopping experience
+grammar_focus: simple present tense, basic descriptive words
+cultural_elements: Brazilian bakery experiences and parent-child interactions
+teaching_elements: food vocabulary, family relationships, sensory descriptions, simple dialogue
+---
 key_phrase: "O peixinho nada feliz!"
 keywords: peixinho, aquário, bolhas, nadar, alimentar, colorido, loja
 theme: pet store visit and fish observation
@@ -340,10 +347,3 @@ theme: breakfast routines and family interactions
 grammar_focus: simple present tense, basic food vocabulary
 cultural_elements: Brazilian breakfast routines and parent-child interactions
 teaching_elements: food vocabulary, basic dialogue, family relationships, simple descriptive words
----
-key_phrase: "O gato quer brincar!"
-keywords: gato, rato, cama, dormir, feliz, macio, cinza
-theme: unexpected animal friendship and playtime
-grammar_focus: simple present tense, basic colors and actions
-cultural_elements: Brazilian household pets and playful interactions
-teaching_elements: animal vocabulary, color words, emotional expressions, simple dialogue
