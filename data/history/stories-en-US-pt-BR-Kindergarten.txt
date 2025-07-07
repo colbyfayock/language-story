@@ -1,3 +1,10 @@
+key_phrase: "Quero este doce aqui!"
+keywords: doceria, brigadeiro, sorvete, colorido, marrom, feliz, provar
+theme: first candy store visit and parent-child interaction
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian candy store experiences and parent-child interactions
+teaching_elements: food vocabulary, color words, emotional expressions, simple dialogue
+---
 key_phrase: "Vamos esperar na fila!"
 keywords: suco, fila, esperar, paciência, sorriso, manga, sede
 theme: learning patience while waiting in line at smoothie shop
@@ -340,10 +347,3 @@ theme: ice cream shop visit and parent-child interaction
 grammar_focus: simple present tense, basic food vocabulary
 cultural_elements: Brazilian ice cream shop experience and parent-child interactions
 teaching_elements: food vocabulary, emotional expressions, simple dialogue, flavor words
----
-key_phrase: "A aula vai começar!"
-keywords: mochila, uniforme, aula, professor, começar, pronto, cadeira
-theme: morning school preparation and routines
-grammar_focus: simple present tense, basic time concepts
-cultural_elements: Brazilian school routines and parent-child interactions
-teaching_elements: school vocabulary, color words, sequential actions, emotional expressions
