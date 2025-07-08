@@ -1,3 +1,10 @@
+key_phrase: "Vamos procurar conchas!"
+keywords: praia, concha, areia, balde, mar, sol, procurar, encontrar
+theme: beach exploration and parent-child interaction
+grammar_focus: simple present tense, basic color adjectives
+cultural_elements: Brazilian beach activities and parent-child interactions
+teaching_elements: beach vocabulary, color words, family relationships, simple dialogue
+---
 key_phrase: "Quero este doce aqui!"
 keywords: doceria, brigadeiro, sorvete, colorido, marrom, feliz, provar
 theme: first candy store visit and parent-child interaction
@@ -340,10 +347,3 @@ theme: morning breakfast routine and parent-child interaction
 grammar_focus: simple present tense, basic food vocabulary
 cultural_elements: Brazilian breakfast routines and father-son interactions
 teaching_elements: food vocabulary, family relationships, simple dialogue, morning routines
----
-key_phrase: "Quero sorvete de morango!"
-keywords: sorvete, sabor, delicioso, escolher, feliz, sorrir, fila
-theme: ice cream shop visit and parent-child interaction
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian ice cream shop experience and parent-child interactions
-teaching_elements: food vocabulary, emotional expressions, simple dialogue, flavor words
