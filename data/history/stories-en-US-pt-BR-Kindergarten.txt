@@ -1,3 +1,10 @@
+key_phrase: "O jardim é fantástico!"
+keywords: fantástico, olhar, voar, borboleta, visitar, jardim, alface, lagarta
+theme: first butterfly garden visit and parent-child nature learning
+grammar_focus: simple present tense, basic color adjectives
+cultural_elements: Brazilian nature appreciation and family outings
+teaching_elements: nature vocabulary, color words, transformation concepts, simple dialogue
+---
 key_phrase: "Vamos procurar conchas!"
 keywords: praia, concha, areia, balde, mar, sol, procurar, encontrar
 theme: beach exploration and parent-child interaction
@@ -340,10 +347,3 @@ theme: nature observation and parent-child interaction
 grammar_focus: simple present tense, basic color vocabulary
 cultural_elements: Brazilian garden exploration and parent-child nature observation
 teaching_elements: nature vocabulary, color words, emotional expressions, simple dialogue
----
-key_phrase: "A mesa está pronta!"
-keywords: café, pão, manteiga, mesa, filho, alegre
-theme: morning breakfast routine and parent-child interaction
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian breakfast routines and father-son interactions
-teaching_elements: food vocabulary, family relationships, simple dialogue, morning routines
