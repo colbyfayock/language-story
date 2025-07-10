@@ -1,3 +1,10 @@
+key_phrase: "O tubarão é grande!"
+keywords: tubarão, aquário, peixe, água, golfinho, nadar, vidro, azul
+theme: first aquarium visit and parent-child discovery
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian family outings and parent-child discovery
+teaching_elements: animal vocabulary, color words, size concepts, simple dialogue
+---
 key_phrase: "O jardim é fantástico!"
 keywords: fantástico, olhar, voar, borboleta, visitar, jardim, alface, lagarta
 theme: first butterfly garden visit and parent-child nature learning
@@ -340,10 +347,3 @@ theme: summer heat and cooling activities
 grammar_focus: simple present tense, basic weather vocabulary
 cultural_elements: Brazilian summer heat management and parent-child interactions
 teaching_elements: weather vocabulary, temperature words, simple dialogue, cooling activities
----
-key_phrase: "A borboleta é linda!"
-keywords: borboleta, jardim, flor, voar, colorida, mamãe, quieta
-theme: nature observation and parent-child interaction
-grammar_focus: simple present tense, basic color vocabulary
-cultural_elements: Brazilian garden exploration and parent-child nature observation
-teaching_elements: nature vocabulary, color words, emotional expressions, simple dialogue

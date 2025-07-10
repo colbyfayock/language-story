@@ -1,3 +1,11 @@
+Key phrase: "A colheita traz alegria para todos!"
+Keywords: horta, colheita, legumes, feira, vizinhos
+Theme: Community garden harvest and neighborhood sharing
+Grammar: Present tense, simple dialogue, descriptive adjectives
+Cultural elements: Brazilian community gardens, neighborhood sharing
+Emotional elements: Community pride, sharing, learning from elders
+Learning focus: Garden vocabulary, community interaction, sharing dialogue
+---
 Key phrase: "Com paciência e amizade, criamos arte juntos!"
 Keywords: papel colorido, dobraduras, instruções, amizade, paciência
 Theme: Cultural exchange through origami and new friendship formation
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian school technology clubs, STEM education
 Emotional elements: Teamwork, accomplishment, friendship
 Learning focus: Technology vocabulary, expressing teamwork, competition dialogue
----
-Key phrase: "Que mundo colorido!"
-Keywords: jardim botânico, borboletas, flores, banco, lanche
-Theme: Nature appreciation and mother-daughter bonding at botanical garden
-Grammar: Present tense, descriptive dialogue
-Cultural elements: Brazilian botanical gardens, nature appreciation
-Emotional elements: Wonder, mother-daughter bonding, nature appreciation
-Learning focus: Nature vocabulary, expressing amazement, descriptive language
