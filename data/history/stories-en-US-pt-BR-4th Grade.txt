@@ -1,3 +1,11 @@
+Key phrase: "O inverno traz sabores especiais!"
+Keywords: festival, inverno, chocolate quente, canela, cobertor
+Theme: Winter festival and traditional hot chocolate
+Grammar: Present tense, simple dialogue, descriptive adjectives
+Cultural elements: Brazilian winter festivals, family traditions
+Emotional elements: Family warmth, sharing traditions, seasonal joy
+Learning focus: Food vocabulary, family dialogue, seasonal expressions
+---
 Key phrase: "A colheita traz alegria para todos!"
 Keywords: horta, colheita, legumes, feira, vizinhos
 Theme: Community garden harvest and neighborhood sharing
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian reading clubs, youth social interaction
 Emotional elements: Making friends, shared interests, discovering new worlds through books
 Learning focus: Library vocabulary, expressing enthusiasm, social interaction dialogue
----
-Key phrase: "A tecnologia une pessoas!"
-Keywords: robótica, competição, equipe, robô, ferramentas
-Theme: School robotics competition and teamwork
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian school technology clubs, STEM education
-Emotional elements: Teamwork, accomplishment, friendship
-Learning focus: Technology vocabulary, expressing teamwork, competition dialogue
