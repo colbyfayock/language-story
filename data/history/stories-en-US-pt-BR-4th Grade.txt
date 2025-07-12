@@ -1,3 +1,11 @@
+Key phrase: "Com as mãos no barro, criamos memórias especiais!"
+Keywords: ateliê, barro, roda, modelar, decorar
+Theme: First pottery class and family bonding
+Grammar: Present tense, simple dialogue, descriptive adjectives
+Cultural elements: Brazilian artisan traditions, aunt-niece bonding
+Emotional elements: Creative expression, family support, accomplishment
+Learning focus: Art vocabulary, expressing creativity, crafting dialogue
+---
 Key phrase: "O inverno traz sabores especiais!"
 Keywords: festival, inverno, chocolate quente, canela, cobertor
 Theme: Winter festival and traditional hot chocolate
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian healthcare, family support
 Emotional elements: Bravery, reassurance, family support
 Learning focus: Medical vocabulary, expressing comfort, medical interaction dialogue
----
-Key phrase: "A leitura abre novos mundos!"
-Keywords: biblioteca, clube, leitura, personagens, imaginação
-Theme: Library book club and making new friends
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian reading clubs, youth social interaction
-Emotional elements: Making friends, shared interests, discovering new worlds through books
-Learning focus: Library vocabulary, expressing enthusiasm, social interaction dialogue

@@ -1,3 +1,10 @@
+key_phrase: "Vamos construir um castelo!"
+keywords: castelo, praia, pá, balde, água, torre, construir
+theme: family beach activity and parent-child construction project
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian beach activities and family cooperation
+teaching_elements: beach vocabulary, construction concepts, family relationships, simple dialogue
+---
 key_phrase: "A pizza está pronta!"
 keywords: pizza, queijo, forno, massa, cozinheiro, cheiro, gostoso
 theme: first pizzeria visit and parent-child dining experience
@@ -340,10 +347,3 @@ theme: indoor creative play and parent-child bonding
 grammar_focus: simple present tense, basic action verbs
 cultural_elements: Brazilian family indoor activities and parent-child creative play
 teaching_elements: craft vocabulary, action verbs, simple dialogue, spatial concepts
----
-key_phrase: "Vamos fazer chocolate quente!"
-keywords: cacau, fazer, chocolate, família, delicioso, quente, cheiro
-theme: indoor winter activity and family bonding
-grammar_focus: simple present tense, basic sensory vocabulary
-cultural_elements: Brazilian winter comfort foods and parent-child interactions
-teaching_elements: temperature words, food vocabulary, family relationships, sensory descriptions
