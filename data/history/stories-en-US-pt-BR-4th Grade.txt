@@ -1,3 +1,11 @@
+Key phrase: "Juntos podemos resolver qualquer desafio!"
+Keywords: robô, programar, equipe, desafio, circuito
+Theme: First robotics club meeting and teamwork learning
+Grammar: Present tense, simple dialogue, teamwork expressions
+Cultural elements: Brazilian STEM education, classroom collaboration
+Emotional elements: Excitement, teamwork, accomplishment
+Learning focus: Technology vocabulary, collaboration dialogue, process description
+---
 Key phrase: "Com as mãos no barro, criamos memórias especiais!"
 Keywords: ateliê, barro, roda, modelar, decorar
 Theme: First pottery class and family bonding
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian youth orchestras, music education
 Emotional elements: Nervousness, group accomplishment, friendship
 Learning focus: Music vocabulary, expressing encouragement, performance preparation
----
-Key phrase: "Vai ficar tudo bem!"
-Keywords: enfermeira, médico, hospital, recuperação, curativos
-Theme: Hospital visit and injury recovery
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian healthcare, family support
-Emotional elements: Bravery, reassurance, family support
-Learning focus: Medical vocabulary, expressing comfort, medical interaction dialogue

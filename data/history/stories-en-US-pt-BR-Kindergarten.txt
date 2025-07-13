@@ -1,3 +1,10 @@
+key_phrase: "Meu lápis quebrou!"
+keywords: lápis, desenhar, apontar, caixa, quebrar, novo, professor
+theme: classroom problem-solving and teacher-student interaction
+grammar_focus: simple present tense, basic emotional expressions
+cultural_elements: Brazilian classroom experiences and teacher-student interactions
+teaching_elements: classroom vocabulary, emotional expressions, problem-solving dialogue, simple present tense
+---
 key_phrase: "Vamos construir um castelo!"
 keywords: castelo, praia, pá, balde, água, torre, construir
 theme: family beach activity and parent-child construction project
@@ -340,10 +347,3 @@ theme: school snack time and friendship building
 grammar_focus: simple present tense, basic food vocabulary
 cultural_elements: Brazilian school snack time traditions and friendship building
 teaching_elements: food vocabulary, sharing concepts, friendship words, simple dialogue
----
-key_phrase: "O avião de papel voa alto!"
-keywords: papel, avião, voar, dobrar, janela, alto, sorriso
-theme: indoor creative play and parent-child bonding
-grammar_focus: simple present tense, basic action verbs
-cultural_elements: Brazilian family indoor activities and parent-child creative play
-teaching_elements: craft vocabulary, action verbs, simple dialogue, spatial concepts
