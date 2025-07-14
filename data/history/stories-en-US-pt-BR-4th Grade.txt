@@ -1,3 +1,11 @@
+Key phrase: "Juntos, plantamos esperança no jardim!"
+Keywords: voluntários, mudas, regar, borboletas, lantanas
+Theme: Community butterfly garden and environmental education
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian environmental education, community projects
+Emotional elements: Community pride, environmental stewardship
+Learning focus: Nature vocabulary, community action, project description
+---
 Key phrase: "Juntos podemos resolver qualquer desafio!"
 Keywords: robô, programar, equipe, desafio, circuito
 Theme: First robotics club meeting and teamwork learning
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian family businesses, trade skill learning
 Emotional elements: Pride in learning, father-son bonding
 Learning focus: Workshop vocabulary, expressing interest in learning, workplace dialogue
----
-Key phrase: "A música nos une!"
-Keywords: orquestra, violino, maestro, músicos, ensaio, palco
-Theme: School orchestra practice and performance
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian youth orchestras, music education
-Emotional elements: Nervousness, group accomplishment, friendship
-Learning focus: Music vocabulary, expressing encouragement, performance preparation
