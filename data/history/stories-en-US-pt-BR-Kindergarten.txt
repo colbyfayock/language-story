@@ -1,3 +1,10 @@
+key_phrase: "O cheiro está gostoso!"
+keywords: pipoca, milho, quente, barraca, fila, cheiro, gostoso
+theme: first outdoor food festival experience and parent-child sensory exploration
+grammar_focus: simple present tense, basic sensory descriptions
+cultural_elements: Brazilian street food festivals and parent-child interactions
+teaching_elements: food vocabulary, sensory words, waiting concepts, simple dialogue
+---
 key_phrase: "Quero uma lembrancinha!"
 keywords: lembrancinha, pinguim, pelúcia, brilhar, escolher, loja, prateleira
 theme: first gift shop experience and parent-child shopping interaction
@@ -340,10 +347,3 @@ theme: art class activities and creative expression
 grammar_focus: simple present tense, basic color vocabulary
 cultural_elements: Brazilian classroom art activities and teacher-student interactions
 teaching_elements: art vocabulary, color words, classroom dialogue, creative activities
----
-key_phrase: "Estou com sono!"
-keywords: sonolento, travesseiro, coberta, pijama, estrela, beijo, macio
-theme: bedtime routines and parent-child interaction
-grammar_focus: simple present tense, basic adjectives
-cultural_elements: Brazilian bedtime routines and parent-child interactions
-teaching_elements: bedtime vocabulary, emotional expressions, family relationships, simple dialogue
