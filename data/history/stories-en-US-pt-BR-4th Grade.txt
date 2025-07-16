@@ -1,3 +1,11 @@
+Key phrase: "Cada gota de mel tem um sabor especial!"
+Keywords: loja, provar, sabores, colher, degustação
+Theme: First honey store visit and flavor exploration
+Grammar: Present tense, simple dialogue, descriptive adjectives
+Cultural elements: Brazilian honey varieties, food tasting experience
+Emotional elements: Discovery, aunt-niece bonding, trying new things
+Learning focus: Food vocabulary, expressing preferences, tasting dialogue
+---
 Key phrase: "Juntos em campo, somos mais fortes!"
 Keywords: treino, campo, treinador, jogada, vitória
 Theme: Youth soccer game and teamwork learning
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian classroom activities, nature observation
 Emotional elements: Wonder, classroom friendship, discovery
 Learning focus: Nature vocabulary, expressing observations, classroom interaction
----
-Key phrase: "A segurança vem primeiro!"
-Keywords: rampa, capacete, joelheiras, pista, segurança
-Theme: First visit to skateboard park and learning new skills
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian skateboarding community, safety awareness
-Emotional elements: Overcoming fear, sibling support, accomplishment
-Learning focus: Safety vocabulary, expressing feelings, encouragement phrases
