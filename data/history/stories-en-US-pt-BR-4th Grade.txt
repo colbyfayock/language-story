@@ -1,3 +1,11 @@
+Key phrase: "Cada desenho conta uma história especial!"
+Keywords: desenho, animação, tela, movimento, personagem
+Theme: First animation studio visit and digital art learning
+Grammar: Present tense, simple dialogue, descriptive adjectives
+Cultural elements: Brazilian animation industry, aunt-niece bonding
+Emotional elements: Wonder, creativity, family support
+Learning focus: Technology vocabulary, creative expression, digital art dialogue
+---
 Key phrase: "Cada gota de mel tem um sabor especial!"
 Keywords: loja, provar, sabores, colher, degustação
 Theme: First honey store visit and flavor exploration
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian artisan markets, craft traditions
 Emotional elements: Family bonding, appreciation for craftsmanship
 Learning focus: Craft vocabulary, expressing interest, market dialogue
----
-Key phrase: "A natureza tem muito para mostrar!"
-Keywords: luneta, nuvens, vista, montanha, janela
-Theme: School science observation and nature appreciation
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian classroom activities, nature observation
-Emotional elements: Wonder, classroom friendship, discovery
-Learning focus: Nature vocabulary, expressing observations, classroom interaction
