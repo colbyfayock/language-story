@@ -1,3 +1,11 @@
+Key phrase: "Na galeria de arte, cada peça conta uma história diferente!"
+Keywords: exposição, ceramista, vasos, barro, galeria
+Theme: Art gallery visit and ceramic appreciation
+Grammar: Present tense, simple dialogue, descriptive adjectives
+Cultural elements: Brazilian ceramic arts, gallery interaction
+Emotional elements: Wonder, curiosity, learning from artists
+Learning focus: Art vocabulary, expressing interest, gallery dialogue
+---
 Key phrase: "Cada desenho conta uma história especial!"
 Keywords: desenho, animação, tela, movimento, personagem
 Theme: First animation studio visit and digital art learning
@@ -389,11 +397,3 @@ Grammar: Present tense, descriptive adjectives
 Cultural elements: Brazilian art education, creative expression
 Emotional elements: Friendship, creativity, accomplishment
 Learning focus: Art vocabulary, color descriptions, collaborative dialogue
----
-Key phrase: "Cada peça tem uma história!"
-Keywords: brinquedos, artesão, madeira, pintura, feira
-Theme: Traditional crafts and artisan markets
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian artisan markets, craft traditions
-Emotional elements: Family bonding, appreciation for craftsmanship
-Learning focus: Craft vocabulary, expressing interest, market dialogue

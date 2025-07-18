@@ -1,3 +1,10 @@
+key_phrase: "Vamos fazer limonada!"
+keywords: limão, açúcar, água, coar, copo, suco, gelado
+theme: first time making lemonade and parent-child kitchen experience
+grammar_focus: simple present tense, basic food preparation vocabulary
+cultural_elements: Brazilian family kitchen activities and parent-child interactions
+teaching_elements: kitchen vocabulary, food preparation steps, family relationships, simple dialogue
+---
 key_phrase: "O dentista é legal!"
 keywords: dentista, cadeira, dente, examinar, sorriso, feliz, consulta
 theme: first dentist visit and parent-child medical experience
@@ -340,10 +347,3 @@ theme: helping grandma with garden tasks and family bonding
 grammar_focus: simple present tense, basic action verbs
 cultural_elements: Brazilian family relationships and intergenerational bonding
 teaching_elements: garden vocabulary, family words, action verbs, helping behaviors
----
-key_phrase: "Quero experimentar!"
-keywords: almoço, comida, experimentar, sopa, cenoura, cozinha, novo
-theme: family mealtime and trying new foods
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian family mealtime traditions and parent-child interactions
-teaching_elements: food vocabulary, emotional expressions, simple dialogue, family relationships
