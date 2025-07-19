@@ -1,3 +1,11 @@
+Key phrase: "A voz da comunidade ecoa através do rádio!"
+Keywords: rádio, locutora, microfone, estúdio, ouvintes
+Theme: Community radio station visit and broadcasting introduction
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian community radio, local communication
+Emotional elements: Excitement, curiosity, encouragement
+Learning focus: Broadcasting vocabulary, expressing interest, radio dialogue
+---
 Key phrase: "Na galeria de arte, cada peça conta uma história diferente!"
 Keywords: exposição, ceramista, vasos, barro, galeria
 Theme: Art gallery visit and ceramic appreciation
@@ -389,11 +397,3 @@ Grammar: Present tense, descriptive adjectives
 Cultural elements: Brazilian coastal experiences
 Emotional elements: Wonder, discovery, family bonding
 Learning focus: Ocean vocabulary, expressing amazement, family dialogue
----
-Key phrase: "Cada cor conta uma história!"
-Keywords: pinturas, pincéis, tinta, papel, artistas
-Theme: After-school art club and creative collaboration
-Grammar: Present tense, descriptive adjectives
-Cultural elements: Brazilian art education, creative expression
-Emotional elements: Friendship, creativity, accomplishment
-Learning focus: Art vocabulary, color descriptions, collaborative dialogue

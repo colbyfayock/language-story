@@ -1,3 +1,10 @@
+key_phrase: "A borboleta dança no ar!"
+keywords: jardim, borboleta, voar, colorida, flor, asas, dançar
+theme: first butterfly sighting and parent-child nature discovery
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian garden exploration and parent-child nature observation
+teaching_elements: nature vocabulary, color words, movement verbs, simple dialogue
+---
 key_phrase: "Vamos fazer limonada!"
 keywords: limão, açúcar, água, coar, copo, suco, gelado
 theme: first time making lemonade and parent-child kitchen experience
@@ -340,10 +347,3 @@ theme: making friends through sharing and playground interaction
 grammar_focus: simple present tense, basic greetings
 cultural_elements: Brazilian playground social interactions and friendship building
 teaching_elements: friendship vocabulary, sharing concepts, emotional expressions, simple dialogue
----
-key_phrase: "A avó precisa de ajuda!"
-keywords: regador, avó, plantas, jardim, água, molhar, feliz
-theme: helping grandma with garden tasks and family bonding
-grammar_focus: simple present tense, basic action verbs
-cultural_elements: Brazilian family relationships and intergenerational bonding
-teaching_elements: garden vocabulary, family words, action verbs, helping behaviors
