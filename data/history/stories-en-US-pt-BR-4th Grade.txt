@@ -1,3 +1,11 @@
+Key phrase: "Na natureza, cada momento é uma aventura especial!"
+Keywords: barraca, fogueira, lanterna, acampamento, floresta
+Theme: First camping experience and overcoming fears
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian outdoor recreation, family camping
+Emotional elements: Adventure, discovery, overcoming fears
+Learning focus: Outdoor vocabulary, expressing emotions, family dialogue
+---
 Key phrase: "A voz da comunidade ecoa através do rádio!"
 Keywords: rádio, locutora, microfone, estúdio, ouvintes
 Theme: Community radio station visit and broadcasting introduction
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian music education, family teaching
 Emotional elements: Pride in teaching, sibling bonding, accomplishment
 Learning focus: Music vocabulary, teaching instructions, encouragement phrases
----
-Key phrase: "O mar guarda muitos tesouros!"
-Keywords: oceano, conchas, ondas, navio, praia
-Theme: First beach visit and ocean discovery
-Grammar: Present tense, descriptive adjectives
-Cultural elements: Brazilian coastal experiences
-Emotional elements: Wonder, discovery, family bonding
-Learning focus: Ocean vocabulary, expressing amazement, family dialogue

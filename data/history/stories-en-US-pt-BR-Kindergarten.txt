@@ -1,3 +1,10 @@
+key_phrase: "Está muito frio hoje!"
+keywords: cachecol, frio, loja, experimentar, quentinho, macio, sorriso
+theme: winter clothing shopping and parent-child interaction
+grammar_focus: simple present tense, basic weather vocabulary
+cultural_elements: Brazilian shopping experiences and parent-child interactions
+teaching_elements: clothing vocabulary, weather words, emotional expressions, simple dialogue
+---
 key_phrase: "A borboleta dança no ar!"
 keywords: jardim, borboleta, voar, colorida, flor, asas, dançar
 theme: first butterfly sighting and parent-child nature discovery
@@ -340,10 +347,3 @@ theme: gift-giving and sibling relationships
 grammar_focus: simple present tense, basic descriptive words
 cultural_elements: Brazilian family gift-giving and sibling interactions
 teaching_elements: family vocabulary, emotional expressions, simple dialogue, color words
----
-key_phrase: "Quer brincar comigo?"
-keywords: boneca, parque, brincar, amiga, emprestar, abraçar, sorriso
-theme: making friends through sharing and playground interaction
-grammar_focus: simple present tense, basic greetings
-cultural_elements: Brazilian playground social interactions and friendship building
-teaching_elements: friendship vocabulary, sharing concepts, emotional expressions, simple dialogue
