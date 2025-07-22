@@ -1,3 +1,11 @@
+Key phrase: "Cada descoberta nos leva a uma nova aventura!"
+Keywords: dinossauro, fóssil, museu, esqueleto, arqueólogo
+Theme: First museum visit and archaeology discovery
+Grammar: Present tense, simple dialogue
+Cultural elements: Brazilian museum education, family learning
+Emotional elements: Wonder, discovery, career inspiration
+Learning focus: Museum vocabulary, expressing excitement, educational dialogue
+---
 Key phrase: "Na natureza, cada momento é uma aventura especial!"
 Keywords: barraca, fogueira, lanterna, acampamento, floresta
 Theme: First camping experience and overcoming fears
@@ -389,11 +397,3 @@ Grammar: Present tense, simple dialogue
 Cultural elements: Brazilian art appreciation, guided museum visits
 Emotional elements: Wonder, curiosity, understanding
 Learning focus: Art vocabulary, expressing questions, guided tour dialogue
----
-Key phrase: "Ensinar é aprender duas vezes!"
-Keywords: violão, música, aulas, dedos, ritmo
-Theme: Music teaching and sibling bonding
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian music education, family teaching
-Emotional elements: Pride in teaching, sibling bonding, accomplishment
-Learning focus: Music vocabulary, teaching instructions, encouragement phrases
