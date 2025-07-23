@@ -1,3 +1,10 @@
+key_phrase: "Vamos ao cinema!"
+keywords: cinema, pipoca, doce, amigos, sessão, lanche, feliz
+theme: first movie theater experience and family entertainment
+grammar_focus: simple present tense, basic emotional expressions
+cultural_elements: Brazilian movie theater experiences and family entertainment
+teaching_elements: entertainment vocabulary, family relationships, emotional expressions, simple dialogue
+---
 key_phrase: "O coelho é fofinho!"
 keywords: coelho, cenoura, macio, fofinho, cerca, acariciar, alimentar
 theme: first mini zoo visit and parent-child animal interaction
@@ -340,10 +347,3 @@ theme: helping with household chores and family cooperation
 grammar_focus: simple present tense, basic action verbs
 cultural_elements: Brazilian family chores and parent-child cooperation
 teaching_elements: household vocabulary, action verbs, family relationships, simple dialogue
----
-key_phrase: "As frutas são coloridas!"
-keywords: loja, fruta, maçã, suco, tia, provar, delícia
-theme: First visit to fruit store and family shopping experience
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian fruit store experiences and aunt-nephew interactions
-teaching_elements: food vocabulary, color words, number counting, simple dialogue
