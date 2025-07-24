@@ -1,3 +1,11 @@
+Key phrase: "Cada fruta tem seu sabor especial!"
+Keywords: feira, barraca, jabuticaba, carambola, feirante
+Theme: Farmers market visit and fruit discovery
+Grammar: Present tense, simple dialogue, descriptive adjectives
+Cultural elements: Brazilian farmers markets, local fruits
+Emotional elements: Discovery, aunt-niece bonding, trying new things
+Learning focus: Food vocabulary, expressing preferences, market dialogue
+---
 Key phrase: "Na natureza, tudo está conectado!"
 Keywords: aquaponia, sistema, peixes, vegetais, nutrientes
 Theme: First aquaponics farm visit and environmental learning
@@ -389,11 +397,3 @@ Grammar: Present tense, encouraging dialogue
 Cultural elements: Brazilian swimming instruction, teacher-student interaction
 Emotional elements: Building confidence, accomplishment, overcoming fear
 Learning focus: Sports vocabulary, encouragement phrases, progress description
----
-Key phrase: "O universo tem segredos maravilhosos!"
-Keywords: planetário, cientista, apresentação, estrelas, constelações
-Theme: First planetarium visit and science discovery
-Grammar: Present tense, simple dialogue
-Cultural elements: Brazilian science education, school field trips
-Emotional elements: Wonder, curiosity, inspiration
-Learning focus: Space vocabulary, expressing amazement, educational dialogue
