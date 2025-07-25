@@ -1,3 +1,10 @@
+key_phrase: "Vamos pular amarelinha!"
+keywords: amarelinha, pular, giz, número, amiga, recreio, aprender
+theme: first time playing hopscotch and friendship building at recess
+grammar_focus: simple present tense, basic counting
+cultural_elements: Brazilian playground games and childhood friendships
+teaching_elements: playground vocabulary, counting words, friendship concepts, simple dialogue
+---
 key_phrase: "O barco flutua na água!"
 keywords: barco, papel, dobrar, água, flutuar, soprar, brincar
 theme: parent-child creative activity and origami craft
@@ -340,10 +347,3 @@ theme: making friends through sharing and playground interaction
 grammar_focus: simple present tense, basic greetings
 cultural_elements: Brazilian playground social interactions and friendship building
 teaching_elements: friendship vocabulary, sharing concepts, emotional expressions, simple dialogue
----
-key_phrase: "Vamos fazer biscoitos!"
-keywords: biscoito, forno, doce, assado, medir, misturar, gostoso
-theme: family cooking activity and grandparent-child bonding
-grammar_focus: simple present tense, basic kitchen vocabulary
-cultural_elements: Brazilian family cooking traditions and grandparent-child interactions
-teaching_elements: kitchen vocabulary, basic dialogue, cooking actions, family relationships
