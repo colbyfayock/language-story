@@ -1,3 +1,10 @@
+key_phrase: "O avião de papel voa alto!"
+keywords: avião, papel, dobrar, colorido, amigo, sorrir, voar
+theme: classroom friendship building through paper airplane activity
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian classroom interactions and friendship building
+teaching_elements: classroom vocabulary, color words, action verbs, simple dialogue
+---
 key_phrase: "Vamos pular amarelinha!"
 keywords: amarelinha, pular, giz, número, amiga, recreio, aprender
 theme: first time playing hopscotch and friendship building at recess
@@ -340,10 +347,3 @@ theme: outdoor play and imagination at the park
 grammar_focus: simple present tense, basic descriptive adjectives
 cultural_elements: Brazilian children's outdoor play and friendship
 teaching_elements: action verbs, friendship vocabulary, emotional expressions, simple dialogue
----
-key_phrase: "Vamos fazer bolhas!"
-keywords: bolhas, soprar, compartilhar, parque, sorriso, brincar, amigo
-theme: making friends through sharing and playground interaction
-grammar_focus: simple present tense, basic greetings
-cultural_elements: Brazilian playground social interactions and friendship building
-teaching_elements: friendship vocabulary, sharing concepts, emotional expressions, simple dialogue
