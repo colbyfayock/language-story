@@ -1,3 +1,10 @@
+key_phrase: "Vamos plantar uma horta!"
+keywords: horta, semente, plantar, terra, regar, crescer, legumes
+theme: first vegetable garden experience with grandparent
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian family gardening and grandparent-child interactions
+teaching_elements: gardening vocabulary, color words, action verbs, simple dialogue, family relationships
+---
 key_phrase: "O avião de papel voa alto!"
 keywords: avião, papel, dobrar, colorido, amigo, sorrir, voar
 theme: classroom friendship building through paper airplane activity
@@ -340,10 +347,3 @@ theme: first bookstore visit and parent-child reading experience
 grammar_focus: simple present tense, basic descriptive adjectives
 cultural_elements: Brazilian bookstore experiences and parent-child interactions
 teaching_elements: book vocabulary, color words, animal vocabulary, simple dialogue
----
-key_phrase: "O avião está no céu!"
-keywords: avião, parque, brincar, correr, voar, amigo, feliz
-theme: outdoor play and imagination at the park
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian children's outdoor play and friendship
-teaching_elements: action verbs, friendship vocabulary, emotional expressions, simple dialogue
