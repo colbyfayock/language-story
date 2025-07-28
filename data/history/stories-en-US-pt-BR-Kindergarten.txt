@@ -1,3 +1,10 @@
+key_phrase: "Vamos construir uma torre!"
+keywords: blocos, torre, construir, colorido, cair, tentar, sorrir
+theme: parent-child interaction through building block play
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian parent-child play interactions and encouragement
+teaching_elements: color vocabulary, basic counting, action verbs, simple dialogue, emotional resilience
+---
 key_phrase: "Vamos plantar uma horta!"
 keywords: horta, semente, plantar, terra, regar, crescer, legumes
 theme: first vegetable garden experience with grandparent
@@ -340,10 +347,3 @@ theme: nature observation and parent-child learning about bees
 grammar_focus: simple present tense, basic descriptive adjectives
 cultural_elements: Brazilian garden exploration and parent-child nature observation
 teaching_elements: nature vocabulary, animal sounds, descriptive words, simple dialogue
----
-key_phrase: "Vamos procurar um livro!"
-keywords: livraria, livro, colorido, estante, gato, procurar, surpresa
-theme: first bookstore visit and parent-child reading experience
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian bookstore experiences and parent-child interactions
-teaching_elements: book vocabulary, color words, animal vocabulary, simple dialogue
