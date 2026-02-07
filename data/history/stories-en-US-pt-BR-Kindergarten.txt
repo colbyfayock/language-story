@@ -1,3 +1,276 @@
+key_phrase: "Vamos construir uma torre!"
+keywords: blocos, torre, construir, colorido, cair, tentar, sorrir
+theme: parent-child interaction through building block play
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian parent-child play interactions and encouragement
+teaching_elements: color vocabulary, basic counting, action verbs, simple dialogue, emotional resilience
+---
+key_phrase: "Vamos plantar uma horta!"
+keywords: horta, semente, plantar, terra, regar, crescer, legumes
+theme: first vegetable garden experience with grandparent
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian family gardening and grandparent-child interactions
+teaching_elements: gardening vocabulary, color words, action verbs, simple dialogue, family relationships
+---
+key_phrase: "O avião de papel voa alto!"
+keywords: avião, papel, dobrar, colorido, amigo, sorrir, voar
+theme: classroom friendship building through paper airplane activity
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian classroom interactions and friendship building
+teaching_elements: classroom vocabulary, color words, action verbs, simple dialogue
+---
+key_phrase: "Vamos pular amarelinha!"
+keywords: amarelinha, pular, giz, número, amiga, recreio, aprender
+theme: first time playing hopscotch and friendship building at recess
+grammar_focus: simple present tense, basic counting
+cultural_elements: Brazilian playground games and childhood friendships
+teaching_elements: playground vocabulary, counting words, friendship concepts, simple dialogue
+---
+key_phrase: "O barco flutua na água!"
+keywords: barco, papel, dobrar, água, flutuar, soprar, brincar
+theme: parent-child creative activity and origami craft
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian family craft activities and parent-child interactions
+teaching_elements: craft vocabulary, action verbs, simple dialogue, family relationships
+---
+key_phrase: "Vamos ao cinema!"
+keywords: cinema, pipoca, doce, amigos, sessão, lanche, feliz
+theme: first movie theater experience and family entertainment
+grammar_focus: simple present tense, basic emotional expressions
+cultural_elements: Brazilian movie theater experiences and family entertainment
+teaching_elements: entertainment vocabulary, family relationships, emotional expressions, simple dialogue
+---
+key_phrase: "O coelho é fofinho!"
+keywords: coelho, cenoura, macio, fofinho, cerca, acariciar, alimentar
+theme: first mini zoo visit and parent-child animal interaction
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian family outings and animal interaction experiences
+teaching_elements: animal vocabulary, color words, action verbs, simple dialogue, emotional expressions
+---
+key_phrase: "Está muito frio hoje!"
+keywords: cachecol, frio, loja, experimentar, quentinho, macio, sorriso
+theme: winter clothing shopping and parent-child interaction
+grammar_focus: simple present tense, basic weather vocabulary
+cultural_elements: Brazilian shopping experiences and parent-child interactions
+teaching_elements: clothing vocabulary, weather words, emotional expressions, simple dialogue
+---
+key_phrase: "A borboleta dança no ar!"
+keywords: jardim, borboleta, voar, colorida, flor, asas, dançar
+theme: first butterfly sighting and parent-child nature discovery
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian garden exploration and parent-child nature observation
+teaching_elements: nature vocabulary, color words, movement verbs, simple dialogue
+---
+key_phrase: "Vamos fazer limonada!"
+keywords: limão, açúcar, água, coar, copo, suco, gelado
+theme: first time making lemonade and parent-child kitchen experience
+grammar_focus: simple present tense, basic food preparation vocabulary
+cultural_elements: Brazilian family kitchen activities and parent-child interactions
+teaching_elements: kitchen vocabulary, food preparation steps, family relationships, simple dialogue
+---
+key_phrase: "O dentista é legal!"
+keywords: dentista, cadeira, dente, examinar, sorriso, feliz, consulta
+theme: first dentist visit and parent-child medical experience
+grammar_focus: simple present tense, basic medical vocabulary
+cultural_elements: Brazilian healthcare experiences and parent-child support
+teaching_elements: medical vocabulary, emotional expressions, simple dialogue, family relationships
+---
+key_phrase: "Quero experimentar este vestido!"
+keywords: loja, roupa, vestido, bonito, experimentar, espelho, rosa
+theme: first clothing store visit and mother-daughter shopping experience
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian shopping experiences and mother-daughter interactions
+teaching_elements: clothing vocabulary, color words, emotional expressions, simple dialogue
+---
+key_phrase: "O cheiro está gostoso!"
+keywords: pipoca, milho, quente, barraca, fila, cheiro, gostoso
+theme: first outdoor food festival experience and parent-child sensory exploration
+grammar_focus: simple present tense, basic sensory descriptions
+cultural_elements: Brazilian street food festivals and parent-child interactions
+teaching_elements: food vocabulary, sensory words, waiting concepts, simple dialogue
+---
+key_phrase: "Quero uma lembrancinha!"
+keywords: lembrancinha, pinguim, pelúcia, brilhar, escolher, loja, prateleira
+theme: first gift shop experience and parent-child shopping interaction
+grammar_focus: simple present tense, basic expressions of desire
+cultural_elements: Brazilian gift shop experiences and parent-child interactions
+teaching_elements: shopping vocabulary, toy descriptions, emotional expressions, simple dialogue
+---
+key_phrase: "Meu lápis quebrou!"
+keywords: lápis, desenhar, apontar, caixa, quebrar, novo, professor
+theme: classroom problem-solving and teacher-student interaction
+grammar_focus: simple present tense, basic emotional expressions
+cultural_elements: Brazilian classroom experiences and teacher-student interactions
+teaching_elements: classroom vocabulary, emotional expressions, problem-solving dialogue, simple present tense
+---
+key_phrase: "Vamos construir um castelo!"
+keywords: castelo, praia, pá, balde, água, torre, construir
+theme: family beach activity and parent-child construction project
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian beach activities and family cooperation
+teaching_elements: beach vocabulary, construction concepts, family relationships, simple dialogue
+---
+key_phrase: "A pizza está pronta!"
+keywords: pizza, queijo, forno, massa, cozinheiro, cheiro, gostoso
+theme: first pizzeria visit and parent-child dining experience
+grammar_focus: simple present tense, basic food vocabulary
+cultural_elements: Brazilian pizzeria experiences and family dining
+teaching_elements: food vocabulary, sensory descriptions, family relationships, simple dialogue
+---
+key_phrase: "O tubarão é grande!"
+keywords: tubarão, aquário, peixe, água, golfinho, nadar, vidro, azul
+theme: first aquarium visit and parent-child discovery
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian family outings and parent-child discovery
+teaching_elements: animal vocabulary, color words, size concepts, simple dialogue
+---
+key_phrase: "O jardim é fantástico!"
+keywords: fantástico, olhar, voar, borboleta, visitar, jardim, alface, lagarta
+theme: first butterfly garden visit and parent-child nature learning
+grammar_focus: simple present tense, basic color adjectives
+cultural_elements: Brazilian nature appreciation and family outings
+teaching_elements: nature vocabulary, color words, transformation concepts, simple dialogue
+---
+key_phrase: "Vamos procurar conchas!"
+keywords: praia, concha, areia, balde, mar, sol, procurar, encontrar
+theme: beach exploration and parent-child interaction
+grammar_focus: simple present tense, basic color adjectives
+cultural_elements: Brazilian beach activities and parent-child interactions
+teaching_elements: beach vocabulary, color words, family relationships, simple dialogue
+---
+key_phrase: "Quero este doce aqui!"
+keywords: doceria, brigadeiro, sorvete, colorido, marrom, feliz, provar
+theme: first candy store visit and parent-child interaction
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian candy store experiences and parent-child interactions
+teaching_elements: food vocabulary, color words, emotional expressions, simple dialogue
+---
+key_phrase: "Vamos esperar na fila!"
+keywords: suco, fila, esperar, paciência, sorriso, manga, sede
+theme: learning patience while waiting in line at smoothie shop
+grammar_focus: simple present tense, basic counting
+cultural_elements: Brazilian smoothie shops and waiting in line etiquette
+teaching_elements: counting, patience concepts, fruit vocabulary, simple dialogue
+---
+key_phrase: "Vamos arrumar a mesa!"
+keywords: jantar, mesa, ajudar, prato, talher, fome, cozinha
+theme: family dinner preparation and cooperative mealtime routines
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian family mealtime preparation and family cooperation
+teaching_elements: family vocabulary, mealtime routines, action verbs, simple dialogue
+---
+key_phrase: "Quero meu cartão da biblioteca!"
+keywords: biblioteca, cartão, livros, estante, quieto, escolher, feliz
+theme: first library visit and getting a library card
+grammar_focus: simple present tense, basic adjectives
+cultural_elements: Brazilian library experiences and parent-child interactions
+teaching_elements: library vocabulary, behavior words, emotional expressions, simple dialogue
+---
+key_phrase: "O pãozinho está quentinho!"
+keywords: padaria, pãozinho, balcão, cheiro, fila, doce, sorriso
+theme: first bakery visit and family shopping experience
+grammar_focus: simple present tense, basic descriptive words
+cultural_elements: Brazilian bakery experiences and parent-child interactions
+teaching_elements: food vocabulary, family relationships, sensory descriptions, simple dialogue
+---
+key_phrase: "O peixinho nada feliz!"
+keywords: peixinho, aquário, bolhas, nadar, alimentar, colorido, loja
+theme: pet store visit and fish observation
+grammar_focus: simple present tense, basic descriptive words
+cultural_elements: Brazilian pet store experiences and parent-child interactions
+teaching_elements: pet vocabulary, color words, action verbs, simple dialogue
+---
+key_phrase: "A caverna é escura!"
+keywords: caverna, escuro, lanterna, morcego, aventura, explorar, brilho
+theme: parent-child cave exploration and overcoming fears
+grammar_focus: simple present tense, basic descriptive adjectives
+cultural_elements: Brazilian parent-child adventure and nature exploration
+teaching_elements: nature vocabulary, family relationships, simple dialogue, emotional expressions
+---
+key_phrase: "O vovô tem um jardim bonito!"
+keywords: vovô, jardim, pássaro, cantar, almoço, abraçar, roxo
+theme: visiting grandparent and garden observation
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian family relationships and grandparent visits
+teaching_elements: family vocabulary, color words, nature vocabulary, simple dialogue
+---
+key_phrase: "O trem faz piuí-piuí!"
+keywords: trem, apito, vagão, brincar, manhã, trilho, quarto
+theme: morning playtime and parent-child interaction with toy train
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian family morning playtime and parent-child interactions
+teaching_elements: toy vocabulary, color words, sound words, simple dialogue, family relationships
+---
+key_phrase: "Vamos fazer ginástica!"
+keywords: ginástica, manhã, caminhar, treinar, família, saudável, parque
+theme: family morning exercise routine and healthy activities
+grammar_focus: simple present tense, basic action verbs
+cultural_elements: Brazilian family fitness activities and morning routines
+teaching_elements: exercise vocabulary, family relationships, action verbs, simple dialogue
+---
+key_phrase: "Vamos fazer cartões de amor!"
+keywords: namorados, coração, cartão, vermelho, brilhante, amor, família
+theme: family craft activity and expressing love through cardmaking
+grammar_focus: simple present tense, basic emotional expressions
+cultural_elements: Brazilian family expressions of love and craft activities
+teaching_elements: family vocabulary, color words, emotional expressions, simple dialogue
+---
+key_phrase: "O pandeiro faz tim-tim-tim!"
+keywords: pandeiro, dançar, cantar, festa, prima, palmas, divertida
+theme: family party celebration with music and dance
+grammar_focus: simple present tense, basic emotional expressions
+cultural_elements: Brazilian family gatherings and musical traditions
+teaching_elements: family vocabulary, music words, emotional expressions, simple dialogue
+---
+key_phrase: "O carrinho faz vrum-vrum!"
+keywords: carrinho, brincar, barulho, vrum, garagem, corrida, pista
+theme: parent-child playtime with toy cars
+grammar_focus: simple present tense, basic color vocabulary
+cultural_elements: Brazilian family playtime and parent-child interactions
+teaching_elements: toy vocabulary, color words, sound words, simple dialogue, family relationships
+---
+key_phrase: "Vamos fazer um desenho bonito!"
+keywords: caderno, lápis, círculo, quadrado, cor, azul, amarelo, professora, desenho
+theme: classroom art activity and teacher-student interaction
+grammar_focus: simple present tense, basic color and shape vocabulary
+cultural_elements: Brazilian classroom art activities and teacher-student interactions
+teaching_elements: art vocabulary, color words, shape words, classroom dialogue, positive reinforcement
+---
+key_phrase: "Vamos soltar pipa!"
+keywords: pipa, voar, amigo, vento, brincar, céu, colorido
+theme: making friends through shared activities at playground
+grammar_focus: simple present tense, basic greetings
+cultural_elements: Brazilian playground social interactions and kite flying traditions
+teaching_elements: friendship vocabulary, color words, weather concepts, simple dialogue
+---
+key_phrase: "As galinhas fazem có-có-có!"
+keywords: galinha, ovo, filhote, grão, ninho, bicada, fazenda
+theme: first farm visit and parent-child animal observation
+grammar_focus: simple present tense, basic counting
+cultural_elements: Brazilian farm experiences and parent-child interactions
+teaching_elements: animal vocabulary, counting words, color words, simple dialogue
+---
+key_phrase: "Vamos fazer um ritmo!"
+keywords: tambor, batucar, ritmo, instrumento, tocar, dançar, amigos
+theme: making music with friends and family interaction
+grammar_focus: simple present tense, basic musical vocabulary
+cultural_elements: Brazilian musical instruments and rhythm-making
+teaching_elements: music vocabulary, action verbs, friendship words, simple dialogue
+---
+key_phrase: "As flores têm perfume!"
+keywords: floricultura, perfume, cheirar, margarida, vaso, bonita, alegre
+theme: first flower shop visit and parent-child sensory exploration
+grammar_focus: simple present tense, basic color adjectives
+cultural_elements: Brazilian flower shop experiences and parent-child interactions
+teaching_elements: flower vocabulary, color words, sensory descriptions, simple dialogue
+---
+key_phrase: "Estou com sede!"
+keywords: leite, sede, cozinha, geladeira, mamãe, servir, delicioso
+theme: kitchen routines and parent-child interaction
+grammar_focus: simple present tense, basic requests
+cultural_elements: Brazilian family interactions and kitchen routines
+teaching_elements: food vocabulary, family relationships, simple dialogue, polite expressions
+---
 key_phrase: "A girafa é muito alta!"
 keywords: zoológico, girafa, pescoço, alto, passear, admirar, filha
 theme: zoo visit and parent-child interaction
@@ -74,276 +347,3 @@ theme: nature observation and parent-child learning about bees
 grammar_focus: simple present tense, basic descriptive adjectives
 cultural_elements: Brazilian garden exploration and parent-child nature observation
 teaching_elements: nature vocabulary, animal sounds, descriptive words, simple dialogue
----
-key_phrase: "Vamos procurar um livro!"
-keywords: livraria, livro, colorido, estante, gato, procurar, surpresa
-theme: first bookstore visit and parent-child reading experience
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian bookstore experiences and parent-child interactions
-teaching_elements: book vocabulary, color words, animal vocabulary, simple dialogue
----
-key_phrase: "O avião está no céu!"
-keywords: avião, parque, brincar, correr, voar, amigo, feliz
-theme: outdoor play and imagination at the park
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian children's outdoor play and friendship
-teaching_elements: action verbs, friendship vocabulary, emotional expressions, simple dialogue
----
-key_phrase: "Vamos fazer bolhas!"
-keywords: bolhas, soprar, compartilhar, parque, sorriso, brincar, amigo
-theme: making friends through sharing and playground interaction
-grammar_focus: simple present tense, basic greetings
-cultural_elements: Brazilian playground social interactions and friendship building
-teaching_elements: friendship vocabulary, sharing concepts, emotional expressions, simple dialogue
----
-key_phrase: "Vamos fazer biscoitos!"
-keywords: biscoito, forno, doce, assado, medir, misturar, gostoso
-theme: family cooking activity and grandparent-child bonding
-grammar_focus: simple present tense, basic kitchen vocabulary
-cultural_elements: Brazilian family cooking traditions and grandparent-child interactions
-teaching_elements: kitchen vocabulary, basic dialogue, cooking actions, family relationships
----
-key_phrase: "Vamos ajudar a dobrar!"
-keywords: roupa, dobrar, cesto, limpo, pequeno, pilha, família
-theme: helping with household chores and family cooperation
-grammar_focus: simple present tense, basic action verbs
-cultural_elements: Brazilian family chores and parent-child cooperation
-teaching_elements: household vocabulary, action verbs, family relationships, simple dialogue
----
-key_phrase: "As frutas são coloridas!"
-keywords: loja, fruta, maçã, suco, tia, provar, delícia
-theme: First visit to fruit store and family shopping experience
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian fruit store experiences and aunt-nephew interactions
-teaching_elements: food vocabulary, color words, number counting, simple dialogue
----
-key_phrase: "Tenho uma surpresa para você!"
-keywords: presente, surpresa, caixa, laço, papel, irmã, aniversário
-theme: gift-giving and sibling relationships
-grammar_focus: simple present tense, basic descriptive words
-cultural_elements: Brazilian family gift-giving and sibling interactions
-teaching_elements: family vocabulary, emotional expressions, simple dialogue, color words
----
-key_phrase: "Quer brincar comigo?"
-keywords: boneca, parque, brincar, amiga, emprestar, abraçar, sorriso
-theme: making friends through sharing and playground interaction
-grammar_focus: simple present tense, basic greetings
-cultural_elements: Brazilian playground social interactions and friendship building
-teaching_elements: friendship vocabulary, sharing concepts, emotional expressions, simple dialogue
----
-key_phrase: "A avó precisa de ajuda!"
-keywords: regador, avó, plantas, jardim, água, molhar, feliz
-theme: helping grandma with garden tasks and family bonding
-grammar_focus: simple present tense, basic action verbs
-cultural_elements: Brazilian family relationships and intergenerational bonding
-teaching_elements: garden vocabulary, family words, action verbs, helping behaviors
----
-key_phrase: "Quero experimentar!"
-keywords: almoço, comida, experimentar, sopa, cenoura, cozinha, novo
-theme: family mealtime and trying new foods
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian family mealtime traditions and parent-child interactions
-teaching_elements: food vocabulary, emotional expressions, simple dialogue, family relationships
----
-key_phrase: "Quero este sabor!"
-keywords: sorveteria, sabor, colorido, contar, família, feliz, delícia
-theme: ice cream shop visit and number counting
-grammar_focus: simple present tense, basic numbers, colors
-cultural_elements: Brazilian ice cream shop experience and family interactions
-teaching_elements: number counting, color vocabulary, food words, simple dialogue
----
-key_phrase: "Vamos desenhar juntos!"
-keywords: pincel, papel, desenhar, pintar, colorido, professor, criança
-theme: art class activities and creative expression
-grammar_focus: simple present tense, basic color vocabulary
-cultural_elements: Brazilian classroom art activities and teacher-student interactions
-teaching_elements: art vocabulary, color words, classroom dialogue, creative activities
----
-key_phrase: "Estou com sono!"
-keywords: sonolento, travesseiro, coberta, pijama, estrela, beijo, macio
-theme: bedtime routines and parent-child interaction
-grammar_focus: simple present tense, basic adjectives
-cultural_elements: Brazilian bedtime routines and parent-child interactions
-teaching_elements: bedtime vocabulary, emotional expressions, family relationships, simple dialogue
----
-key_phrase: "Vamos lanchar juntos!"
-keywords: lanche, sanduíche, amigos, recreio, dividir, mesa, feliz
-theme: school snack time and friendship building
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian school snack time traditions and friendship building
-teaching_elements: food vocabulary, sharing concepts, friendship words, simple dialogue
----
-key_phrase: "O avião de papel voa alto!"
-keywords: papel, avião, voar, dobrar, janela, alto, sorriso
-theme: indoor creative play and parent-child bonding
-grammar_focus: simple present tense, basic action verbs
-cultural_elements: Brazilian family indoor activities and parent-child creative play
-teaching_elements: craft vocabulary, action verbs, simple dialogue, spatial concepts
----
-key_phrase: "Vamos fazer chocolate quente!"
-keywords: cacau, fazer, chocolate, família, delicioso, quente, cheiro
-theme: indoor winter activity and family bonding
-grammar_focus: simple present tense, basic sensory vocabulary
-cultural_elements: Brazilian winter comfort foods and parent-child interactions
-teaching_elements: temperature words, food vocabulary, family relationships, sensory descriptions
----
-key_phrase: "Está muito calor!"
-keywords: calor, ventilador, água, banho, gelado, beber, feliz
-theme: summer heat and cooling activities
-grammar_focus: simple present tense, basic weather vocabulary
-cultural_elements: Brazilian summer heat management and parent-child interactions
-teaching_elements: weather vocabulary, temperature words, simple dialogue, cooling activities
----
-key_phrase: "A borboleta é linda!"
-keywords: borboleta, jardim, flor, voar, colorida, mamãe, quieta
-theme: nature observation and parent-child interaction
-grammar_focus: simple present tense, basic color vocabulary
-cultural_elements: Brazilian garden exploration and parent-child nature observation
-teaching_elements: nature vocabulary, color words, emotional expressions, simple dialogue
----
-key_phrase: "A mesa está pronta!"
-keywords: café, pão, manteiga, mesa, filho, alegre
-theme: morning breakfast routine and parent-child interaction
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian breakfast routines and father-son interactions
-teaching_elements: food vocabulary, family relationships, simple dialogue, morning routines
----
-key_phrase: "Quero sorvete de morango!"
-keywords: sorvete, sabor, delicioso, escolher, feliz, sorrir, fila
-theme: ice cream shop visit and parent-child interaction
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian ice cream shop experience and parent-child interactions
-teaching_elements: food vocabulary, emotional expressions, simple dialogue, flavor words
----
-key_phrase: "A aula vai começar!"
-keywords: mochila, uniforme, aula, professor, começar, pronto, cadeira
-theme: morning school preparation and routines
-grammar_focus: simple present tense, basic time concepts
-cultural_elements: Brazilian school routines and parent-child interactions
-teaching_elements: school vocabulary, color words, sequential actions, emotional expressions
----
-key_phrase: "A formiga quer comida!"
-keywords: formiga, picnic, parque, comida, família, dia, sol
-theme: family picnic and interaction with nature
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian outdoor family activities and child-nature interactions
-teaching_elements: nature vocabulary, family relationships, simple dialogue, emotional expressions
----
-key_phrase: "Os bichinhos são fofos!"
-keywords: loja, aquarinho, filhote, gatinho, ração, carinho, vitrine
-theme: first visit to pet store and animal observation
-grammar_focus: simple present tense, basic animal vocabulary
-cultural_elements: Brazilian pet store experiences and parent-child interactions
-teaching_elements: animal vocabulary, emotions, diminutives, simple dialogue
----
-key_phrase: "O café da manhã está pronto!"
-keywords: café da manhã, leite, biscoito, mesa, mamãe, manhã, feliz
-theme: breakfast routines and family interactions
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian breakfast routines and parent-child interactions
-teaching_elements: food vocabulary, basic dialogue, family relationships, simple descriptive words
----
-key_phrase: "O gato quer brincar!"
-keywords: gato, rato, cama, dormir, feliz, macio, cinza
-theme: unexpected animal friendship and playtime
-grammar_focus: simple present tense, basic colors and actions
-cultural_elements: Brazilian household pets and playful interactions
-teaching_elements: animal vocabulary, color words, emotional expressions, simple dialogue
----
-key_phrase: "O elefante toma banho!"
-keywords: elefante, banho, mangueira, quintal, refrescar, diversão, molhado
-theme: outdoor water play and imaginative fun
-grammar_focus: simple present tense, basic weather vocabulary
-cultural_elements: Brazilian summer outdoor activities and parent-child interactions
-teaching_elements: weather vocabulary, play activities, emotional expressions, simple dialogue
----
-key_phrase: "Os peixinhos são coloridos!"
-keywords: lojinha, peixinho, aquário, colorido, nadar, amarelo, feliz
-theme: pet store visit and family interaction
-grammar_focus: simple present tense, basic numbers, colors
-cultural_elements: Brazilian pet store experiences and parent-child interactions
-teaching_elements: animal vocabulary, color words, number counting, simple dialogue
----
-key_phrase: "O sol está brilhando!"
-keywords: sol, brilhar, dia, céu, nuvem, parque, roda-gigante
-theme: weather observation and outdoor activities
-grammar_focus: simple present tense, basic weather vocabulary
-cultural_elements: Brazilian outdoor recreation and parent-child interactions
-teaching_elements: weather vocabulary, basic dialogue, family relationships, simple descriptive words
----
-key_phrase: "A piscina está fresquinha!"
-keywords: piscina, mergulhar, brincar, molhado, verão, legal, refrescar
-theme: summer activities and water play
-grammar_focus: simple present tense, basic weather vocabulary
-cultural_elements: Brazilian summer pool activities and parent-child interactions
-teaching_elements: weather vocabulary, water activities, emotional expressions, basic dialogue
----
-key_phrase: "Vamos jogar videogame!"
-keywords: jogo, videogame, irmão, jogar, ganhar, diversão, juntos
-theme: family gaming and sibling bonding
-grammar_focus: simple present tense, basic family vocabulary
-cultural_elements: Brazilian family gaming traditions and sibling interactions
-teaching_elements: technology vocabulary, family relationships, emotional expressions, basic dialogue
----
-key_phrase: "O pato está nadando!"
-keywords: pato, lago, nadar, pequeno, amarelo, alegre, amigo
-theme: nature observation and animal interaction
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian children's interaction with nature
-teaching_elements: animal vocabulary, color words, emotional expressions, simple dialogue
----
-key_phrase: "Vamos soprar as velas!"
-keywords: balão, mesa, bolo, vela, soprar, aniversário, cantar
-theme: birthday celebration and family traditions
-grammar_focus: simple present tense, basic color vocabulary
-cultural_elements: Brazilian birthday celebrations and family interactions
-teaching_elements: birthday vocabulary, color words, simple dialogue, emotional expressions
----
-key_phrase: "Olha o cachorrinho!"
-keywords: cachorrinho, vitrine, latir, fofo, filhote, foto, especial
-theme: pet shop visit and family interaction
-grammar_focus: simple present tense, basic animal vocabulary
-cultural_elements: Brazilian pet shops and parent-child interactions
-teaching_elements: animal vocabulary, emotional expressions, simple dialogue
----
-key_phrase: "Quero pão quentinho!"
-keywords: padaria, pão, cheirar, quente, fresco, fila, cliente
-theme: family shopping at local bakery
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian bakery experience and parent-child interactions
-teaching_elements: food vocabulary, basic dialogue, sensory descriptions
----
-key_phrase: "Vamos fazer pizza!"
-keywords: cozinha, queijo, massa, família, misturar, juntos, molho
-theme: family cooking activity and collaboration
-grammar_focus: simple present tense, basic food vocabulary
-cultural_elements: Brazilian family cooking traditions and parent-child interactions
-teaching_elements: food vocabulary, family members, action verbs, collaborative activities
----
-key_phrase: "Quero este brinquedo!"
-keywords: loja de brinquedos, robô, brilhante, escolher, comprar, pai, dinheiro
-theme: toy store shopping and parent-child interaction
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian toy store experiences and parent-child shopping interactions
-teaching_elements: shopping vocabulary, basic dialogue, emotional expressions
----
-key_phrase: "O cavalo é manso!"
-keywords: cavalo, campo, flores, caminho, comer, grama, manso
-theme: countryside visit and animal observation
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian rural environments and parent-child nature experiences
-teaching_elements: animal vocabulary, nature words, emotional expressions
----
-key_phrase: "Vamos contar juntos!"
-keywords: números, pular, escola, amigos, professor, sala, cinco
-theme: classroom number learning and group activities
-grammar_focus: simple present tense, basic numbers
-cultural_elements: Brazilian classroom activities and teacher-student interactions
-teaching_elements: number vocabulary, basic counting, classroom participation
----
-key_phrase: "É hora de contar histórias!"
-keywords: livro, história, voz, dormir, noite, estrela, sonho
-theme: family bedtime storytelling and nighttime routines
-grammar_focus: simple present tense, basic descriptive adjectives
-cultural_elements: Brazilian family bedtime routines and parent-child storytelling
-teaching_elements: bedtime vocabulary, family relationships, basic dialogue, emotional expressions
