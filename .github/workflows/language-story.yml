@@ -1,8 +1,10 @@
 name: Language Story
 
+# Disabled: Remove the schedule trigger to stop automatic runs
+# To re-enable, uncomment the schedule section below
 on:
-  schedule:
-    - cron: '0 13 * * *' # 8:00am EST
+  # schedule:
+  #   - cron: '0 13 * * *' # 8:00am EST
   workflow_dispatch:
 
 jobs:

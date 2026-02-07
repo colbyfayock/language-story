@@ -23,8 +23,11 @@ variables, then Actions and add the following Secrets:
 | MAIL_FROM         | Yes      | from@example.com |
 | MAIL_TO           | Yes      | to@example.com   |
 | RESEND_API_KEY    | Yes      | abc1234          |
+| XATA_DATABASE_URL | No       | xata://...       |
 
 If `ELEVENLABS_API_KEY` is not configured, it will skip generating audio.
+
+> **Note:** The Xata database has been removed and needs to be migrated to a new solution if database functionality is required.
 
 To configure Actions permissions, navigate to Settings, Actions, then find the Workflow Permissions to configure Read & Write.
 
